@@ -1,0 +1,1738 @@
+﻿[
+    {
+        "iso2":  "AF",
+        "iso3":  "AFG",
+        "name":  "Afghanistan",
+        "geoId":  3,
+        "defaultCultureId":  "fa-AF"
+    },
+    {
+        "iso2":  "AX",
+        "iso3":  "ALA",
+        "name":  "Åland Islands",
+        "geoId":  10028789,
+        "defaultCultureId":  "sv-AX"
+    },
+    {
+        "iso2":  "AL",
+        "iso3":  "ALB",
+        "name":  "Albania",
+        "geoId":  6,
+        "defaultCultureId":  "sq-AL"
+    },
+    {
+        "iso2":  "DZ",
+        "iso3":  "DZA",
+        "name":  "Algeria",
+        "geoId":  6,
+        "defaultCultureId":  "ar-DZ"
+    },
+    {
+        "iso2":  "AS",
+        "iso3":  "ASM",
+        "name":  "American Samoa",
+        "geoId":  10,
+        "defaultCultureId":  "en-AS"
+    },
+    {
+        "iso2":  "AD",
+        "iso3":  "AND",
+        "name":  "Andorra",
+        "geoId":  8,
+        "defaultCultureId":  "ca-AD"
+    },
+    {
+        "iso2":  "AO",
+        "iso3":  "AGO",
+        "name":  "Angola",
+        "geoId":  9,
+        "defaultCultureId":  "ln-AO"
+    },
+    {
+        "iso2":  "AI",
+        "iso3":  "AIA",
+        "name":  "Anguilla",
+        "geoId":  300,
+        "defaultCultureId":  "en-AI"
+    },
+    {
+        "iso2":  "AG",
+        "iso3":  "ATG",
+        "name":  "Antigua \u0026 Barbuda",
+        "geoId":  2,
+        "defaultCultureId":  "en-AG"
+    },
+    {
+        "iso2":  "AR",
+        "iso3":  "ARG",
+        "name":  "Argentina",
+        "geoId":  11,
+        "defaultCultureId":  "es-AR"
+    },
+    {
+        "iso2":  "AM",
+        "iso3":  "ARM",
+        "name":  "Armenia",
+        "geoId":  7,
+        "defaultCultureId":  "hy-AM"
+    },
+    {
+        "iso2":  "AW",
+        "iso3":  "ABW",
+        "name":  "Aruba",
+        "geoId":  302,
+        "defaultCultureId":  "nl-AW"
+    },
+    {
+        "iso2":  "AU",
+        "iso3":  "AUS",
+        "name":  "Australia",
+        "geoId":  12,
+        "defaultCultureId":  "en-AU"
+    },
+    {
+        "iso2":  "AT",
+        "iso3":  "AUT",
+        "name":  "Austria",
+        "geoId":  14,
+        "defaultCultureId":  "de-AT"
+    },
+    {
+        "iso2":  "AZ",
+        "iso3":  "AZE",
+        "name":  "Azerbaijan",
+        "geoId":  5,
+        "defaultCultureId":  "az-Cyrl-AZ"
+    },
+    {
+        "iso2":  "BS",
+        "iso3":  "BHS",
+        "name":  "Bahamas",
+        "geoId":  22,
+        "defaultCultureId":  "en-BS"
+    },
+    {
+        "iso2":  "BH",
+        "iso3":  "BHR",
+        "name":  "Bahrain",
+        "geoId":  17,
+        "defaultCultureId":  "ar-BH"
+    },
+    {
+        "iso2":  "BD",
+        "iso3":  "BGD",
+        "name":  "Bangladesh",
+        "geoId":  23,
+        "defaultCultureId":  "bn-BD"
+    },
+    {
+        "iso2":  "BB",
+        "iso3":  "BRB",
+        "name":  "Barbados",
+        "geoId":  18,
+        "defaultCultureId":  "en-BB"
+    },
+    {
+        "iso2":  "BY",
+        "iso3":  "BLR",
+        "name":  "Belarus",
+        "geoId":  29,
+        "defaultCultureId":  "be-BY"
+    },
+    {
+        "iso2":  "BE",
+        "iso3":  "BEL",
+        "name":  "Belgium",
+        "geoId":  21,
+        "defaultCultureId":  "de-BE"
+    },
+    {
+        "iso2":  "BZ",
+        "iso3":  "BLZ",
+        "name":  "Belize",
+        "geoId":  24,
+        "defaultCultureId":  "en-BZ"
+    },
+    {
+        "iso2":  "BJ",
+        "iso3":  "BEN",
+        "name":  "Benin",
+        "geoId":  28,
+        "defaultCultureId":  "fr-BJ"
+    },
+    {
+        "iso2":  "BM",
+        "iso3":  "BMU",
+        "name":  "Bermuda",
+        "geoId":  20,
+        "defaultCultureId":  "en-BM"
+    },
+    {
+        "iso2":  "BT",
+        "iso3":  "BTN",
+        "name":  "Bhutan",
+        "geoId":  34,
+        "defaultCultureId":  "dz-BT"
+    },
+    {
+        "iso2":  "BO",
+        "iso3":  "BOL",
+        "name":  "Bolivia",
+        "geoId":  26,
+        "defaultCultureId":  "es-BO"
+    },
+    {
+        "iso2":  "BQ",
+        "iso3":  "BES",
+        "name":  "Bonaire, Sint Eustatius and Saba",
+        "geoId":  161832258,
+        "defaultCultureId":  "nl-BQ"
+    },
+    {
+        "iso2":  "BA",
+        "iso3":  "BIH",
+        "name":  "Bosnia and Herzegovina",
+        "geoId":  25,
+        "defaultCultureId":  "bs-Cyrl-BA"
+    },
+    {
+        "iso2":  "BW",
+        "iso3":  "BWA",
+        "name":  "Botswana",
+        "geoId":  19,
+        "defaultCultureId":  "en-BW"
+    },
+    {
+        "iso2":  "BR",
+        "iso3":  "BRA",
+        "name":  "Brazil",
+        "geoId":  32,
+        "defaultCultureId":  "es-BR"
+    },
+    {
+        "iso2":  "IO",
+        "iso3":  "IOT",
+        "name":  "British Indian Ocean Territory",
+        "geoId":  114,
+        "defaultCultureId":  "en-IO"
+    },
+    {
+        "iso2":  "VG",
+        "iso3":  "VGB",
+        "name":  "British Virgin Islands",
+        "geoId":  351,
+        "defaultCultureId":  "en-VG"
+    },
+    {
+        "iso2":  "BN",
+        "iso3":  "BRN",
+        "name":  "Brunei",
+        "geoId":  37,
+        "defaultCultureId":  "ms-BN"
+    },
+    {
+        "iso2":  "BG",
+        "iso3":  "BGR",
+        "name":  "Bulgaria",
+        "geoId":  35,
+        "defaultCultureId":  "bg-BG"
+    },
+    {
+        "iso2":  "BF",
+        "iso3":  "BFA",
+        "name":  "Burkina Faso",
+        "geoId":  245,
+        "defaultCultureId":  "ff-Adlm-BF"
+    },
+    {
+        "iso2":  "BI",
+        "iso3":  "BDI",
+        "name":  "Burundi",
+        "geoId":  38,
+        "defaultCultureId":  "en-BI"
+    },
+    {
+        "iso2":  "CV",
+        "iso3":  "CPV",
+        "name":  "Cabo Verde",
+        "geoId":  57,
+        "defaultCultureId":  "kea-CV"
+    },
+    {
+        "iso2":  "KH",
+        "iso3":  "KHM",
+        "name":  "Cambodia",
+        "geoId":  40,
+        "defaultCultureId":  "km-KH"
+    },
+    {
+        "iso2":  "CM",
+        "iso3":  "CMR",
+        "name":  "Cameroon",
+        "geoId":  49,
+        "defaultCultureId":  "agq-CM"
+    },
+    {
+        "iso2":  "CA",
+        "iso3":  "CAN",
+        "name":  "Canada",
+        "geoId":  39,
+        "defaultCultureId":  "en-CA"
+    },
+    {
+        "iso2":  "029",
+        "iso3":  "029",
+        "name":  "Caribbean",
+        "geoId":  10039880,
+        "defaultCultureId":  "en-029"
+    },
+    {
+        "iso2":  "KY",
+        "iso3":  "CYM",
+        "name":  "Cayman Islands",
+        "geoId":  307,
+        "defaultCultureId":  "en-KY"
+    },
+    {
+        "iso2":  "CF",
+        "iso3":  "CAF",
+        "name":  "Central African Republic",
+        "geoId":  55,
+        "defaultCultureId":  "fr-CF"
+    },
+    {
+        "iso2":  "TD",
+        "iso3":  "TCD",
+        "name":  "Chad",
+        "geoId":  41,
+        "defaultCultureId":  "ar-TD"
+    },
+    {
+        "iso2":  "CL",
+        "iso3":  "CHL",
+        "name":  "Chile",
+        "geoId":  46,
+        "defaultCultureId":  "arn-CL"
+    },
+    {
+        "iso2":  "CN",
+        "iso3":  "CHN",
+        "name":  "China",
+        "geoId":  45,
+        "defaultCultureId":  "bo-CN"
+    },
+    {
+        "iso2":  "CX",
+        "iso3":  "CXR",
+        "name":  "Christmas Island",
+        "geoId":  309,
+        "defaultCultureId":  "en-CX"
+    },
+    {
+        "iso2":  "CC",
+        "iso3":  "CCK",
+        "name":  "Cocos (Keeling) Islands",
+        "geoId":  311,
+        "defaultCultureId":  "en-CC"
+    },
+    {
+        "iso2":  "CO",
+        "iso3":  "COL",
+        "name":  "Colombia",
+        "geoId":  51,
+        "defaultCultureId":  "es-CO"
+    },
+    {
+        "iso2":  "KM",
+        "iso3":  "COM",
+        "name":  "Comoros",
+        "geoId":  50,
+        "defaultCultureId":  "ar-KM"
+    },
+    {
+        "iso2":  "CG",
+        "iso3":  "COG",
+        "name":  "Congo",
+        "geoId":  43,
+        "defaultCultureId":  "fr-CG"
+    },
+    {
+        "iso2":  "CD",
+        "iso3":  "COD",
+        "name":  "Congo (DRC)",
+        "geoId":  44,
+        "defaultCultureId":  "fr-CD"
+    },
+    {
+        "iso2":  "CK",
+        "iso3":  "COK",
+        "name":  "Cook Islands",
+        "geoId":  312,
+        "defaultCultureId":  "en-CK"
+    },
+    {
+        "iso2":  "CR",
+        "iso3":  "CRI",
+        "name":  "Costa Rica",
+        "geoId":  54,
+        "defaultCultureId":  "es-CR"
+    },
+    {
+        "iso2":  "CI",
+        "iso3":  "CIV",
+        "name":  "Côte d’Ivoire",
+        "geoId":  119,
+        "defaultCultureId":  "fr-CI"
+    },
+    {
+        "iso2":  "HR",
+        "iso3":  "HRV",
+        "name":  "Croatia",
+        "geoId":  108,
+        "defaultCultureId":  "hr-HR"
+    },
+    {
+        "iso2":  "CU",
+        "iso3":  "CUB",
+        "name":  "Cuba",
+        "geoId":  56,
+        "defaultCultureId":  "es-CU"
+    },
+    {
+        "iso2":  "CW",
+        "iso3":  "CUW",
+        "name":  "Curaçao",
+        "geoId":  273,
+        "defaultCultureId":  "nl-CW"
+    },
+    {
+        "iso2":  "CY",
+        "iso3":  "CYP",
+        "name":  "Cyprus",
+        "geoId":  59,
+        "defaultCultureId":  "el-CY"
+    },
+    {
+        "iso2":  "CZ",
+        "iso3":  "CZE",
+        "name":  "Czechia",
+        "geoId":  75,
+        "defaultCultureId":  "cs-CZ"
+    },
+    {
+        "iso2":  "DK",
+        "iso3":  "DNK",
+        "name":  "Denmark",
+        "geoId":  61,
+        "defaultCultureId":  "da-DK"
+    },
+    {
+        "iso2":  "DJ",
+        "iso3":  "DJI",
+        "name":  "Djibouti",
+        "geoId":  62,
+        "defaultCultureId":  "aa-DJ"
+    },
+    {
+        "iso2":  "DM",
+        "iso3":  "DMA",
+        "name":  "Dominica",
+        "geoId":  63,
+        "defaultCultureId":  "en-DM"
+    },
+    {
+        "iso2":  "DO",
+        "iso3":  "DOM",
+        "name":  "Dominican Republic",
+        "geoId":  65,
+        "defaultCultureId":  "es-DO"
+    },
+    {
+        "iso2":  "EC",
+        "iso3":  "ECU",
+        "name":  "Ecuador",
+        "geoId":  66,
+        "defaultCultureId":  "es-EC"
+    },
+    {
+        "iso2":  "EG",
+        "iso3":  "EGY",
+        "name":  "Egypt",
+        "geoId":  67,
+        "defaultCultureId":  "ar-EG"
+    },
+    {
+        "iso2":  "SV",
+        "iso3":  "SLV",
+        "name":  "El Salvador",
+        "geoId":  72,
+        "defaultCultureId":  "es-SV"
+    },
+    {
+        "iso2":  "GQ",
+        "iso3":  "GNQ",
+        "name":  "Equatorial Guinea",
+        "geoId":  69,
+        "defaultCultureId":  "es-GQ"
+    },
+    {
+        "iso2":  "ER",
+        "iso3":  "ERI",
+        "name":  "Eritrea",
+        "geoId":  71,
+        "defaultCultureId":  "aa-ER"
+    },
+    {
+        "iso2":  "EE",
+        "iso3":  "EST",
+        "name":  "Estonia",
+        "geoId":  70,
+        "defaultCultureId":  "et-EE"
+    },
+    {
+        "iso2":  "SZ",
+        "iso3":  "SWZ",
+        "name":  "Eswatini",
+        "geoId":  260,
+        "defaultCultureId":  "en-SZ"
+    },
+    {
+        "iso2":  "ET",
+        "iso3":  "ETH",
+        "name":  "Ethiopia",
+        "geoId":  73,
+        "defaultCultureId":  "aa-ET"
+    },
+    {
+        "iso2":  "150",
+        "iso3":  "150",
+        "name":  "Europe",
+        "geoId":  10541,
+        "defaultCultureId":  "en-150"
+    },
+    {
+        "iso2":  "FK",
+        "iso3":  "FLK",
+        "name":  "Falkland Islands",
+        "geoId":  315,
+        "defaultCultureId":  "en-FK"
+    },
+    {
+        "iso2":  "FO",
+        "iso3":  "FRO",
+        "name":  "Faroe Islands",
+        "geoId":  81,
+        "defaultCultureId":  "fo-FO"
+    },
+    {
+        "iso2":  "FJ",
+        "iso3":  "FJI",
+        "name":  "Fiji",
+        "geoId":  78,
+        "defaultCultureId":  "en-FJ"
+    },
+    {
+        "iso2":  "FI",
+        "iso3":  "FIN",
+        "name":  "Finland",
+        "geoId":  77,
+        "defaultCultureId":  "en-FI"
+    },
+    {
+        "iso2":  "FR",
+        "iso3":  "FRA",
+        "name":  "France",
+        "geoId":  84,
+        "defaultCultureId":  "br-FR"
+    },
+    {
+        "iso2":  "GF",
+        "iso3":  "GUF",
+        "name":  "French Guiana",
+        "geoId":  317,
+        "defaultCultureId":  "fr-GF"
+    },
+    {
+        "iso2":  "PF",
+        "iso3":  "PYF",
+        "name":  "French Polynesia",
+        "geoId":  318,
+        "defaultCultureId":  "fr-PF"
+    },
+    {
+        "iso2":  "GA",
+        "iso3":  "GAB",
+        "name":  "Gabon",
+        "geoId":  87,
+        "defaultCultureId":  "fr-GA"
+    },
+    {
+        "iso2":  "GM",
+        "iso3":  "GMB",
+        "name":  "Gambia",
+        "geoId":  86,
+        "defaultCultureId":  "en-GM"
+    },
+    {
+        "iso2":  "GE",
+        "iso3":  "GEO",
+        "name":  "Georgia",
+        "geoId":  88,
+        "defaultCultureId":  "ka-GE"
+    },
+    {
+        "iso2":  "DE",
+        "iso3":  "DEU",
+        "name":  "Germany",
+        "geoId":  94,
+        "defaultCultureId":  "de-DE"
+    },
+    {
+        "iso2":  "GH",
+        "iso3":  "GHA",
+        "name":  "Ghana",
+        "geoId":  89,
+        "defaultCultureId":  "ak-GH"
+    },
+    {
+        "iso2":  "GI",
+        "iso3":  "GIB",
+        "name":  "Gibraltar",
+        "geoId":  90,
+        "defaultCultureId":  "en-GI"
+    },
+    {
+        "iso2":  "GR",
+        "iso3":  "GRC",
+        "name":  "Greece",
+        "geoId":  98,
+        "defaultCultureId":  "el-GR"
+    },
+    {
+        "iso2":  "GL",
+        "iso3":  "GRL",
+        "name":  "Greenland",
+        "geoId":  93,
+        "defaultCultureId":  "da-GL"
+    },
+    {
+        "iso2":  "GD",
+        "iso3":  "GRD",
+        "name":  "Grenada",
+        "geoId":  91,
+        "defaultCultureId":  "en-GD"
+    },
+    {
+        "iso2":  "GP",
+        "iso3":  "GLP",
+        "name":  "Guadeloupe",
+        "geoId":  321,
+        "defaultCultureId":  "fr-GP"
+    },
+    {
+        "iso2":  "GU",
+        "iso3":  "GUM",
+        "name":  "Guam",
+        "geoId":  322,
+        "defaultCultureId":  "en-GU"
+    },
+    {
+        "iso2":  "GT",
+        "iso3":  "GTM",
+        "name":  "Guatemala",
+        "geoId":  99,
+        "defaultCultureId":  "es-GT"
+    },
+    {
+        "iso2":  "GG",
+        "iso3":  "GGY",
+        "name":  "Guernsey",
+        "geoId":  324,
+        "defaultCultureId":  "en-GG"
+    },
+    {
+        "iso2":  "GN",
+        "iso3":  "GIN",
+        "name":  "Guinea",
+        "geoId":  100,
+        "defaultCultureId":  "ff-Adlm-GN"
+    },
+    {
+        "iso2":  "GW",
+        "iso3":  "GNB",
+        "name":  "Guinea-Bissau",
+        "geoId":  196,
+        "defaultCultureId":  "ff-Adlm-GW"
+    },
+    {
+        "iso2":  "GY",
+        "iso3":  "GUY",
+        "name":  "Guyana",
+        "geoId":  101,
+        "defaultCultureId":  "en-GY"
+    },
+    {
+        "iso2":  "HT",
+        "iso3":  "HTI",
+        "name":  "Haiti",
+        "geoId":  103,
+        "defaultCultureId":  "fr-HT"
+    },
+    {
+        "iso2":  "HN",
+        "iso3":  "HND",
+        "name":  "Honduras",
+        "geoId":  106,
+        "defaultCultureId":  "es-HN"
+    },
+    {
+        "iso2":  "HK",
+        "iso3":  "HKG",
+        "name":  "Hong Kong SAR",
+        "geoId":  104,
+        "defaultCultureId":  "en-HK"
+    },
+    {
+        "iso2":  "HU",
+        "iso3":  "HUN",
+        "name":  "Hungary",
+        "geoId":  109,
+        "defaultCultureId":  "hu-HU"
+    },
+    {
+        "iso2":  "IS",
+        "iso3":  "ISL",
+        "name":  "Iceland",
+        "geoId":  110,
+        "defaultCultureId":  "is-IS"
+    },
+    {
+        "iso2":  "IN",
+        "iso3":  "IND",
+        "name":  "India",
+        "geoId":  113,
+        "defaultCultureId":  "as-IN"
+    },
+    {
+        "iso2":  "ID",
+        "iso3":  "IDN",
+        "name":  "Indonesia",
+        "geoId":  111,
+        "defaultCultureId":  "en-ID"
+    },
+    {
+        "iso2":  "IR",
+        "iso3":  "IRN",
+        "name":  "Iran",
+        "geoId":  116,
+        "defaultCultureId":  "fa-IR"
+    },
+    {
+        "iso2":  "IQ",
+        "iso3":  "IRQ",
+        "name":  "Iraq",
+        "geoId":  121,
+        "defaultCultureId":  "ar-IQ"
+    },
+    {
+        "iso2":  "IE",
+        "iso3":  "IRL",
+        "name":  "Ireland",
+        "geoId":  68,
+        "defaultCultureId":  "en-IE"
+    },
+    {
+        "iso2":  "IM",
+        "iso3":  "IMN",
+        "name":  "Isle of Man",
+        "geoId":  15126,
+        "defaultCultureId":  "en-IM"
+    },
+    {
+        "iso2":  "IL",
+        "iso3":  "ISR",
+        "name":  "Israel",
+        "geoId":  117,
+        "defaultCultureId":  "ar-IL"
+    },
+    {
+        "iso2":  "IT",
+        "iso3":  "ITA",
+        "name":  "Italy",
+        "geoId":  118,
+        "defaultCultureId":  "ca-IT"
+    },
+    {
+        "iso2":  "JM",
+        "iso3":  "JAM",
+        "name":  "Jamaica",
+        "geoId":  124,
+        "defaultCultureId":  "en-JM"
+    },
+    {
+        "iso2":  "JP",
+        "iso3":  "JPN",
+        "name":  "Japan",
+        "geoId":  122,
+        "defaultCultureId":  "ja-JP"
+    },
+    {
+        "iso2":  "JE",
+        "iso3":  "JEY",
+        "name":  "Jersey",
+        "geoId":  328,
+        "defaultCultureId":  "en-JE"
+    },
+    {
+        "iso2":  "JO",
+        "iso3":  "JOR",
+        "name":  "Jordan",
+        "geoId":  126,
+        "defaultCultureId":  "ar-JO"
+    },
+    {
+        "iso2":  "KZ",
+        "iso3":  "KAZ",
+        "name":  "Kazakhstan",
+        "geoId":  137,
+        "defaultCultureId":  "kk-KZ"
+    },
+    {
+        "iso2":  "KE",
+        "iso3":  "KEN",
+        "name":  "Kenya",
+        "geoId":  129,
+        "defaultCultureId":  "dav-KE"
+    },
+    {
+        "iso2":  "KI",
+        "iso3":  "KIR",
+        "name":  "Kiribati",
+        "geoId":  133,
+        "defaultCultureId":  "en-KI"
+    },
+    {
+        "iso2":  "KR",
+        "iso3":  "KOR",
+        "name":  "Korea",
+        "geoId":  134,
+        "defaultCultureId":  "ko-KR"
+    },
+    {
+        "iso2":  "XK",
+        "iso3":  "XKS",
+        "name":  "Kosovo",
+        "geoId":  9914689,
+        "defaultCultureId":  "sq-XK"
+    },
+    {
+        "iso2":  "KW",
+        "iso3":  "KWT",
+        "name":  "Kuwait",
+        "geoId":  136,
+        "defaultCultureId":  "ar-KW"
+    },
+    {
+        "iso2":  "KG",
+        "iso3":  "KGZ",
+        "name":  "Kyrgyzstan",
+        "geoId":  130,
+        "defaultCultureId":  "ky-KG"
+    },
+    {
+        "iso2":  "LA",
+        "iso3":  "LAO",
+        "name":  "Laos",
+        "geoId":  138,
+        "defaultCultureId":  "lo-LA"
+    },
+    {
+        "iso2":  "419",
+        "iso3":  "419",
+        "name":  "Latin America",
+        "geoId":  161832257,
+        "defaultCultureId":  "es-419"
+    },
+    {
+        "iso2":  "LV",
+        "iso3":  "LVA",
+        "name":  "Latvia",
+        "geoId":  140,
+        "defaultCultureId":  "lv-LV"
+    },
+    {
+        "iso2":  "LB",
+        "iso3":  "LBN",
+        "name":  "Lebanon",
+        "geoId":  139,
+        "defaultCultureId":  "ar-LB"
+    },
+    {
+        "iso2":  "LS",
+        "iso3":  "LSO",
+        "name":  "Lesotho",
+        "geoId":  146,
+        "defaultCultureId":  "en-LS"
+    },
+    {
+        "iso2":  "LR",
+        "iso3":  "LBR",
+        "name":  "Liberia",
+        "geoId":  142,
+        "defaultCultureId":  "en-LR"
+    },
+    {
+        "iso2":  "LY",
+        "iso3":  "LBY",
+        "name":  "Libya",
+        "geoId":  148,
+        "defaultCultureId":  "ar-LY"
+    },
+    {
+        "iso2":  "LI",
+        "iso3":  "LIE",
+        "name":  "Liechtenstein",
+        "geoId":  145,
+        "defaultCultureId":  "de-LI"
+    },
+    {
+        "iso2":  "LT",
+        "iso3":  "LTU",
+        "name":  "Lithuania",
+        "geoId":  141,
+        "defaultCultureId":  "lt-LT"
+    },
+    {
+        "iso2":  "LU",
+        "iso3":  "LUX",
+        "name":  "Luxembourg",
+        "geoId":  147,
+        "defaultCultureId":  "de-LU"
+    },
+    {
+        "iso2":  "MO",
+        "iso3":  "MAC",
+        "name":  "Macao SAR",
+        "geoId":  151,
+        "defaultCultureId":  "en-MO"
+    },
+    {
+        "iso2":  "MG",
+        "iso3":  "MDG",
+        "name":  "Madagascar",
+        "geoId":  149,
+        "defaultCultureId":  "en-MG"
+    },
+    {
+        "iso2":  "MW",
+        "iso3":  "MWI",
+        "name":  "Malawi",
+        "geoId":  156,
+        "defaultCultureId":  "en-MW"
+    },
+    {
+        "iso2":  "MY",
+        "iso3":  "MYS",
+        "name":  "Malaysia",
+        "geoId":  167,
+        "defaultCultureId":  "en-MY"
+    },
+    {
+        "iso2":  "MV",
+        "iso3":  "MDV",
+        "name":  "Maldives",
+        "geoId":  165,
+        "defaultCultureId":  "dv-MV"
+    },
+    {
+        "iso2":  "ML",
+        "iso3":  "MLI",
+        "name":  "Mali",
+        "geoId":  157,
+        "defaultCultureId":  "bm-Latn-ML"
+    },
+    {
+        "iso2":  "MT",
+        "iso3":  "MLT",
+        "name":  "Malta",
+        "geoId":  163,
+        "defaultCultureId":  "en-MT"
+    },
+    {
+        "iso2":  "MH",
+        "iso3":  "MHL",
+        "name":  "Marshall Islands",
+        "geoId":  199,
+        "defaultCultureId":  "en-MH"
+    },
+    {
+        "iso2":  "MQ",
+        "iso3":  "MTQ",
+        "name":  "Martinique",
+        "geoId":  330,
+        "defaultCultureId":  "fr-MQ"
+    },
+    {
+        "iso2":  "MR",
+        "iso3":  "MRT",
+        "name":  "Mauritania",
+        "geoId":  162,
+        "defaultCultureId":  "ar-MR"
+    },
+    {
+        "iso2":  "MU",
+        "iso3":  "MUS",
+        "name":  "Mauritius",
+        "geoId":  160,
+        "defaultCultureId":  "en-MU"
+    },
+    {
+        "iso2":  "YT",
+        "iso3":  "MYT",
+        "name":  "Mayotte",
+        "geoId":  331,
+        "defaultCultureId":  "fr-YT"
+    },
+    {
+        "iso2":  "MX",
+        "iso3":  "MEX",
+        "name":  "Mexico",
+        "geoId":  166,
+        "defaultCultureId":  "es-MX"
+    },
+    {
+        "iso2":  "FM",
+        "iso3":  "FSM",
+        "name":  "Micronesia",
+        "geoId":  80,
+        "defaultCultureId":  "en-FM"
+    },
+    {
+        "iso2":  "MD",
+        "iso3":  "MDA",
+        "name":  "Moldova",
+        "geoId":  152,
+        "defaultCultureId":  "ro-MD"
+    },
+    {
+        "iso2":  "MC",
+        "iso3":  "MCO",
+        "name":  "Monaco",
+        "geoId":  158,
+        "defaultCultureId":  "fr-MC"
+    },
+    {
+        "iso2":  "MN",
+        "iso3":  "MNG",
+        "name":  "Mongolia",
+        "geoId":  154,
+        "defaultCultureId":  "mn-MN"
+    },
+    {
+        "iso2":  "ME",
+        "iso3":  "MNE",
+        "name":  "Montenegro",
+        "geoId":  270,
+        "defaultCultureId":  "sr-Cyrl-ME"
+    },
+    {
+        "iso2":  "MS",
+        "iso3":  "MSR",
+        "name":  "Montserrat",
+        "geoId":  332,
+        "defaultCultureId":  "en-MS"
+    },
+    {
+        "iso2":  "MA",
+        "iso3":  "MAR",
+        "name":  "Morocco",
+        "geoId":  161,
+        "defaultCultureId":  "ar-MA"
+    },
+    {
+        "iso2":  "MZ",
+        "iso3":  "MOZ",
+        "name":  "Mozambique",
+        "geoId":  168,
+        "defaultCultureId":  "mgh-MZ"
+    },
+    {
+        "iso2":  "MM",
+        "iso3":  "MMR",
+        "name":  "Myanmar",
+        "geoId":  27,
+        "defaultCultureId":  "my-MM"
+    },
+    {
+        "iso2":  "NA",
+        "iso3":  "NAM",
+        "name":  "Namibia",
+        "geoId":  254,
+        "defaultCultureId":  "af-NA"
+    },
+    {
+        "iso2":  "NR",
+        "iso3":  "NRU",
+        "name":  "Nauru",
+        "geoId":  180,
+        "defaultCultureId":  "en-NR"
+    },
+    {
+        "iso2":  "NP",
+        "iso3":  "NPL",
+        "name":  "Nepal",
+        "geoId":  178,
+        "defaultCultureId":  "ne-NP"
+    },
+    {
+        "iso2":  "NL",
+        "iso3":  "NLD",
+        "name":  "Netherlands",
+        "geoId":  176,
+        "defaultCultureId":  "en-NL"
+    },
+    {
+        "iso2":  "NC",
+        "iso3":  "NCL",
+        "name":  "New Caledonia",
+        "geoId":  334,
+        "defaultCultureId":  "fr-NC"
+    },
+    {
+        "iso2":  "NZ",
+        "iso3":  "NZL",
+        "name":  "New Zealand",
+        "geoId":  183,
+        "defaultCultureId":  "en-NZ"
+    },
+    {
+        "iso2":  "NI",
+        "iso3":  "NIC",
+        "name":  "Nicaragua",
+        "geoId":  182,
+        "defaultCultureId":  "es-NI"
+    },
+    {
+        "iso2":  "NE",
+        "iso3":  "NER",
+        "name":  "Niger",
+        "geoId":  173,
+        "defaultCultureId":  "dje-NE"
+    },
+    {
+        "iso2":  "NG",
+        "iso3":  "NGA",
+        "name":  "Nigeria",
+        "geoId":  175,
+        "defaultCultureId":  "bin-NG"
+    },
+    {
+        "iso2":  "NU",
+        "iso3":  "NIU",
+        "name":  "Niue",
+        "geoId":  335,
+        "defaultCultureId":  "en-NU"
+    },
+    {
+        "iso2":  "NF",
+        "iso3":  "NFK",
+        "name":  "Norfolk Island",
+        "geoId":  336,
+        "defaultCultureId":  "en-NF"
+    },
+    {
+        "iso2":  "KP",
+        "iso3":  "PRK",
+        "name":  "North Korea",
+        "geoId":  131,
+        "defaultCultureId":  "ko-KP"
+    },
+    {
+        "iso2":  "MK",
+        "iso3":  "MKD",
+        "name":  "North Macedonia",
+        "geoId":  19618,
+        "defaultCultureId":  "mk-MK"
+    },
+    {
+        "iso2":  "MP",
+        "iso3":  "MNP",
+        "name":  "Northern Mariana Islands",
+        "geoId":  337,
+        "defaultCultureId":  "en-MP"
+    },
+    {
+        "iso2":  "NO",
+        "iso3":  "NOR",
+        "name":  "Norway",
+        "geoId":  177,
+        "defaultCultureId":  "nb-NO"
+    },
+    {
+        "iso2":  "OM",
+        "iso3":  "OMN",
+        "name":  "Oman",
+        "geoId":  164,
+        "defaultCultureId":  "ar-OM"
+    },
+    {
+        "iso2":  "PK",
+        "iso3":  "PAK",
+        "name":  "Pakistan",
+        "geoId":  190,
+        "defaultCultureId":  "en-PK"
+    },
+    {
+        "iso2":  "PW",
+        "iso3":  "PLW",
+        "name":  "Palau",
+        "geoId":  195,
+        "defaultCultureId":  "en-PW"
+    },
+    {
+        "iso2":  "PS",
+        "iso3":  "PSE",
+        "name":  "Palestinian Authority",
+        "geoId":  184,
+        "defaultCultureId":  "ar-PS"
+    },
+    {
+        "iso2":  "PA",
+        "iso3":  "PAN",
+        "name":  "Panama",
+        "geoId":  192,
+        "defaultCultureId":  "es-PA"
+    },
+    {
+        "iso2":  "PG",
+        "iso3":  "PNG",
+        "name":  "Papua New Guinea",
+        "geoId":  194,
+        "defaultCultureId":  "en-PG"
+    },
+    {
+        "iso2":  "PY",
+        "iso3":  "PRY",
+        "name":  "Paraguay",
+        "geoId":  185,
+        "defaultCultureId":  "es-PY"
+    },
+    {
+        "iso2":  "PE",
+        "iso3":  "PER",
+        "name":  "Peru",
+        "geoId":  187,
+        "defaultCultureId":  "es-PE"
+    },
+    {
+        "iso2":  "PH",
+        "iso3":  "PHL",
+        "name":  "Philippines",
+        "geoId":  201,
+        "defaultCultureId":  "ceb-Latn-PH"
+    },
+    {
+        "iso2":  "PN",
+        "iso3":  "PCN",
+        "name":  "Pitcairn Islands",
+        "geoId":  339,
+        "defaultCultureId":  "en-PN"
+    },
+    {
+        "iso2":  "PL",
+        "iso3":  "POL",
+        "name":  "Poland",
+        "geoId":  191,
+        "defaultCultureId":  "pl-PL"
+    },
+    {
+        "iso2":  "PT",
+        "iso3":  "PRT",
+        "name":  "Portugal",
+        "geoId":  193,
+        "defaultCultureId":  "pt-PT"
+    },
+    {
+        "iso2":  "PR",
+        "iso3":  "PRI",
+        "name":  "Puerto Rico",
+        "geoId":  202,
+        "defaultCultureId":  "en-PR"
+    },
+    {
+        "iso2":  "QA",
+        "iso3":  "QAT",
+        "name":  "Qatar",
+        "geoId":  197,
+        "defaultCultureId":  "ar-QA"
+    },
+    {
+        "iso2":  "RE",
+        "iso3":  "REU",
+        "name":  "Réunion",
+        "geoId":  198,
+        "defaultCultureId":  "fr-RE"
+    },
+    {
+        "iso2":  "RO",
+        "iso3":  "ROU",
+        "name":  "Romania",
+        "geoId":  200,
+        "defaultCultureId":  "ro-RO"
+    },
+    {
+        "iso2":  "RU",
+        "iso3":  "RUS",
+        "name":  "Russia",
+        "geoId":  203,
+        "defaultCultureId":  "ba-RU"
+    },
+    {
+        "iso2":  "RW",
+        "iso3":  "RWA",
+        "name":  "Rwanda",
+        "geoId":  204,
+        "defaultCultureId":  "en-RW"
+    },
+    {
+        "iso2":  "WS",
+        "iso3":  "WSM",
+        "name":  "Samoa",
+        "geoId":  259,
+        "defaultCultureId":  "en-WS"
+    },
+    {
+        "iso2":  "SM",
+        "iso3":  "SMR",
+        "name":  "San Marino",
+        "geoId":  214,
+        "defaultCultureId":  "it-SM"
+    },
+    {
+        "iso2":  "ST",
+        "iso3":  "STP",
+        "name":  "São Tomé \u0026 Príncipe",
+        "geoId":  233,
+        "defaultCultureId":  "pt-ST"
+    },
+    {
+        "iso2":  "SA",
+        "iso3":  "SAU",
+        "name":  "Saudi Arabia",
+        "geoId":  205,
+        "defaultCultureId":  "ar-SA"
+    },
+    {
+        "iso2":  "SN",
+        "iso3":  "SEN",
+        "name":  "Senegal",
+        "geoId":  210,
+        "defaultCultureId":  "dyo-SN"
+    },
+    {
+        "iso2":  "RS",
+        "iso3":  "SRB",
+        "name":  "Serbia",
+        "geoId":  271,
+        "defaultCultureId":  "sr-Cyrl-RS"
+    },
+    {
+        "iso2":  "SC",
+        "iso3":  "SYC",
+        "name":  "Seychelles",
+        "geoId":  208,
+        "defaultCultureId":  "en-SC"
+    },
+    {
+        "iso2":  "SL",
+        "iso3":  "SLE",
+        "name":  "Sierra Leone",
+        "geoId":  213,
+        "defaultCultureId":  "en-SL"
+    },
+    {
+        "iso2":  "SG",
+        "iso3":  "SGP",
+        "name":  "Singapore",
+        "geoId":  215,
+        "defaultCultureId":  "en-SG"
+    },
+    {
+        "iso2":  "SX",
+        "iso3":  "SXM",
+        "name":  "Sint Maarten",
+        "geoId":  30967,
+        "defaultCultureId":  "en-SX"
+    },
+    {
+        "iso2":  "SK",
+        "iso3":  "SVK",
+        "name":  "Slovakia",
+        "geoId":  143,
+        "defaultCultureId":  "sk-SK"
+    },
+    {
+        "iso2":  "SI",
+        "iso3":  "SVN",
+        "name":  "Slovenia",
+        "geoId":  212,
+        "defaultCultureId":  "en-SI"
+    },
+    {
+        "iso2":  "SB",
+        "iso3":  "SLB",
+        "name":  "Solomon Islands",
+        "geoId":  30,
+        "defaultCultureId":  "en-SB"
+    },
+    {
+        "iso2":  "SO",
+        "iso3":  "SOM",
+        "name":  "Somalia",
+        "geoId":  216,
+        "defaultCultureId":  "ar-SO"
+    },
+    {
+        "iso2":  "ZA",
+        "iso3":  "ZAF",
+        "name":  "South Africa",
+        "geoId":  209,
+        "defaultCultureId":  "af-ZA"
+    },
+    {
+        "iso2":  "SS",
+        "iso3":  "SSD",
+        "name":  "South Sudan",
+        "geoId":  276,
+        "defaultCultureId":  "ar-SS"
+    },
+    {
+        "iso2":  "ES",
+        "iso3":  "ESP",
+        "name":  "Spain",
+        "geoId":  217,
+        "defaultCultureId":  "ast-ES"
+    },
+    {
+        "iso2":  "LK",
+        "iso3":  "LKA",
+        "name":  "Sri Lanka",
+        "geoId":  42,
+        "defaultCultureId":  "si-LK"
+    },
+    {
+        "iso2":  "SH",
+        "iso3":  "SHN",
+        "name":  "St Helena, Ascension, Tristan da Cunha",
+        "geoId":  343,
+        "defaultCultureId":  "en-SH"
+    },
+    {
+        "iso2":  "BL",
+        "iso3":  "BLM",
+        "name":  "St. Barthélemy",
+        "geoId":  161832015,
+        "defaultCultureId":  "fr-BL"
+    },
+    {
+        "iso2":  "KN",
+        "iso3":  "KNA",
+        "name":  "St. Kitts \u0026 Nevis",
+        "geoId":  207,
+        "defaultCultureId":  "en-KN"
+    },
+    {
+        "iso2":  "LC",
+        "iso3":  "LCA",
+        "name":  "St. Lucia",
+        "geoId":  218,
+        "defaultCultureId":  "en-LC"
+    },
+    {
+        "iso2":  "MF",
+        "iso3":  "MAF",
+        "name":  "St. Martin",
+        "geoId":  31706,
+        "defaultCultureId":  "fr-MF"
+    },
+    {
+        "iso2":  "PM",
+        "iso3":  "SPM",
+        "name":  "St. Pierre \u0026 Miquelon",
+        "geoId":  206,
+        "defaultCultureId":  "fr-PM"
+    },
+    {
+        "iso2":  "VC",
+        "iso3":  "VCT",
+        "name":  "St. Vincent \u0026 Grenadines",
+        "geoId":  248,
+        "defaultCultureId":  "en-VC"
+    },
+    {
+        "iso2":  "SD",
+        "iso3":  "SDN",
+        "name":  "Sudan",
+        "geoId":  219,
+        "defaultCultureId":  "ar-SD"
+    },
+    {
+        "iso2":  "SR",
+        "iso3":  "SUR",
+        "name":  "Suriname",
+        "geoId":  181,
+        "defaultCultureId":  "nl-SR"
+    },
+    {
+        "iso2":  "SJ",
+        "iso3":  "SJM",
+        "name":  "Svalbard \u0026 Jan Mayen",
+        "geoId":  220,
+        "defaultCultureId":  "nb-SJ"
+    },
+    {
+        "iso2":  "SE",
+        "iso3":  "SWE",
+        "name":  "Sweden",
+        "geoId":  221,
+        "defaultCultureId":  "en-SE"
+    },
+    {
+        "iso2":  "CH",
+        "iso3":  "CHE",
+        "name":  "Switzerland",
+        "geoId":  223,
+        "defaultCultureId":  "de-CH"
+    },
+    {
+        "iso2":  "SY",
+        "iso3":  "SYR",
+        "name":  "Syria",
+        "geoId":  222,
+        "defaultCultureId":  "ar-SY"
+    },
+    {
+        "iso2":  "TW",
+        "iso3":  "TWN",
+        "name":  "Taiwan",
+        "geoId":  237,
+        "defaultCultureId":  "zh-TW"
+    },
+    {
+        "iso2":  "TJ",
+        "iso3":  "TJK",
+        "name":  "Tajikistan",
+        "geoId":  228,
+        "defaultCultureId":  "tg-Cyrl-TJ"
+    },
+    {
+        "iso2":  "TZ",
+        "iso3":  "TZA",
+        "name":  "Tanzania",
+        "geoId":  239,
+        "defaultCultureId":  "asa-TZ"
+    },
+    {
+        "iso2":  "TH",
+        "iso3":  "THA",
+        "name":  "Thailand",
+        "geoId":  227,
+        "defaultCultureId":  "th-TH"
+    },
+    {
+        "iso2":  "TL",
+        "iso3":  "TLS",
+        "name":  "Timor-Leste",
+        "geoId":  7299303,
+        "defaultCultureId":  "pt-TL"
+    },
+    {
+        "iso2":  "TG",
+        "iso3":  "TGO",
+        "name":  "Togo",
+        "geoId":  232,
+        "defaultCultureId":  "ee-TG"
+    },
+    {
+        "iso2":  "TK",
+        "iso3":  "TKL",
+        "name":  "Tokelau",
+        "geoId":  347,
+        "defaultCultureId":  "en-TK"
+    },
+    {
+        "iso2":  "TO",
+        "iso3":  "TON",
+        "name":  "Tonga",
+        "geoId":  231,
+        "defaultCultureId":  "en-TO"
+    },
+    {
+        "iso2":  "TT",
+        "iso3":  "TTO",
+        "name":  "Trinidad \u0026 Tobago",
+        "geoId":  225,
+        "defaultCultureId":  "en-TT"
+    },
+    {
+        "iso2":  "TN",
+        "iso3":  "TUN",
+        "name":  "Tunisia",
+        "geoId":  234,
+        "defaultCultureId":  "ar-TN"
+    },
+    {
+        "iso2":  "TR",
+        "iso3":  "TUR",
+        "name":  "Türkiye",
+        "geoId":  235,
+        "defaultCultureId":  "tr-TR"
+    },
+    {
+        "iso2":  "TM",
+        "iso3":  "TKM",
+        "name":  "Turkmenistan",
+        "geoId":  238,
+        "defaultCultureId":  "tk-TM"
+    },
+    {
+        "iso2":  "TC",
+        "iso3":  "TCA",
+        "name":  "Turks \u0026 Caicos Islands",
+        "geoId":  349,
+        "defaultCultureId":  "en-TC"
+    },
+    {
+        "iso2":  "TV",
+        "iso3":  "TUV",
+        "name":  "Tuvalu",
+        "geoId":  236,
+        "defaultCultureId":  "en-TV"
+    },
+    {
+        "iso2":  "UM",
+        "iso3":  "UMI",
+        "name":  "U.S. Outlying Islands",
+        "geoId":  161832256,
+        "defaultCultureId":  "en-UM"
+    },
+    {
+        "iso2":  "VI",
+        "iso3":  "VIR",
+        "name":  "U.S. Virgin Islands",
+        "geoId":  252,
+        "defaultCultureId":  "en-VI"
+    },
+    {
+        "iso2":  "UG",
+        "iso3":  "UGA",
+        "name":  "Uganda",
+        "geoId":  240,
+        "defaultCultureId":  "cgg-UG"
+    },
+    {
+        "iso2":  "UA",
+        "iso3":  "UKR",
+        "name":  "Ukraine",
+        "geoId":  241,
+        "defaultCultureId":  "ru-UA"
+    },
+    {
+        "iso2":  "AE",
+        "iso3":  "ARE",
+        "name":  "United Arab Emirates",
+        "geoId":  224,
+        "defaultCultureId":  "ar-AE"
+    },
+    {
+        "iso2":  "GB",
+        "iso3":  "GBR",
+        "name":  "United Kingdom",
+        "geoId":  242,
+        "defaultCultureId":  "cy-GB"
+    },
+    {
+        "iso2":  "US",
+        "iso3":  "USA",
+        "name":  "United States",
+        "geoId":  244,
+        "defaultCultureId":  "chr-Cher-US"
+    },
+    {
+        "iso2":  "UY",
+        "iso3":  "URY",
+        "name":  "Uruguay",
+        "geoId":  246,
+        "defaultCultureId":  "es-UY"
+    },
+    {
+        "iso2":  "UZ",
+        "iso3":  "UZB",
+        "name":  "Uzbekistan",
+        "geoId":  247,
+        "defaultCultureId":  "uz-Cyrl-UZ"
+    },
+    {
+        "iso2":  "VU",
+        "iso3":  "VUT",
+        "name":  "Vanuatu",
+        "geoId":  174,
+        "defaultCultureId":  "en-VU"
+    },
+    {
+        "iso2":  "VA",
+        "iso3":  "VAT",
+        "name":  "Vatican City",
+        "geoId":  253,
+        "defaultCultureId":  "it-VA"
+    },
+    {
+        "iso2":  "VE",
+        "iso3":  "VEN",
+        "name":  "Venezuela",
+        "geoId":  249,
+        "defaultCultureId":  "es-VE"
+    },
+    {
+        "iso2":  "VN",
+        "iso3":  "VNM",
+        "name":  "Vietnam",
+        "geoId":  251,
+        "defaultCultureId":  "vi-VN"
+    },
+    {
+        "iso2":  "WF",
+        "iso3":  "WLF",
+        "name":  "Wallis \u0026 Futuna",
+        "geoId":  352,
+        "defaultCultureId":  "fr-WF"
+    },
+    {
+        "iso2":  "001",
+        "iso3":  "001",
+        "name":  "world",
+        "geoId":  39070,
+        "defaultCultureId":  "ar-001"
+    },
+    {
+        "iso2":  "YE",
+        "iso3":  "YEM",
+        "name":  "Yemen",
+        "geoId":  261,
+        "defaultCultureId":  "ar-YE"
+    },
+    {
+        "iso2":  "ZM",
+        "iso3":  "ZMB",
+        "name":  "Zambia",
+        "geoId":  263,
+        "defaultCultureId":  "bem-ZM"
+    },
+    {
+        "iso2":  "ZW",
+        "iso3":  "ZWE",
+        "name":  "Zimbabwe",
+        "geoId":  264,
+        "defaultCultureId":  "en-ZW"
+    }
+]

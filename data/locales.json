@@ -1,0 +1,3632 @@
+﻿[
+    {
+        "cultureId":  "aa-DJ",
+        "displayName":  "Afar (Djibouti)",
+        "languageTag":  "aa-DJ",
+        "countryIso2":  "DJ"
+    },
+    {
+        "cultureId":  "aa-ER",
+        "displayName":  "Afar (Eritrea)",
+        "languageTag":  "aa-ER",
+        "countryIso2":  "ER"
+    },
+    {
+        "cultureId":  "aa-ET",
+        "displayName":  "Afar (Ethiopia)",
+        "languageTag":  "aa-ET",
+        "countryIso2":  "ET"
+    },
+    {
+        "cultureId":  "af-NA",
+        "displayName":  "Afrikaans (Namibia)",
+        "languageTag":  "af-NA",
+        "countryIso2":  "NA"
+    },
+    {
+        "cultureId":  "af-ZA",
+        "displayName":  "Afrikaans (South Africa)",
+        "languageTag":  "af-ZA",
+        "countryIso2":  "ZA"
+    },
+    {
+        "cultureId":  "agq-CM",
+        "displayName":  "Aghem (Cameroon)",
+        "languageTag":  "agq-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "ak-GH",
+        "displayName":  "Akan (Ghana)",
+        "languageTag":  "ak-GH",
+        "countryIso2":  "GH"
+    },
+    {
+        "cultureId":  "am-ET",
+        "displayName":  "Amharic (Ethiopia)",
+        "languageTag":  "am-ET",
+        "countryIso2":  "ET"
+    },
+    {
+        "cultureId":  "ar-001",
+        "displayName":  "Arabic (World)",
+        "languageTag":  "ar-001",
+        "countryIso2":  "001"
+    },
+    {
+        "cultureId":  "ar-AE",
+        "displayName":  "Arabic (U.A.E.)",
+        "languageTag":  "ar-AE",
+        "countryIso2":  "AE"
+    },
+    {
+        "cultureId":  "ar-BH",
+        "displayName":  "Arabic (Bahrain)",
+        "languageTag":  "ar-BH",
+        "countryIso2":  "BH"
+    },
+    {
+        "cultureId":  "ar-DJ",
+        "displayName":  "Arabic (Djibouti)",
+        "languageTag":  "ar-DJ",
+        "countryIso2":  "DJ"
+    },
+    {
+        "cultureId":  "ar-DZ",
+        "displayName":  "Arabic (Algeria)",
+        "languageTag":  "ar-DZ",
+        "countryIso2":  "DZ"
+    },
+    {
+        "cultureId":  "ar-EG",
+        "displayName":  "Arabic (Egypt)",
+        "languageTag":  "ar-EG",
+        "countryIso2":  "EG"
+    },
+    {
+        "cultureId":  "ar-ER",
+        "displayName":  "Arabic (Eritrea)",
+        "languageTag":  "ar-ER",
+        "countryIso2":  "ER"
+    },
+    {
+        "cultureId":  "ar-IL",
+        "displayName":  "Arabic (Israel)",
+        "languageTag":  "ar-IL",
+        "countryIso2":  "IL"
+    },
+    {
+        "cultureId":  "ar-IQ",
+        "displayName":  "Arabic (Iraq)",
+        "languageTag":  "ar-IQ",
+        "countryIso2":  "IQ"
+    },
+    {
+        "cultureId":  "ar-JO",
+        "displayName":  "Arabic (Jordan)",
+        "languageTag":  "ar-JO",
+        "countryIso2":  "JO"
+    },
+    {
+        "cultureId":  "ar-KM",
+        "displayName":  "Arabic (Comoros)",
+        "languageTag":  "ar-KM",
+        "countryIso2":  "KM"
+    },
+    {
+        "cultureId":  "ar-KW",
+        "displayName":  "Arabic (Kuwait)",
+        "languageTag":  "ar-KW",
+        "countryIso2":  "KW"
+    },
+    {
+        "cultureId":  "ar-LB",
+        "displayName":  "Arabic (Lebanon)",
+        "languageTag":  "ar-LB",
+        "countryIso2":  "LB"
+    },
+    {
+        "cultureId":  "ar-LY",
+        "displayName":  "Arabic (Libya)",
+        "languageTag":  "ar-LY",
+        "countryIso2":  "LY"
+    },
+    {
+        "cultureId":  "ar-MA",
+        "displayName":  "Arabic (Morocco)",
+        "languageTag":  "ar-MA",
+        "countryIso2":  "MA"
+    },
+    {
+        "cultureId":  "ar-MR",
+        "displayName":  "Arabic (Mauritania)",
+        "languageTag":  "ar-MR",
+        "countryIso2":  "MR"
+    },
+    {
+        "cultureId":  "ar-OM",
+        "displayName":  "Arabic (Oman)",
+        "languageTag":  "ar-OM",
+        "countryIso2":  "OM"
+    },
+    {
+        "cultureId":  "ar-PS",
+        "displayName":  "Arabic (Palestinian Authority)",
+        "languageTag":  "ar-PS",
+        "countryIso2":  "PS"
+    },
+    {
+        "cultureId":  "ar-QA",
+        "displayName":  "Arabic (Qatar)",
+        "languageTag":  "ar-QA",
+        "countryIso2":  "QA"
+    },
+    {
+        "cultureId":  "ar-SA",
+        "displayName":  "Arabic (Saudi Arabia)",
+        "languageTag":  "ar-SA",
+        "countryIso2":  "SA"
+    },
+    {
+        "cultureId":  "ar-SD",
+        "displayName":  "Arabic (Sudan)",
+        "languageTag":  "ar-SD",
+        "countryIso2":  "SD"
+    },
+    {
+        "cultureId":  "ar-SO",
+        "displayName":  "Arabic (Somalia)",
+        "languageTag":  "ar-SO",
+        "countryIso2":  "SO"
+    },
+    {
+        "cultureId":  "ar-SS",
+        "displayName":  "Arabic (South Sudan)",
+        "languageTag":  "ar-SS",
+        "countryIso2":  "SS"
+    },
+    {
+        "cultureId":  "ar-SY",
+        "displayName":  "Arabic (Syria)",
+        "languageTag":  "ar-SY",
+        "countryIso2":  "SY"
+    },
+    {
+        "cultureId":  "ar-TD",
+        "displayName":  "Arabic (Chad)",
+        "languageTag":  "ar-TD",
+        "countryIso2":  "TD"
+    },
+    {
+        "cultureId":  "ar-TN",
+        "displayName":  "Arabic (Tunisia)",
+        "languageTag":  "ar-TN",
+        "countryIso2":  "TN"
+    },
+    {
+        "cultureId":  "ar-YE",
+        "displayName":  "Arabic (Yemen)",
+        "languageTag":  "ar-YE",
+        "countryIso2":  "YE"
+    },
+    {
+        "cultureId":  "arn-CL",
+        "displayName":  "Mapudungun (Chile)",
+        "languageTag":  "arn-CL",
+        "countryIso2":  "CL"
+    },
+    {
+        "cultureId":  "as-IN",
+        "displayName":  "Assamese (India)",
+        "languageTag":  "as-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "asa-TZ",
+        "displayName":  "Asu (Tanzania)",
+        "languageTag":  "asa-TZ",
+        "countryIso2":  "TZ"
+    },
+    {
+        "cultureId":  "ast-ES",
+        "displayName":  "Asturian (Spain)",
+        "languageTag":  "ast-ES",
+        "countryIso2":  "ES"
+    },
+    {
+        "cultureId":  "az-Cyrl-AZ",
+        "displayName":  "Azerbaijani (Cyrillic, Azerbaijan)",
+        "languageTag":  "az-Cyrl-AZ",
+        "countryIso2":  "AZ"
+    },
+    {
+        "cultureId":  "az-Latn-AZ",
+        "displayName":  "Azerbaijani (Latin, Azerbaijan)",
+        "languageTag":  "az-Latn-AZ",
+        "countryIso2":  "AZ"
+    },
+    {
+        "cultureId":  "ba-RU",
+        "displayName":  "Bashkir (Russia)",
+        "languageTag":  "ba-RU",
+        "countryIso2":  "RU"
+    },
+    {
+        "cultureId":  "bas-CM",
+        "displayName":  "Basaa (Cameroon)",
+        "languageTag":  "bas-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "be-BY",
+        "displayName":  "Belarusian (Belarus)",
+        "languageTag":  "be-BY",
+        "countryIso2":  "BY"
+    },
+    {
+        "cultureId":  "bem-ZM",
+        "displayName":  "Bemba (Zambia)",
+        "languageTag":  "bem-ZM",
+        "countryIso2":  "ZM"
+    },
+    {
+        "cultureId":  "bez-TZ",
+        "displayName":  "Bena (Tanzania)",
+        "languageTag":  "bez-TZ",
+        "countryIso2":  "TZ"
+    },
+    {
+        "cultureId":  "bg-BG",
+        "displayName":  "Bulgarian (Bulgaria)",
+        "languageTag":  "bg-BG",
+        "countryIso2":  "BG"
+    },
+    {
+        "cultureId":  "bgc-Deva-IN",
+        "displayName":  "Haryanvi (Devanagari, India)",
+        "languageTag":  "bgc-Deva-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "bho-Deva-IN",
+        "displayName":  "Bhojpuri (Devanagari, India)",
+        "languageTag":  "bho-Deva-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "bin-NG",
+        "displayName":  "Edo (Nigeria)",
+        "languageTag":  "bin-NG",
+        "countryIso2":  "NG"
+    },
+    {
+        "cultureId":  "bm-Latn-ML",
+        "displayName":  "Bambara (Latin, Mali)",
+        "languageTag":  "bm-Latn-ML",
+        "countryIso2":  "ML"
+    },
+    {
+        "cultureId":  "bn-BD",
+        "displayName":  "Bangla (Bangladesh)",
+        "languageTag":  "bn-BD",
+        "countryIso2":  "BD"
+    },
+    {
+        "cultureId":  "bn-IN",
+        "displayName":  "Bangla (India)",
+        "languageTag":  "bn-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "bo-CN",
+        "displayName":  "Tibetan (PRC)",
+        "languageTag":  "bo-CN",
+        "countryIso2":  "CN"
+    },
+    {
+        "cultureId":  "bo-IN",
+        "displayName":  "Tibetan (India)",
+        "languageTag":  "bo-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "br-FR",
+        "displayName":  "Breton (France)",
+        "languageTag":  "br-FR",
+        "countryIso2":  "FR"
+    },
+    {
+        "cultureId":  "brx-IN",
+        "displayName":  "Bodo (India)",
+        "languageTag":  "brx-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "bs-Cyrl-BA",
+        "displayName":  "Bosnian (Cyrillic, Bosnia and Herzegovina)",
+        "languageTag":  "bs-Cyrl-BA",
+        "countryIso2":  "BA"
+    },
+    {
+        "cultureId":  "bs-Latn-BA",
+        "displayName":  "Bosnian (Latin, Bosnia and Herzegovina)",
+        "languageTag":  "bs-Latn-BA",
+        "countryIso2":  "BA"
+    },
+    {
+        "cultureId":  "byn-ER",
+        "displayName":  "Blin (Eritrea)",
+        "languageTag":  "byn-ER",
+        "countryIso2":  "ER"
+    },
+    {
+        "cultureId":  "ca-AD",
+        "displayName":  "Catalan (Andorra)",
+        "languageTag":  "ca-AD",
+        "countryIso2":  "AD"
+    },
+    {
+        "cultureId":  "ca-ES",
+        "displayName":  "Catalan (Catalan)",
+        "languageTag":  "ca-ES",
+        "countryIso2":  "ES"
+    },
+    {
+        "cultureId":  "ca-ES-valencia",
+        "displayName":  "Valencian (Spain)",
+        "languageTag":  "ca-ES-valencia",
+        "countryIso2":  "ES"
+    },
+    {
+        "cultureId":  "ca-FR",
+        "displayName":  "Catalan (France)",
+        "languageTag":  "ca-FR",
+        "countryIso2":  "FR"
+    },
+    {
+        "cultureId":  "ca-IT",
+        "displayName":  "Catalan (Italy)",
+        "languageTag":  "ca-IT",
+        "countryIso2":  "IT"
+    },
+    {
+        "cultureId":  "ccp-Cakm-BD",
+        "displayName":  "Chakma (Chakma, Bangladesh)",
+        "languageTag":  "ccp-Cakm-BD",
+        "countryIso2":  "BD"
+    },
+    {
+        "cultureId":  "ccp-Cakm-IN",
+        "displayName":  "Chakma (Chakma, India)",
+        "languageTag":  "ccp-Cakm-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "ce-RU",
+        "displayName":  "Chechen (Russia)",
+        "languageTag":  "ce-RU",
+        "countryIso2":  "RU"
+    },
+    {
+        "cultureId":  "ceb-Latn-PH",
+        "displayName":  "Cebuano (Latin, Philippines)",
+        "languageTag":  "ceb-Latn-PH",
+        "countryIso2":  "PH"
+    },
+    {
+        "cultureId":  "cgg-UG",
+        "displayName":  "Chiga (Uganda)",
+        "languageTag":  "cgg-UG",
+        "countryIso2":  "UG"
+    },
+    {
+        "cultureId":  "chr-Cher-US",
+        "displayName":  "Cherokee (Cherokee)",
+        "languageTag":  "chr-Cher-US",
+        "countryIso2":  "US"
+    },
+    {
+        "cultureId":  "co-FR",
+        "displayName":  "Corsican (France)",
+        "languageTag":  "co-FR",
+        "countryIso2":  "FR"
+    },
+    {
+        "cultureId":  "cs-CZ",
+        "displayName":  "Czech (Czech Republic)",
+        "languageTag":  "cs-CZ",
+        "countryIso2":  "CZ"
+    },
+    {
+        "cultureId":  "cu-RU",
+        "displayName":  "Church Slavic (Russia)",
+        "languageTag":  "cu-RU",
+        "countryIso2":  "RU"
+    },
+    {
+        "cultureId":  "cv-Cyrl-RU",
+        "displayName":  "Chuvash (Cyrillic, Russia)",
+        "languageTag":  "cv-Cyrl-RU",
+        "countryIso2":  "RU"
+    },
+    {
+        "cultureId":  "cy-GB",
+        "displayName":  "Welsh (United Kingdom)",
+        "languageTag":  "cy-GB",
+        "countryIso2":  "GB"
+    },
+    {
+        "cultureId":  "da-DK",
+        "displayName":  "Danish (Denmark)",
+        "languageTag":  "da-DK",
+        "countryIso2":  "DK"
+    },
+    {
+        "cultureId":  "da-GL",
+        "displayName":  "Danish (Greenland)",
+        "languageTag":  "da-GL",
+        "countryIso2":  "GL"
+    },
+    {
+        "cultureId":  "dav-KE",
+        "displayName":  "Taita (Kenya)",
+        "languageTag":  "dav-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "de-AT",
+        "displayName":  "German (Austria)",
+        "languageTag":  "de-AT",
+        "countryIso2":  "AT"
+    },
+    {
+        "cultureId":  "de-BE",
+        "displayName":  "German (Belgium)",
+        "languageTag":  "de-BE",
+        "countryIso2":  "BE"
+    },
+    {
+        "cultureId":  "de-CH",
+        "displayName":  "German (Switzerland)",
+        "languageTag":  "de-CH",
+        "countryIso2":  "CH"
+    },
+    {
+        "cultureId":  "de-DE",
+        "displayName":  "German (Germany)",
+        "languageTag":  "de-DE",
+        "countryIso2":  "DE"
+    },
+    {
+        "cultureId":  "de-IT",
+        "displayName":  "German (Italy)",
+        "languageTag":  "de-IT",
+        "countryIso2":  "IT"
+    },
+    {
+        "cultureId":  "de-LI",
+        "displayName":  "German (Liechtenstein)",
+        "languageTag":  "de-LI",
+        "countryIso2":  "LI"
+    },
+    {
+        "cultureId":  "de-LU",
+        "displayName":  "German (Luxembourg)",
+        "languageTag":  "de-LU",
+        "countryIso2":  "LU"
+    },
+    {
+        "cultureId":  "dje-NE",
+        "displayName":  "Zarma (Niger)",
+        "languageTag":  "dje-NE",
+        "countryIso2":  "NE"
+    },
+    {
+        "cultureId":  "doi-Deva-IN",
+        "displayName":  "Dogri (Devanagari, India)",
+        "languageTag":  "doi-Deva-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "dsb-DE",
+        "displayName":  "Lower Sorbian (Germany)",
+        "languageTag":  "dsb-DE",
+        "countryIso2":  "DE"
+    },
+    {
+        "cultureId":  "dua-CM",
+        "displayName":  "Duala (Cameroon)",
+        "languageTag":  "dua-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "dv-MV",
+        "displayName":  "Divehi (Maldives)",
+        "languageTag":  "dv-MV",
+        "countryIso2":  "MV"
+    },
+    {
+        "cultureId":  "dyo-SN",
+        "displayName":  "Jola-Fonyi (Senegal)",
+        "languageTag":  "dyo-SN",
+        "countryIso2":  "SN"
+    },
+    {
+        "cultureId":  "dz-BT",
+        "displayName":  "Dzongkha (Bhutan)",
+        "languageTag":  "dz-BT",
+        "countryIso2":  "BT"
+    },
+    {
+        "cultureId":  "ebu-KE",
+        "displayName":  "Embu (Kenya)",
+        "languageTag":  "ebu-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "ee-GH",
+        "displayName":  "Ewe (Ghana)",
+        "languageTag":  "ee-GH",
+        "countryIso2":  "GH"
+    },
+    {
+        "cultureId":  "ee-TG",
+        "displayName":  "Ewe (Togo)",
+        "languageTag":  "ee-TG",
+        "countryIso2":  "TG"
+    },
+    {
+        "cultureId":  "el-CY",
+        "displayName":  "Greek (Cyprus)",
+        "languageTag":  "el-CY",
+        "countryIso2":  "CY"
+    },
+    {
+        "cultureId":  "el-GR",
+        "displayName":  "Greek (Greece)",
+        "languageTag":  "el-GR",
+        "countryIso2":  "GR"
+    },
+    {
+        "cultureId":  "en-001",
+        "displayName":  "English (World)",
+        "languageTag":  "en-001",
+        "countryIso2":  "001"
+    },
+    {
+        "cultureId":  "en-029",
+        "displayName":  "English (Caribbean)",
+        "languageTag":  "en-029",
+        "countryIso2":  "029"
+    },
+    {
+        "cultureId":  "en-150",
+        "displayName":  "English (Europe)",
+        "languageTag":  "en-150",
+        "countryIso2":  "150"
+    },
+    {
+        "cultureId":  "en-AE",
+        "displayName":  "English (United Arab Emirates)",
+        "languageTag":  "en-AE",
+        "countryIso2":  "AE"
+    },
+    {
+        "cultureId":  "en-AG",
+        "displayName":  "English (Antigua and Barbuda)",
+        "languageTag":  "en-AG",
+        "countryIso2":  "AG"
+    },
+    {
+        "cultureId":  "en-AI",
+        "displayName":  "English (Anguilla)",
+        "languageTag":  "en-AI",
+        "countryIso2":  "AI"
+    },
+    {
+        "cultureId":  "en-AS",
+        "displayName":  "English (American Samoa)",
+        "languageTag":  "en-AS",
+        "countryIso2":  "AS"
+    },
+    {
+        "cultureId":  "en-AT",
+        "displayName":  "English (Austria)",
+        "languageTag":  "en-AT",
+        "countryIso2":  "AT"
+    },
+    {
+        "cultureId":  "en-AU",
+        "displayName":  "English (Australia)",
+        "languageTag":  "en-AU",
+        "countryIso2":  "AU"
+    },
+    {
+        "cultureId":  "en-BB",
+        "displayName":  "English (Barbados)",
+        "languageTag":  "en-BB",
+        "countryIso2":  "BB"
+    },
+    {
+        "cultureId":  "en-BE",
+        "displayName":  "English (Belgium)",
+        "languageTag":  "en-BE",
+        "countryIso2":  "BE"
+    },
+    {
+        "cultureId":  "en-BI",
+        "displayName":  "English (Burundi)",
+        "languageTag":  "en-BI",
+        "countryIso2":  "BI"
+    },
+    {
+        "cultureId":  "en-BM",
+        "displayName":  "English (Bermuda)",
+        "languageTag":  "en-BM",
+        "countryIso2":  "BM"
+    },
+    {
+        "cultureId":  "en-BS",
+        "displayName":  "English (Bahamas)",
+        "languageTag":  "en-BS",
+        "countryIso2":  "BS"
+    },
+    {
+        "cultureId":  "en-BW",
+        "displayName":  "English (Botswana)",
+        "languageTag":  "en-BW",
+        "countryIso2":  "BW"
+    },
+    {
+        "cultureId":  "en-BZ",
+        "displayName":  "English (Belize)",
+        "languageTag":  "en-BZ",
+        "countryIso2":  "BZ"
+    },
+    {
+        "cultureId":  "en-CA",
+        "displayName":  "English (Canada)",
+        "languageTag":  "en-CA",
+        "countryIso2":  "CA"
+    },
+    {
+        "cultureId":  "en-CC",
+        "displayName":  "English (Cocos [Keeling] Islands)",
+        "languageTag":  "en-CC",
+        "countryIso2":  "CC"
+    },
+    {
+        "cultureId":  "en-CH",
+        "displayName":  "English (Switzerland)",
+        "languageTag":  "en-CH",
+        "countryIso2":  "CH"
+    },
+    {
+        "cultureId":  "en-CK",
+        "displayName":  "English (Cook Islands)",
+        "languageTag":  "en-CK",
+        "countryIso2":  "CK"
+    },
+    {
+        "cultureId":  "en-CM",
+        "displayName":  "English (Cameroon)",
+        "languageTag":  "en-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "en-CX",
+        "displayName":  "English (Christmas Island)",
+        "languageTag":  "en-CX",
+        "countryIso2":  "CX"
+    },
+    {
+        "cultureId":  "en-CY",
+        "displayName":  "English (Cyprus)",
+        "languageTag":  "en-CY",
+        "countryIso2":  "CY"
+    },
+    {
+        "cultureId":  "en-DE",
+        "displayName":  "English (Germany)",
+        "languageTag":  "en-DE",
+        "countryIso2":  "DE"
+    },
+    {
+        "cultureId":  "en-DK",
+        "displayName":  "English (Denmark)",
+        "languageTag":  "en-DK",
+        "countryIso2":  "DK"
+    },
+    {
+        "cultureId":  "en-DM",
+        "displayName":  "English (Dominica)",
+        "languageTag":  "en-DM",
+        "countryIso2":  "DM"
+    },
+    {
+        "cultureId":  "en-ER",
+        "displayName":  "English (Eritrea)",
+        "languageTag":  "en-ER",
+        "countryIso2":  "ER"
+    },
+    {
+        "cultureId":  "en-FI",
+        "displayName":  "English (Finland)",
+        "languageTag":  "en-FI",
+        "countryIso2":  "FI"
+    },
+    {
+        "cultureId":  "en-FJ",
+        "displayName":  "English (Fiji)",
+        "languageTag":  "en-FJ",
+        "countryIso2":  "FJ"
+    },
+    {
+        "cultureId":  "en-FK",
+        "displayName":  "English (Falkland Islands)",
+        "languageTag":  "en-FK",
+        "countryIso2":  "FK"
+    },
+    {
+        "cultureId":  "en-FM",
+        "displayName":  "English (Micronesia)",
+        "languageTag":  "en-FM",
+        "countryIso2":  "FM"
+    },
+    {
+        "cultureId":  "en-GB",
+        "displayName":  "English (United Kingdom)",
+        "languageTag":  "en-GB",
+        "countryIso2":  "GB"
+    },
+    {
+        "cultureId":  "en-GD",
+        "displayName":  "English (Grenada)",
+        "languageTag":  "en-GD",
+        "countryIso2":  "GD"
+    },
+    {
+        "cultureId":  "en-GG",
+        "displayName":  "English (Guernsey)",
+        "languageTag":  "en-GG",
+        "countryIso2":  "GG"
+    },
+    {
+        "cultureId":  "en-GH",
+        "displayName":  "English (Ghana)",
+        "languageTag":  "en-GH",
+        "countryIso2":  "GH"
+    },
+    {
+        "cultureId":  "en-GI",
+        "displayName":  "English (Gibraltar)",
+        "languageTag":  "en-GI",
+        "countryIso2":  "GI"
+    },
+    {
+        "cultureId":  "en-GM",
+        "displayName":  "English (Gambia)",
+        "languageTag":  "en-GM",
+        "countryIso2":  "GM"
+    },
+    {
+        "cultureId":  "en-GU",
+        "displayName":  "English (Guam)",
+        "languageTag":  "en-GU",
+        "countryIso2":  "GU"
+    },
+    {
+        "cultureId":  "en-GY",
+        "displayName":  "English (Guyana)",
+        "languageTag":  "en-GY",
+        "countryIso2":  "GY"
+    },
+    {
+        "cultureId":  "en-HK",
+        "displayName":  "English (Hong Kong SAR)",
+        "languageTag":  "en-HK",
+        "countryIso2":  "HK"
+    },
+    {
+        "cultureId":  "en-ID",
+        "displayName":  "English (Indonesia)",
+        "languageTag":  "en-ID",
+        "countryIso2":  "ID"
+    },
+    {
+        "cultureId":  "en-IE",
+        "displayName":  "English (Ireland)",
+        "languageTag":  "en-IE",
+        "countryIso2":  "IE"
+    },
+    {
+        "cultureId":  "en-IL",
+        "displayName":  "English (Israel)",
+        "languageTag":  "en-IL",
+        "countryIso2":  "IL"
+    },
+    {
+        "cultureId":  "en-IM",
+        "displayName":  "English (Isle of Man)",
+        "languageTag":  "en-IM",
+        "countryIso2":  "IM"
+    },
+    {
+        "cultureId":  "en-IN",
+        "displayName":  "English (India)",
+        "languageTag":  "en-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "en-IO",
+        "displayName":  "English (British Indian Ocean Territory)",
+        "languageTag":  "en-IO",
+        "countryIso2":  "IO"
+    },
+    {
+        "cultureId":  "en-JE",
+        "displayName":  "English (Jersey)",
+        "languageTag":  "en-JE",
+        "countryIso2":  "JE"
+    },
+    {
+        "cultureId":  "en-JM",
+        "displayName":  "English (Jamaica)",
+        "languageTag":  "en-JM",
+        "countryIso2":  "JM"
+    },
+    {
+        "cultureId":  "en-KE",
+        "displayName":  "English (Kenya)",
+        "languageTag":  "en-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "en-KI",
+        "displayName":  "English (Kiribati)",
+        "languageTag":  "en-KI",
+        "countryIso2":  "KI"
+    },
+    {
+        "cultureId":  "en-KN",
+        "displayName":  "English (Saint Kitts and Nevis)",
+        "languageTag":  "en-KN",
+        "countryIso2":  "KN"
+    },
+    {
+        "cultureId":  "en-KY",
+        "displayName":  "English (Cayman Islands)",
+        "languageTag":  "en-KY",
+        "countryIso2":  "KY"
+    },
+    {
+        "cultureId":  "en-LC",
+        "displayName":  "English (Saint Lucia)",
+        "languageTag":  "en-LC",
+        "countryIso2":  "LC"
+    },
+    {
+        "cultureId":  "en-LR",
+        "displayName":  "English (Liberia)",
+        "languageTag":  "en-LR",
+        "countryIso2":  "LR"
+    },
+    {
+        "cultureId":  "en-LS",
+        "displayName":  "English (Lesotho)",
+        "languageTag":  "en-LS",
+        "countryIso2":  "LS"
+    },
+    {
+        "cultureId":  "en-MG",
+        "displayName":  "English (Madagascar)",
+        "languageTag":  "en-MG",
+        "countryIso2":  "MG"
+    },
+    {
+        "cultureId":  "en-MH",
+        "displayName":  "English (Marshall Islands)",
+        "languageTag":  "en-MH",
+        "countryIso2":  "MH"
+    },
+    {
+        "cultureId":  "en-MO",
+        "displayName":  "English (Macao SAR)",
+        "languageTag":  "en-MO",
+        "countryIso2":  "MO"
+    },
+    {
+        "cultureId":  "en-MP",
+        "displayName":  "English (Northern Mariana Islands)",
+        "languageTag":  "en-MP",
+        "countryIso2":  "MP"
+    },
+    {
+        "cultureId":  "en-MS",
+        "displayName":  "English (Montserrat)",
+        "languageTag":  "en-MS",
+        "countryIso2":  "MS"
+    },
+    {
+        "cultureId":  "en-MT",
+        "displayName":  "English (Malta)",
+        "languageTag":  "en-MT",
+        "countryIso2":  "MT"
+    },
+    {
+        "cultureId":  "en-MU",
+        "displayName":  "English (Mauritius)",
+        "languageTag":  "en-MU",
+        "countryIso2":  "MU"
+    },
+    {
+        "cultureId":  "en-MV",
+        "displayName":  "English (Maldives)",
+        "languageTag":  "en-MV",
+        "countryIso2":  "MV"
+    },
+    {
+        "cultureId":  "en-MW",
+        "displayName":  "English (Malawi)",
+        "languageTag":  "en-MW",
+        "countryIso2":  "MW"
+    },
+    {
+        "cultureId":  "en-MY",
+        "displayName":  "English (Malaysia)",
+        "languageTag":  "en-MY",
+        "countryIso2":  "MY"
+    },
+    {
+        "cultureId":  "en-NA",
+        "displayName":  "English (Namibia)",
+        "languageTag":  "en-NA",
+        "countryIso2":  "NA"
+    },
+    {
+        "cultureId":  "en-NF",
+        "displayName":  "English (Norfolk Island)",
+        "languageTag":  "en-NF",
+        "countryIso2":  "NF"
+    },
+    {
+        "cultureId":  "en-NG",
+        "displayName":  "English (Nigeria)",
+        "languageTag":  "en-NG",
+        "countryIso2":  "NG"
+    },
+    {
+        "cultureId":  "en-NL",
+        "displayName":  "English (Netherlands)",
+        "languageTag":  "en-NL",
+        "countryIso2":  "NL"
+    },
+    {
+        "cultureId":  "en-NR",
+        "displayName":  "English (Nauru)",
+        "languageTag":  "en-NR",
+        "countryIso2":  "NR"
+    },
+    {
+        "cultureId":  "en-NU",
+        "displayName":  "English (Niue)",
+        "languageTag":  "en-NU",
+        "countryIso2":  "NU"
+    },
+    {
+        "cultureId":  "en-NZ",
+        "displayName":  "English (New Zealand)",
+        "languageTag":  "en-NZ",
+        "countryIso2":  "NZ"
+    },
+    {
+        "cultureId":  "en-PG",
+        "displayName":  "English (Papua New Guinea)",
+        "languageTag":  "en-PG",
+        "countryIso2":  "PG"
+    },
+    {
+        "cultureId":  "en-PH",
+        "displayName":  "English (Republic of the Philippines)",
+        "languageTag":  "en-PH",
+        "countryIso2":  "PH"
+    },
+    {
+        "cultureId":  "en-PK",
+        "displayName":  "English (Pakistan)",
+        "languageTag":  "en-PK",
+        "countryIso2":  "PK"
+    },
+    {
+        "cultureId":  "en-PN",
+        "displayName":  "English (Pitcairn Islands)",
+        "languageTag":  "en-PN",
+        "countryIso2":  "PN"
+    },
+    {
+        "cultureId":  "en-PR",
+        "displayName":  "English (Puerto Rico)",
+        "languageTag":  "en-PR",
+        "countryIso2":  "PR"
+    },
+    {
+        "cultureId":  "en-PW",
+        "displayName":  "English (Palau)",
+        "languageTag":  "en-PW",
+        "countryIso2":  "PW"
+    },
+    {
+        "cultureId":  "en-RW",
+        "displayName":  "English (Rwanda)",
+        "languageTag":  "en-RW",
+        "countryIso2":  "RW"
+    },
+    {
+        "cultureId":  "en-SB",
+        "displayName":  "English (Solomon Islands)",
+        "languageTag":  "en-SB",
+        "countryIso2":  "SB"
+    },
+    {
+        "cultureId":  "en-SC",
+        "displayName":  "English (Seychelles)",
+        "languageTag":  "en-SC",
+        "countryIso2":  "SC"
+    },
+    {
+        "cultureId":  "en-SD",
+        "displayName":  "English (Sudan)",
+        "languageTag":  "en-SD",
+        "countryIso2":  "SD"
+    },
+    {
+        "cultureId":  "en-SE",
+        "displayName":  "English (Sweden)",
+        "languageTag":  "en-SE",
+        "countryIso2":  "SE"
+    },
+    {
+        "cultureId":  "en-SG",
+        "displayName":  "English (Singapore)",
+        "languageTag":  "en-SG",
+        "countryIso2":  "SG"
+    },
+    {
+        "cultureId":  "en-SH",
+        "displayName":  "English (St Helena, Ascension, Tristan da Cunha)",
+        "languageTag":  "en-SH",
+        "countryIso2":  "SH"
+    },
+    {
+        "cultureId":  "en-SI",
+        "displayName":  "English (Slovenia)",
+        "languageTag":  "en-SI",
+        "countryIso2":  "SI"
+    },
+    {
+        "cultureId":  "en-SL",
+        "displayName":  "English (Sierra Leone)",
+        "languageTag":  "en-SL",
+        "countryIso2":  "SL"
+    },
+    {
+        "cultureId":  "en-SS",
+        "displayName":  "English (South Sudan)",
+        "languageTag":  "en-SS",
+        "countryIso2":  "SS"
+    },
+    {
+        "cultureId":  "en-SX",
+        "displayName":  "English (Sint Maarten)",
+        "languageTag":  "en-SX",
+        "countryIso2":  "SX"
+    },
+    {
+        "cultureId":  "en-SZ",
+        "displayName":  "English (Swaziland)",
+        "languageTag":  "en-SZ",
+        "countryIso2":  "SZ"
+    },
+    {
+        "cultureId":  "en-TC",
+        "displayName":  "English (Turks and Caicos Islands)",
+        "languageTag":  "en-TC",
+        "countryIso2":  "TC"
+    },
+    {
+        "cultureId":  "en-TK",
+        "displayName":  "English (Tokelau)",
+        "languageTag":  "en-TK",
+        "countryIso2":  "TK"
+    },
+    {
+        "cultureId":  "en-TO",
+        "displayName":  "English (Tonga)",
+        "languageTag":  "en-TO",
+        "countryIso2":  "TO"
+    },
+    {
+        "cultureId":  "en-TT",
+        "displayName":  "English (Trinidad and Tobago)",
+        "languageTag":  "en-TT",
+        "countryIso2":  "TT"
+    },
+    {
+        "cultureId":  "en-TV",
+        "displayName":  "English (Tuvalu)",
+        "languageTag":  "en-TV",
+        "countryIso2":  "TV"
+    },
+    {
+        "cultureId":  "en-TZ",
+        "displayName":  "English (Tanzania)",
+        "languageTag":  "en-TZ",
+        "countryIso2":  "TZ"
+    },
+    {
+        "cultureId":  "en-UG",
+        "displayName":  "English (Uganda)",
+        "languageTag":  "en-UG",
+        "countryIso2":  "UG"
+    },
+    {
+        "cultureId":  "en-UM",
+        "displayName":  "English (US Minor Outlying Islands)",
+        "languageTag":  "en-UM",
+        "countryIso2":  "UM"
+    },
+    {
+        "cultureId":  "en-US",
+        "displayName":  "English (United States)",
+        "languageTag":  "en-US",
+        "countryIso2":  "US"
+    },
+    {
+        "cultureId":  "en-VC",
+        "displayName":  "English (Saint Vincent and the Grenadines)",
+        "languageTag":  "en-VC",
+        "countryIso2":  "VC"
+    },
+    {
+        "cultureId":  "en-VG",
+        "displayName":  "English (British Virgin Islands)",
+        "languageTag":  "en-VG",
+        "countryIso2":  "VG"
+    },
+    {
+        "cultureId":  "en-VI",
+        "displayName":  "English (US Virgin Islands)",
+        "languageTag":  "en-VI",
+        "countryIso2":  "VI"
+    },
+    {
+        "cultureId":  "en-VU",
+        "displayName":  "English (Vanuatu)",
+        "languageTag":  "en-VU",
+        "countryIso2":  "VU"
+    },
+    {
+        "cultureId":  "en-WS",
+        "displayName":  "English (Samoa)",
+        "languageTag":  "en-WS",
+        "countryIso2":  "WS"
+    },
+    {
+        "cultureId":  "en-ZA",
+        "displayName":  "English (South Africa)",
+        "languageTag":  "en-ZA",
+        "countryIso2":  "ZA"
+    },
+    {
+        "cultureId":  "en-ZM",
+        "displayName":  "English (Zambia)",
+        "languageTag":  "en-ZM",
+        "countryIso2":  "ZM"
+    },
+    {
+        "cultureId":  "en-ZW",
+        "displayName":  "English (Zimbabwe)",
+        "languageTag":  "en-ZW",
+        "countryIso2":  "ZW"
+    },
+    {
+        "cultureId":  "eo-001",
+        "displayName":  "Esperanto (World)",
+        "languageTag":  "eo-001",
+        "countryIso2":  "001"
+    },
+    {
+        "cultureId":  "es-419",
+        "displayName":  "Spanish (Latin America)",
+        "languageTag":  "es-419",
+        "countryIso2":  "419"
+    },
+    {
+        "cultureId":  "es-AR",
+        "displayName":  "Spanish (Argentina)",
+        "languageTag":  "es-AR",
+        "countryIso2":  "AR"
+    },
+    {
+        "cultureId":  "es-BO",
+        "displayName":  "Spanish (Bolivia)",
+        "languageTag":  "es-BO",
+        "countryIso2":  "BO"
+    },
+    {
+        "cultureId":  "es-BR",
+        "displayName":  "Spanish (Brazil)",
+        "languageTag":  "es-BR",
+        "countryIso2":  "BR"
+    },
+    {
+        "cultureId":  "es-BZ",
+        "displayName":  "Spanish (Belize)",
+        "languageTag":  "es-BZ",
+        "countryIso2":  "BZ"
+    },
+    {
+        "cultureId":  "es-CL",
+        "displayName":  "Spanish (Chile)",
+        "languageTag":  "es-CL",
+        "countryIso2":  "CL"
+    },
+    {
+        "cultureId":  "es-CO",
+        "displayName":  "Spanish (Colombia)",
+        "languageTag":  "es-CO",
+        "countryIso2":  "CO"
+    },
+    {
+        "cultureId":  "es-CR",
+        "displayName":  "Spanish (Costa Rica)",
+        "languageTag":  "es-CR",
+        "countryIso2":  "CR"
+    },
+    {
+        "cultureId":  "es-CU",
+        "displayName":  "Spanish (Cuba)",
+        "languageTag":  "es-CU",
+        "countryIso2":  "CU"
+    },
+    {
+        "cultureId":  "es-DO",
+        "displayName":  "Spanish (Dominican Republic)",
+        "languageTag":  "es-DO",
+        "countryIso2":  "DO"
+    },
+    {
+        "cultureId":  "es-EC",
+        "displayName":  "Spanish (Ecuador)",
+        "languageTag":  "es-EC",
+        "countryIso2":  "EC"
+    },
+    {
+        "cultureId":  "es-ES",
+        "displayName":  "Spanish (Spain)",
+        "languageTag":  "es-ES",
+        "countryIso2":  "ES"
+    },
+    {
+        "cultureId":  "es-GQ",
+        "displayName":  "Spanish (Equatorial Guinea)",
+        "languageTag":  "es-GQ",
+        "countryIso2":  "GQ"
+    },
+    {
+        "cultureId":  "es-GT",
+        "displayName":  "Spanish (Guatemala)",
+        "languageTag":  "es-GT",
+        "countryIso2":  "GT"
+    },
+    {
+        "cultureId":  "es-HN",
+        "displayName":  "Spanish (Honduras)",
+        "languageTag":  "es-HN",
+        "countryIso2":  "HN"
+    },
+    {
+        "cultureId":  "es-MX",
+        "displayName":  "Spanish (Mexico)",
+        "languageTag":  "es-MX",
+        "countryIso2":  "MX"
+    },
+    {
+        "cultureId":  "es-NI",
+        "displayName":  "Spanish (Nicaragua)",
+        "languageTag":  "es-NI",
+        "countryIso2":  "NI"
+    },
+    {
+        "cultureId":  "es-PA",
+        "displayName":  "Spanish (Panama)",
+        "languageTag":  "es-PA",
+        "countryIso2":  "PA"
+    },
+    {
+        "cultureId":  "es-PE",
+        "displayName":  "Spanish (Peru)",
+        "languageTag":  "es-PE",
+        "countryIso2":  "PE"
+    },
+    {
+        "cultureId":  "es-PH",
+        "displayName":  "Spanish (Philippines)",
+        "languageTag":  "es-PH",
+        "countryIso2":  "PH"
+    },
+    {
+        "cultureId":  "es-PR",
+        "displayName":  "Spanish (Puerto Rico)",
+        "languageTag":  "es-PR",
+        "countryIso2":  "PR"
+    },
+    {
+        "cultureId":  "es-PY",
+        "displayName":  "Spanish (Paraguay)",
+        "languageTag":  "es-PY",
+        "countryIso2":  "PY"
+    },
+    {
+        "cultureId":  "es-SV",
+        "displayName":  "Spanish (El Salvador)",
+        "languageTag":  "es-SV",
+        "countryIso2":  "SV"
+    },
+    {
+        "cultureId":  "es-US",
+        "displayName":  "Spanish (United States)",
+        "languageTag":  "es-US",
+        "countryIso2":  "US"
+    },
+    {
+        "cultureId":  "es-UY",
+        "displayName":  "Spanish (Uruguay)",
+        "languageTag":  "es-UY",
+        "countryIso2":  "UY"
+    },
+    {
+        "cultureId":  "es-VE",
+        "displayName":  "Spanish (Bolivarian Republic of Venezuela)",
+        "languageTag":  "es-VE",
+        "countryIso2":  "VE"
+    },
+    {
+        "cultureId":  "et-EE",
+        "displayName":  "Estonian (Estonia)",
+        "languageTag":  "et-EE",
+        "countryIso2":  "EE"
+    },
+    {
+        "cultureId":  "eu-ES",
+        "displayName":  "Basque (Basque)",
+        "languageTag":  "eu-ES",
+        "countryIso2":  "ES"
+    },
+    {
+        "cultureId":  "ewo-CM",
+        "displayName":  "Ewondo (Cameroon)",
+        "languageTag":  "ewo-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "fa-AF",
+        "displayName":  "Persian (Afghanistan)",
+        "languageTag":  "fa-AF",
+        "countryIso2":  "AF"
+    },
+    {
+        "cultureId":  "fa-IR",
+        "displayName":  "Persian (Iran)",
+        "languageTag":  "fa-IR",
+        "countryIso2":  "IR"
+    },
+    {
+        "cultureId":  "ff-Adlm-BF",
+        "displayName":  "Fula (Adlam, Burkina Faso)",
+        "languageTag":  "ff-Adlm-BF",
+        "countryIso2":  "BF"
+    },
+    {
+        "cultureId":  "ff-Adlm-CM",
+        "displayName":  "Fula (Adlam, Cameroon)",
+        "languageTag":  "ff-Adlm-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "ff-Adlm-GH",
+        "displayName":  "Fula (Adlam, Ghana)",
+        "languageTag":  "ff-Adlm-GH",
+        "countryIso2":  "GH"
+    },
+    {
+        "cultureId":  "ff-Adlm-GM",
+        "displayName":  "Fula (Adlam, Gambia)",
+        "languageTag":  "ff-Adlm-GM",
+        "countryIso2":  "GM"
+    },
+    {
+        "cultureId":  "ff-Adlm-GN",
+        "displayName":  "Fula (Adlam, Guinea)",
+        "languageTag":  "ff-Adlm-GN",
+        "countryIso2":  "GN"
+    },
+    {
+        "cultureId":  "ff-Adlm-GW",
+        "displayName":  "Fula (Adlam, Guinea-Bissau)",
+        "languageTag":  "ff-Adlm-GW",
+        "countryIso2":  "GW"
+    },
+    {
+        "cultureId":  "ff-Adlm-LR",
+        "displayName":  "Fula (Adlam, Liberia)",
+        "languageTag":  "ff-Adlm-LR",
+        "countryIso2":  "LR"
+    },
+    {
+        "cultureId":  "ff-Adlm-MR",
+        "displayName":  "Fula (Adlam, Mauritania)",
+        "languageTag":  "ff-Adlm-MR",
+        "countryIso2":  "MR"
+    },
+    {
+        "cultureId":  "ff-Adlm-NE",
+        "displayName":  "Fula (Adlam, Niger)",
+        "languageTag":  "ff-Adlm-NE",
+        "countryIso2":  "NE"
+    },
+    {
+        "cultureId":  "ff-Adlm-NG",
+        "displayName":  "Fula (Adlam, Nigeria)",
+        "languageTag":  "ff-Adlm-NG",
+        "countryIso2":  "NG"
+    },
+    {
+        "cultureId":  "ff-Adlm-SL",
+        "displayName":  "Fula (Adlam, Sierra Leone)",
+        "languageTag":  "ff-Adlm-SL",
+        "countryIso2":  "SL"
+    },
+    {
+        "cultureId":  "ff-Adlm-SN",
+        "displayName":  "Fula (Adlam, Senegal)",
+        "languageTag":  "ff-Adlm-SN",
+        "countryIso2":  "SN"
+    },
+    {
+        "cultureId":  "ff-Latn-BF",
+        "displayName":  "Fula (Latin, Burkina Faso)",
+        "languageTag":  "ff-Latn-BF",
+        "countryIso2":  "BF"
+    },
+    {
+        "cultureId":  "ff-Latn-CM",
+        "displayName":  "Fula (Latin, Cameroon)",
+        "languageTag":  "ff-Latn-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "ff-Latn-GH",
+        "displayName":  "Fula (Latin, Ghana)",
+        "languageTag":  "ff-Latn-GH",
+        "countryIso2":  "GH"
+    },
+    {
+        "cultureId":  "ff-Latn-GM",
+        "displayName":  "Fula (Latin, Gambia)",
+        "languageTag":  "ff-Latn-GM",
+        "countryIso2":  "GM"
+    },
+    {
+        "cultureId":  "ff-Latn-GN",
+        "displayName":  "Fula (Latin, Guinea)",
+        "languageTag":  "ff-Latn-GN",
+        "countryIso2":  "GN"
+    },
+    {
+        "cultureId":  "ff-Latn-GW",
+        "displayName":  "Fula (Latin, Guinea-Bissau)",
+        "languageTag":  "ff-Latn-GW",
+        "countryIso2":  "GW"
+    },
+    {
+        "cultureId":  "ff-Latn-LR",
+        "displayName":  "Fula (Latin, Liberia)",
+        "languageTag":  "ff-Latn-LR",
+        "countryIso2":  "LR"
+    },
+    {
+        "cultureId":  "ff-Latn-MR",
+        "displayName":  "Fula (Latin, Mauritania)",
+        "languageTag":  "ff-Latn-MR",
+        "countryIso2":  "MR"
+    },
+    {
+        "cultureId":  "ff-Latn-NE",
+        "displayName":  "Fula (Latin, Niger)",
+        "languageTag":  "ff-Latn-NE",
+        "countryIso2":  "NE"
+    },
+    {
+        "cultureId":  "ff-Latn-NG",
+        "displayName":  "Fula (Latin, Nigeria)",
+        "languageTag":  "ff-Latn-NG",
+        "countryIso2":  "NG"
+    },
+    {
+        "cultureId":  "ff-Latn-SL",
+        "displayName":  "Fula (Latin, Sierra Leone)",
+        "languageTag":  "ff-Latn-SL",
+        "countryIso2":  "SL"
+    },
+    {
+        "cultureId":  "ff-Latn-SN",
+        "displayName":  "Fulah (Latin, Senegal)",
+        "languageTag":  "ff-Latn-SN",
+        "countryIso2":  "SN"
+    },
+    {
+        "cultureId":  "fi-FI",
+        "displayName":  "Finnish (Finland)",
+        "languageTag":  "fi-FI",
+        "countryIso2":  "FI"
+    },
+    {
+        "cultureId":  "fil-PH",
+        "displayName":  "Filipino (Philippines)",
+        "languageTag":  "fil-PH",
+        "countryIso2":  "PH"
+    },
+    {
+        "cultureId":  "fo-DK",
+        "displayName":  "Faroese (Denmark)",
+        "languageTag":  "fo-DK",
+        "countryIso2":  "DK"
+    },
+    {
+        "cultureId":  "fo-FO",
+        "displayName":  "Faroese (Faroe Islands)",
+        "languageTag":  "fo-FO",
+        "countryIso2":  "FO"
+    },
+    {
+        "cultureId":  "fr-029",
+        "displayName":  "French (Caribbean)",
+        "languageTag":  "fr-029",
+        "countryIso2":  "029"
+    },
+    {
+        "cultureId":  "fr-BE",
+        "displayName":  "French (Belgium)",
+        "languageTag":  "fr-BE",
+        "countryIso2":  "BE"
+    },
+    {
+        "cultureId":  "fr-BF",
+        "displayName":  "French (Burkina Faso)",
+        "languageTag":  "fr-BF",
+        "countryIso2":  "BF"
+    },
+    {
+        "cultureId":  "fr-BI",
+        "displayName":  "French (Burundi)",
+        "languageTag":  "fr-BI",
+        "countryIso2":  "BI"
+    },
+    {
+        "cultureId":  "fr-BJ",
+        "displayName":  "French (Benin)",
+        "languageTag":  "fr-BJ",
+        "countryIso2":  "BJ"
+    },
+    {
+        "cultureId":  "fr-BL",
+        "displayName":  "French (Saint Barthélemy)",
+        "languageTag":  "fr-BL",
+        "countryIso2":  "BL"
+    },
+    {
+        "cultureId":  "fr-CA",
+        "displayName":  "French (Canada)",
+        "languageTag":  "fr-CA",
+        "countryIso2":  "CA"
+    },
+    {
+        "cultureId":  "fr-CD",
+        "displayName":  "French (Congo DRC)",
+        "languageTag":  "fr-CD",
+        "countryIso2":  "CD"
+    },
+    {
+        "cultureId":  "fr-CF",
+        "displayName":  "French (Central African Republic)",
+        "languageTag":  "fr-CF",
+        "countryIso2":  "CF"
+    },
+    {
+        "cultureId":  "fr-CG",
+        "displayName":  "French (Congo)",
+        "languageTag":  "fr-CG",
+        "countryIso2":  "CG"
+    },
+    {
+        "cultureId":  "fr-CH",
+        "displayName":  "French (Switzerland)",
+        "languageTag":  "fr-CH",
+        "countryIso2":  "CH"
+    },
+    {
+        "cultureId":  "fr-CI",
+        "displayName":  "French (Côte d’Ivoire)",
+        "languageTag":  "fr-CI",
+        "countryIso2":  "CI"
+    },
+    {
+        "cultureId":  "fr-CM",
+        "displayName":  "French (Cameroon)",
+        "languageTag":  "fr-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "fr-DJ",
+        "displayName":  "French (Djibouti)",
+        "languageTag":  "fr-DJ",
+        "countryIso2":  "DJ"
+    },
+    {
+        "cultureId":  "fr-DZ",
+        "displayName":  "French (Algeria)",
+        "languageTag":  "fr-DZ",
+        "countryIso2":  "DZ"
+    },
+    {
+        "cultureId":  "fr-FR",
+        "displayName":  "French (France)",
+        "languageTag":  "fr-FR",
+        "countryIso2":  "FR"
+    },
+    {
+        "cultureId":  "fr-GA",
+        "displayName":  "French (Gabon)",
+        "languageTag":  "fr-GA",
+        "countryIso2":  "GA"
+    },
+    {
+        "cultureId":  "fr-GF",
+        "displayName":  "French (French Guiana)",
+        "languageTag":  "fr-GF",
+        "countryIso2":  "GF"
+    },
+    {
+        "cultureId":  "fr-GN",
+        "displayName":  "French (Guinea)",
+        "languageTag":  "fr-GN",
+        "countryIso2":  "GN"
+    },
+    {
+        "cultureId":  "fr-GP",
+        "displayName":  "French (Guadeloupe)",
+        "languageTag":  "fr-GP",
+        "countryIso2":  "GP"
+    },
+    {
+        "cultureId":  "fr-GQ",
+        "displayName":  "French (Equatorial Guinea)",
+        "languageTag":  "fr-GQ",
+        "countryIso2":  "GQ"
+    },
+    {
+        "cultureId":  "fr-HT",
+        "displayName":  "French (Haiti)",
+        "languageTag":  "fr-HT",
+        "countryIso2":  "HT"
+    },
+    {
+        "cultureId":  "fr-KM",
+        "displayName":  "French (Comoros)",
+        "languageTag":  "fr-KM",
+        "countryIso2":  "KM"
+    },
+    {
+        "cultureId":  "fr-LU",
+        "displayName":  "French (Luxembourg)",
+        "languageTag":  "fr-LU",
+        "countryIso2":  "LU"
+    },
+    {
+        "cultureId":  "fr-MA",
+        "displayName":  "French (Morocco)",
+        "languageTag":  "fr-MA",
+        "countryIso2":  "MA"
+    },
+    {
+        "cultureId":  "fr-MC",
+        "displayName":  "French (Monaco)",
+        "languageTag":  "fr-MC",
+        "countryIso2":  "MC"
+    },
+    {
+        "cultureId":  "fr-MF",
+        "displayName":  "French (Saint Martin)",
+        "languageTag":  "fr-MF",
+        "countryIso2":  "MF"
+    },
+    {
+        "cultureId":  "fr-MG",
+        "displayName":  "French (Madagascar)",
+        "languageTag":  "fr-MG",
+        "countryIso2":  "MG"
+    },
+    {
+        "cultureId":  "fr-ML",
+        "displayName":  "French (Mali)",
+        "languageTag":  "fr-ML",
+        "countryIso2":  "ML"
+    },
+    {
+        "cultureId":  "fr-MQ",
+        "displayName":  "French (Martinique)",
+        "languageTag":  "fr-MQ",
+        "countryIso2":  "MQ"
+    },
+    {
+        "cultureId":  "fr-MR",
+        "displayName":  "French (Mauritania)",
+        "languageTag":  "fr-MR",
+        "countryIso2":  "MR"
+    },
+    {
+        "cultureId":  "fr-MU",
+        "displayName":  "French (Mauritius)",
+        "languageTag":  "fr-MU",
+        "countryIso2":  "MU"
+    },
+    {
+        "cultureId":  "fr-NC",
+        "displayName":  "French (New Caledonia)",
+        "languageTag":  "fr-NC",
+        "countryIso2":  "NC"
+    },
+    {
+        "cultureId":  "fr-NE",
+        "displayName":  "French (Niger)",
+        "languageTag":  "fr-NE",
+        "countryIso2":  "NE"
+    },
+    {
+        "cultureId":  "fr-PF",
+        "displayName":  "French (French Polynesia)",
+        "languageTag":  "fr-PF",
+        "countryIso2":  "PF"
+    },
+    {
+        "cultureId":  "fr-PM",
+        "displayName":  "French (Saint Pierre and Miquelon)",
+        "languageTag":  "fr-PM",
+        "countryIso2":  "PM"
+    },
+    {
+        "cultureId":  "fr-RE",
+        "displayName":  "French (Reunion)",
+        "languageTag":  "fr-RE",
+        "countryIso2":  "RE"
+    },
+    {
+        "cultureId":  "fr-RW",
+        "displayName":  "French (Rwanda)",
+        "languageTag":  "fr-RW",
+        "countryIso2":  "RW"
+    },
+    {
+        "cultureId":  "fr-SC",
+        "displayName":  "French (Seychelles)",
+        "languageTag":  "fr-SC",
+        "countryIso2":  "SC"
+    },
+    {
+        "cultureId":  "fr-SN",
+        "displayName":  "French (Senegal)",
+        "languageTag":  "fr-SN",
+        "countryIso2":  "SN"
+    },
+    {
+        "cultureId":  "fr-SY",
+        "displayName":  "French (Syria)",
+        "languageTag":  "fr-SY",
+        "countryIso2":  "SY"
+    },
+    {
+        "cultureId":  "fr-TD",
+        "displayName":  "French (Chad)",
+        "languageTag":  "fr-TD",
+        "countryIso2":  "TD"
+    },
+    {
+        "cultureId":  "fr-TG",
+        "displayName":  "French (Togo)",
+        "languageTag":  "fr-TG",
+        "countryIso2":  "TG"
+    },
+    {
+        "cultureId":  "fr-TN",
+        "displayName":  "French (Tunisia)",
+        "languageTag":  "fr-TN",
+        "countryIso2":  "TN"
+    },
+    {
+        "cultureId":  "fr-VU",
+        "displayName":  "French (Vanuatu)",
+        "languageTag":  "fr-VU",
+        "countryIso2":  "VU"
+    },
+    {
+        "cultureId":  "fr-WF",
+        "displayName":  "French (Wallis and Futuna)",
+        "languageTag":  "fr-WF",
+        "countryIso2":  "WF"
+    },
+    {
+        "cultureId":  "fr-YT",
+        "displayName":  "French (Mayotte)",
+        "languageTag":  "fr-YT",
+        "countryIso2":  "YT"
+    },
+    {
+        "cultureId":  "fur-IT",
+        "displayName":  "Friulian (Italy)",
+        "languageTag":  "fur-IT",
+        "countryIso2":  "IT"
+    },
+    {
+        "cultureId":  "fy-NL",
+        "displayName":  "Frisian (Netherlands)",
+        "languageTag":  "fy-NL",
+        "countryIso2":  "NL"
+    },
+    {
+        "cultureId":  "ga-GB",
+        "displayName":  "Irish (United Kingdom)",
+        "languageTag":  "ga-GB",
+        "countryIso2":  "GB"
+    },
+    {
+        "cultureId":  "ga-IE",
+        "displayName":  "Irish (Ireland)",
+        "languageTag":  "ga-IE",
+        "countryIso2":  "IE"
+    },
+    {
+        "cultureId":  "gd-GB",
+        "displayName":  "Scottish Gaelic (United Kingdom)",
+        "languageTag":  "gd-GB",
+        "countryIso2":  "GB"
+    },
+    {
+        "cultureId":  "gl-ES",
+        "displayName":  "Galician (Galician)",
+        "languageTag":  "gl-ES",
+        "countryIso2":  "ES"
+    },
+    {
+        "cultureId":  "gn-PY",
+        "displayName":  "Guarani (Paraguay)",
+        "languageTag":  "gn-PY",
+        "countryIso2":  "PY"
+    },
+    {
+        "cultureId":  "gsw-CH",
+        "displayName":  "Alsatian (Switzerland)",
+        "languageTag":  "gsw-CH",
+        "countryIso2":  "CH"
+    },
+    {
+        "cultureId":  "gsw-FR",
+        "displayName":  "Alsatian (France)",
+        "languageTag":  "gsw-FR",
+        "countryIso2":  "FR"
+    },
+    {
+        "cultureId":  "gsw-LI",
+        "displayName":  "Alsatian (Liechtenstein)",
+        "languageTag":  "gsw-LI",
+        "countryIso2":  "LI"
+    },
+    {
+        "cultureId":  "gu-IN",
+        "displayName":  "Gujarati (India)",
+        "languageTag":  "gu-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "guz-KE",
+        "displayName":  "Gusii (Kenya)",
+        "languageTag":  "guz-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "gv-IM",
+        "displayName":  "Manx (Isle of Man)",
+        "languageTag":  "gv-IM",
+        "countryIso2":  "IM"
+    },
+    {
+        "cultureId":  "ha-Latn-GH",
+        "displayName":  "Hausa (Latin, Ghana)",
+        "languageTag":  "ha-Latn-GH",
+        "countryIso2":  "GH"
+    },
+    {
+        "cultureId":  "ha-Latn-NE",
+        "displayName":  "Hausa (Latin, Niger)",
+        "languageTag":  "ha-Latn-NE",
+        "countryIso2":  "NE"
+    },
+    {
+        "cultureId":  "ha-Latn-NG",
+        "displayName":  "Hausa (Latin, Nigeria)",
+        "languageTag":  "ha-Latn-NG",
+        "countryIso2":  "NG"
+    },
+    {
+        "cultureId":  "haw-US",
+        "displayName":  "Hawaiian (United States)",
+        "languageTag":  "haw-US",
+        "countryIso2":  "US"
+    },
+    {
+        "cultureId":  "he-IL",
+        "displayName":  "Hebrew (Israel)",
+        "languageTag":  "he-IL",
+        "countryIso2":  "IL"
+    },
+    {
+        "cultureId":  "hi-IN",
+        "displayName":  "Hindi (India)",
+        "languageTag":  "hi-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "hi-Latn-IN",
+        "displayName":  "Hindi (Latin, India)",
+        "languageTag":  "hi-Latn-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "hr-BA",
+        "displayName":  "Croatian (Latin, Bosnia and Herzegovina)",
+        "languageTag":  "hr-BA",
+        "countryIso2":  "BA"
+    },
+    {
+        "cultureId":  "hr-HR",
+        "displayName":  "Croatian (Croatia)",
+        "languageTag":  "hr-HR",
+        "countryIso2":  "HR"
+    },
+    {
+        "cultureId":  "hsb-DE",
+        "displayName":  "Upper Sorbian (Germany)",
+        "languageTag":  "hsb-DE",
+        "countryIso2":  "DE"
+    },
+    {
+        "cultureId":  "hu-HU",
+        "displayName":  "Hungarian (Hungary)",
+        "languageTag":  "hu-HU",
+        "countryIso2":  "HU"
+    },
+    {
+        "cultureId":  "hy-AM",
+        "displayName":  "Armenian (Armenia)",
+        "languageTag":  "hy-AM",
+        "countryIso2":  "AM"
+    },
+    {
+        "cultureId":  "ia-001",
+        "displayName":  "Interlingua (World)",
+        "languageTag":  "ia-001",
+        "countryIso2":  "001"
+    },
+    {
+        "cultureId":  "ibb-NG",
+        "displayName":  "Ibibio (Nigeria)",
+        "languageTag":  "ibb-NG",
+        "countryIso2":  "NG"
+    },
+    {
+        "cultureId":  "id-ID",
+        "displayName":  "Indonesian (Indonesia)",
+        "languageTag":  "id-ID",
+        "countryIso2":  "ID"
+    },
+    {
+        "cultureId":  "ig-NG",
+        "displayName":  "Igbo (Nigeria)",
+        "languageTag":  "ig-NG",
+        "countryIso2":  "NG"
+    },
+    {
+        "cultureId":  "ii-CN",
+        "displayName":  "Yi (PRC)",
+        "languageTag":  "ii-CN",
+        "countryIso2":  "CN"
+    },
+    {
+        "cultureId":  "is-IS",
+        "displayName":  "Icelandic (Iceland)",
+        "languageTag":  "is-IS",
+        "countryIso2":  "IS"
+    },
+    {
+        "cultureId":  "it-CH",
+        "displayName":  "Italian (Switzerland)",
+        "languageTag":  "it-CH",
+        "countryIso2":  "CH"
+    },
+    {
+        "cultureId":  "it-IT",
+        "displayName":  "Italian (Italy)",
+        "languageTag":  "it-IT",
+        "countryIso2":  "IT"
+    },
+    {
+        "cultureId":  "it-SM",
+        "displayName":  "Italian (San Marino)",
+        "languageTag":  "it-SM",
+        "countryIso2":  "SM"
+    },
+    {
+        "cultureId":  "it-VA",
+        "displayName":  "Italian (Vatican City)",
+        "languageTag":  "it-VA",
+        "countryIso2":  "VA"
+    },
+    {
+        "cultureId":  "iu-Cans-CA",
+        "displayName":  "Inuktitut (Syllabics, Canada)",
+        "languageTag":  "iu-Cans-CA",
+        "countryIso2":  "CA"
+    },
+    {
+        "cultureId":  "iu-Latn-CA",
+        "displayName":  "Inuktitut (Latin, Canada)",
+        "languageTag":  "iu-Latn-CA",
+        "countryIso2":  "CA"
+    },
+    {
+        "cultureId":  "ja-JP",
+        "displayName":  "Japanese (Japan)",
+        "languageTag":  "ja-JP",
+        "countryIso2":  "JP"
+    },
+    {
+        "cultureId":  "jgo-CM",
+        "displayName":  "Ngomba (Cameroon)",
+        "languageTag":  "jgo-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "jmc-TZ",
+        "displayName":  "Machame (Tanzania)",
+        "languageTag":  "jmc-TZ",
+        "countryIso2":  "TZ"
+    },
+    {
+        "cultureId":  "jv-Java-ID",
+        "displayName":  "Javanese (Javanese, Indonesia)",
+        "languageTag":  "jv-Java-ID",
+        "countryIso2":  "ID"
+    },
+    {
+        "cultureId":  "jv-Latn-ID",
+        "displayName":  "Javanese (Indonesia)",
+        "languageTag":  "jv-Latn-ID",
+        "countryIso2":  "ID"
+    },
+    {
+        "cultureId":  "ka-GE",
+        "displayName":  "Georgian (Georgia)",
+        "languageTag":  "ka-GE",
+        "countryIso2":  "GE"
+    },
+    {
+        "cultureId":  "kab-DZ",
+        "displayName":  "Kabyle (Algeria)",
+        "languageTag":  "kab-DZ",
+        "countryIso2":  "DZ"
+    },
+    {
+        "cultureId":  "kam-KE",
+        "displayName":  "Kamba (Kenya)",
+        "languageTag":  "kam-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "kde-TZ",
+        "displayName":  "Makonde (Tanzania)",
+        "languageTag":  "kde-TZ",
+        "countryIso2":  "TZ"
+    },
+    {
+        "cultureId":  "kea-CV",
+        "displayName":  "Kabuverdianu (Cabo Verde)",
+        "languageTag":  "kea-CV",
+        "countryIso2":  "CV"
+    },
+    {
+        "cultureId":  "kgp-Latn-BR",
+        "displayName":  "Kaingang (Latin, Brazil)",
+        "languageTag":  "kgp-Latn-BR",
+        "countryIso2":  "BR"
+    },
+    {
+        "cultureId":  "khq-ML",
+        "displayName":  "Koyra Chiini (Mali)",
+        "languageTag":  "khq-ML",
+        "countryIso2":  "ML"
+    },
+    {
+        "cultureId":  "ki-KE",
+        "displayName":  "Kikuyu (Kenya)",
+        "languageTag":  "ki-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "kk-KZ",
+        "displayName":  "Kazakh (Kazakhstan)",
+        "languageTag":  "kk-KZ",
+        "countryIso2":  "KZ"
+    },
+    {
+        "cultureId":  "kkj-CM",
+        "displayName":  "Kako (Cameroon)",
+        "languageTag":  "kkj-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "kl-GL",
+        "displayName":  "Greenlandic (Greenland)",
+        "languageTag":  "kl-GL",
+        "countryIso2":  "GL"
+    },
+    {
+        "cultureId":  "kln-KE",
+        "displayName":  "Kalenjin (Kenya)",
+        "languageTag":  "kln-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "km-KH",
+        "displayName":  "Khmer (Cambodia)",
+        "languageTag":  "km-KH",
+        "countryIso2":  "KH"
+    },
+    {
+        "cultureId":  "kn-IN",
+        "displayName":  "Kannada (India)",
+        "languageTag":  "kn-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "ko-KP",
+        "displayName":  "Korean (North Korea)",
+        "languageTag":  "ko-KP",
+        "countryIso2":  "KP"
+    },
+    {
+        "cultureId":  "ko-KR",
+        "displayName":  "Korean (Korea)",
+        "languageTag":  "ko-KR",
+        "countryIso2":  "KR"
+    },
+    {
+        "cultureId":  "kok-IN",
+        "displayName":  "Konkani (India)",
+        "languageTag":  "kok-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "kr-Latn-NG",
+        "displayName":  "Kanuri (Latin, Nigeria)",
+        "languageTag":  "kr-Latn-NG",
+        "countryIso2":  "NG"
+    },
+    {
+        "cultureId":  "ks-Arab-IN",
+        "displayName":  "Kashmiri (Perso-Arabic)",
+        "languageTag":  "ks-Arab-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "ks-Deva-IN",
+        "displayName":  "Kashmiri (Devanagari, India)",
+        "languageTag":  "ks-Deva-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "ksb-TZ",
+        "displayName":  "Shambala (Tanzania)",
+        "languageTag":  "ksb-TZ",
+        "countryIso2":  "TZ"
+    },
+    {
+        "cultureId":  "ksf-CM",
+        "displayName":  "Bafia (Cameroon)",
+        "languageTag":  "ksf-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "ksh-DE",
+        "displayName":  "Ripuarian (Germany)",
+        "languageTag":  "ksh-DE",
+        "countryIso2":  "DE"
+    },
+    {
+        "cultureId":  "ku-Arab-IQ",
+        "displayName":  "Central Kurdish (Iraq)",
+        "languageTag":  "ku-Arab-IQ",
+        "countryIso2":  "IQ"
+    },
+    {
+        "cultureId":  "ku-Arab-IR",
+        "displayName":  "Kurdish (Arabic, Iran)",
+        "languageTag":  "ku-Arab-IR",
+        "countryIso2":  "IR"
+    },
+    {
+        "cultureId":  "kw-GB",
+        "displayName":  "Cornish (United Kingdom)",
+        "languageTag":  "kw-GB",
+        "countryIso2":  "GB"
+    },
+    {
+        "cultureId":  "ky-KG",
+        "displayName":  "Kyrgyz (Kyrgyzstan)",
+        "languageTag":  "ky-KG",
+        "countryIso2":  "KG"
+    },
+    {
+        "cultureId":  "la-VA",
+        "displayName":  "Latin (Vatican City)",
+        "languageTag":  "la-VA",
+        "countryIso2":  "VA"
+    },
+    {
+        "cultureId":  "lag-TZ",
+        "displayName":  "Langi (Tanzania)",
+        "languageTag":  "lag-TZ",
+        "countryIso2":  "TZ"
+    },
+    {
+        "cultureId":  "lb-LU",
+        "displayName":  "Luxembourgish (Luxembourg)",
+        "languageTag":  "lb-LU",
+        "countryIso2":  "LU"
+    },
+    {
+        "cultureId":  "lg-UG",
+        "displayName":  "Ganda (Uganda)",
+        "languageTag":  "lg-UG",
+        "countryIso2":  "UG"
+    },
+    {
+        "cultureId":  "lkt-US",
+        "displayName":  "Lakota (United States)",
+        "languageTag":  "lkt-US",
+        "countryIso2":  "US"
+    },
+    {
+        "cultureId":  "ln-AO",
+        "displayName":  "Lingala (Angola)",
+        "languageTag":  "ln-AO",
+        "countryIso2":  "AO"
+    },
+    {
+        "cultureId":  "ln-CD",
+        "displayName":  "Lingala (Congo DRC)",
+        "languageTag":  "ln-CD",
+        "countryIso2":  "CD"
+    },
+    {
+        "cultureId":  "ln-CF",
+        "displayName":  "Lingala (Central African Republic)",
+        "languageTag":  "ln-CF",
+        "countryIso2":  "CF"
+    },
+    {
+        "cultureId":  "ln-CG",
+        "displayName":  "Lingala (Congo)",
+        "languageTag":  "ln-CG",
+        "countryIso2":  "CG"
+    },
+    {
+        "cultureId":  "lo-LA",
+        "displayName":  "Lao (Lao P.D.R.)",
+        "languageTag":  "lo-LA",
+        "countryIso2":  "LA"
+    },
+    {
+        "cultureId":  "lrc-IQ",
+        "displayName":  "Northern Luri (Iraq)",
+        "languageTag":  "lrc-IQ",
+        "countryIso2":  "IQ"
+    },
+    {
+        "cultureId":  "lrc-IR",
+        "displayName":  "Northern Luri (Iran)",
+        "languageTag":  "lrc-IR",
+        "countryIso2":  "IR"
+    },
+    {
+        "cultureId":  "lt-LT",
+        "displayName":  "Lithuanian (Lithuania)",
+        "languageTag":  "lt-LT",
+        "countryIso2":  "LT"
+    },
+    {
+        "cultureId":  "lu-CD",
+        "displayName":  "Luba-Katanga (Congo DRC)",
+        "languageTag":  "lu-CD",
+        "countryIso2":  "CD"
+    },
+    {
+        "cultureId":  "luo-KE",
+        "displayName":  "Luo (Kenya)",
+        "languageTag":  "luo-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "luy-KE",
+        "displayName":  "Luyia (Kenya)",
+        "languageTag":  "luy-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "lv-LV",
+        "displayName":  "Latvian (Latvia)",
+        "languageTag":  "lv-LV",
+        "countryIso2":  "LV"
+    },
+    {
+        "cultureId":  "mai-IN",
+        "displayName":  "Maithili (India)",
+        "languageTag":  "mai-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "mas-KE",
+        "displayName":  "Masai (Kenya)",
+        "languageTag":  "mas-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "mas-TZ",
+        "displayName":  "Masai (Tanzania)",
+        "languageTag":  "mas-TZ",
+        "countryIso2":  "TZ"
+    },
+    {
+        "cultureId":  "mer-KE",
+        "displayName":  "Meru (Kenya)",
+        "languageTag":  "mer-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "mfe-MU",
+        "displayName":  "Morisyen (Mauritius)",
+        "languageTag":  "mfe-MU",
+        "countryIso2":  "MU"
+    },
+    {
+        "cultureId":  "mg-MG",
+        "displayName":  "Malagasy (Madagascar)",
+        "languageTag":  "mg-MG",
+        "countryIso2":  "MG"
+    },
+    {
+        "cultureId":  "mgh-MZ",
+        "displayName":  "Makhuwa-Meetto (Mozambique)",
+        "languageTag":  "mgh-MZ",
+        "countryIso2":  "MZ"
+    },
+    {
+        "cultureId":  "mgo-CM",
+        "displayName":  "Meta\u0027 (Cameroon)",
+        "languageTag":  "mgo-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "mi-NZ",
+        "displayName":  "Maori (New Zealand)",
+        "languageTag":  "mi-NZ",
+        "countryIso2":  "NZ"
+    },
+    {
+        "cultureId":  "mk-MK",
+        "displayName":  "Macedonian (North Macedonia)",
+        "languageTag":  "mk-MK",
+        "countryIso2":  "MK"
+    },
+    {
+        "cultureId":  "ml-IN",
+        "displayName":  "Malayalam (India)",
+        "languageTag":  "ml-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "mn-MN",
+        "displayName":  "Mongolian (Cyrillic, Mongolia)",
+        "languageTag":  "mn-MN",
+        "countryIso2":  "MN"
+    },
+    {
+        "cultureId":  "mn-Mong-CN",
+        "displayName":  "Mongolian (Traditional Mongolian, PRC)",
+        "languageTag":  "mn-Mong-CN",
+        "countryIso2":  "CN"
+    },
+    {
+        "cultureId":  "mn-Mong-MN",
+        "displayName":  "Mongolian (Traditional Mongolian, Mongolia)",
+        "languageTag":  "mn-Mong-MN",
+        "countryIso2":  "MN"
+    },
+    {
+        "cultureId":  "mni-IN",
+        "displayName":  "Manipuri (India)",
+        "languageTag":  "mni-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "moh-CA",
+        "displayName":  "Mohawk (Mohawk)",
+        "languageTag":  "moh-CA",
+        "countryIso2":  "CA"
+    },
+    {
+        "cultureId":  "mr-IN",
+        "displayName":  "Marathi (India)",
+        "languageTag":  "mr-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "ms-BN",
+        "displayName":  "Malay (Brunei Darussalam)",
+        "languageTag":  "ms-BN",
+        "countryIso2":  "BN"
+    },
+    {
+        "cultureId":  "ms-ID",
+        "displayName":  "Malay (Indonesia)",
+        "languageTag":  "ms-ID",
+        "countryIso2":  "ID"
+    },
+    {
+        "cultureId":  "ms-MY",
+        "displayName":  "Malay (Malaysia)",
+        "languageTag":  "ms-MY",
+        "countryIso2":  "MY"
+    },
+    {
+        "cultureId":  "ms-SG",
+        "displayName":  "Malay (Latin, Singapore)",
+        "languageTag":  "ms-SG",
+        "countryIso2":  "SG"
+    },
+    {
+        "cultureId":  "mt-MT",
+        "displayName":  "Maltese (Malta)",
+        "languageTag":  "mt-MT",
+        "countryIso2":  "MT"
+    },
+    {
+        "cultureId":  "mua-CM",
+        "displayName":  "Mundang (Cameroon)",
+        "languageTag":  "mua-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "my-MM",
+        "displayName":  "Burmese (Myanmar)",
+        "languageTag":  "my-MM",
+        "countryIso2":  "MM"
+    },
+    {
+        "cultureId":  "mzn-IR",
+        "displayName":  "Mazanderani (Iran)",
+        "languageTag":  "mzn-IR",
+        "countryIso2":  "IR"
+    },
+    {
+        "cultureId":  "naq-NA",
+        "displayName":  "Nama (Namibia)",
+        "languageTag":  "naq-NA",
+        "countryIso2":  "NA"
+    },
+    {
+        "cultureId":  "nb-NO",
+        "displayName":  "Norwegian, Bokmål (Norway)",
+        "languageTag":  "nb-NO",
+        "countryIso2":  "NO"
+    },
+    {
+        "cultureId":  "nb-SJ",
+        "displayName":  "Norwegian, Bokmål (Svalbard and Jan Mayen)",
+        "languageTag":  "nb-SJ",
+        "countryIso2":  "SJ"
+    },
+    {
+        "cultureId":  "nd-ZW",
+        "displayName":  "North Ndebele (Zimbabwe)",
+        "languageTag":  "nd-ZW",
+        "countryIso2":  "ZW"
+    },
+    {
+        "cultureId":  "nds-DE",
+        "displayName":  "Low German (Germany)",
+        "languageTag":  "nds-DE",
+        "countryIso2":  "DE"
+    },
+    {
+        "cultureId":  "nds-NL",
+        "displayName":  "Low German (Netherlands)",
+        "languageTag":  "nds-NL",
+        "countryIso2":  "NL"
+    },
+    {
+        "cultureId":  "ne-IN",
+        "displayName":  "Nepali (India)",
+        "languageTag":  "ne-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "ne-NP",
+        "displayName":  "Nepali (Nepal)",
+        "languageTag":  "ne-NP",
+        "countryIso2":  "NP"
+    },
+    {
+        "cultureId":  "nl-AW",
+        "displayName":  "Dutch (Aruba)",
+        "languageTag":  "nl-AW",
+        "countryIso2":  "AW"
+    },
+    {
+        "cultureId":  "nl-BE",
+        "displayName":  "Dutch (Belgium)",
+        "languageTag":  "nl-BE",
+        "countryIso2":  "BE"
+    },
+    {
+        "cultureId":  "nl-BQ",
+        "displayName":  "Dutch (Bonaire, Sint Eustatius and Saba)",
+        "languageTag":  "nl-BQ",
+        "countryIso2":  "BQ"
+    },
+    {
+        "cultureId":  "nl-CW",
+        "displayName":  "Dutch (Curaçao)",
+        "languageTag":  "nl-CW",
+        "countryIso2":  "CW"
+    },
+    {
+        "cultureId":  "nl-NL",
+        "displayName":  "Dutch (Netherlands)",
+        "languageTag":  "nl-NL",
+        "countryIso2":  "NL"
+    },
+    {
+        "cultureId":  "nl-SR",
+        "displayName":  "Dutch (Suriname)",
+        "languageTag":  "nl-SR",
+        "countryIso2":  "SR"
+    },
+    {
+        "cultureId":  "nl-SX",
+        "displayName":  "Dutch (Sint Maarten)",
+        "languageTag":  "nl-SX",
+        "countryIso2":  "SX"
+    },
+    {
+        "cultureId":  "nmg-CM",
+        "displayName":  "Kwasio (Cameroon)",
+        "languageTag":  "nmg-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "nn-NO",
+        "displayName":  "Norwegian, Nynorsk (Norway)",
+        "languageTag":  "nn-NO",
+        "countryIso2":  "NO"
+    },
+    {
+        "cultureId":  "nnh-CM",
+        "displayName":  "Ngiemboon (Cameroon)",
+        "languageTag":  "nnh-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "nqo-GN",
+        "displayName":  "N\u0027ko (Guinea)",
+        "languageTag":  "nqo-GN",
+        "countryIso2":  "GN"
+    },
+    {
+        "cultureId":  "nr-ZA",
+        "displayName":  "South Ndebele (South Africa)",
+        "languageTag":  "nr-ZA",
+        "countryIso2":  "ZA"
+    },
+    {
+        "cultureId":  "nso-ZA",
+        "displayName":  "Sesotho sa Leboa (South Africa)",
+        "languageTag":  "nso-ZA",
+        "countryIso2":  "ZA"
+    },
+    {
+        "cultureId":  "nus-SS",
+        "displayName":  "Nuer (South Sudan)",
+        "languageTag":  "nus-SS",
+        "countryIso2":  "SS"
+    },
+    {
+        "cultureId":  "nyn-UG",
+        "displayName":  "Nyankole (Uganda)",
+        "languageTag":  "nyn-UG",
+        "countryIso2":  "UG"
+    },
+    {
+        "cultureId":  "oc-ES",
+        "displayName":  "Occitan (Spain)",
+        "languageTag":  "oc-ES",
+        "countryIso2":  "ES"
+    },
+    {
+        "cultureId":  "oc-FR",
+        "displayName":  "Occitan (France)",
+        "languageTag":  "oc-FR",
+        "countryIso2":  "FR"
+    },
+    {
+        "cultureId":  "om-ET",
+        "displayName":  "Oromo (Ethiopia)",
+        "languageTag":  "om-ET",
+        "countryIso2":  "ET"
+    },
+    {
+        "cultureId":  "om-KE",
+        "displayName":  "Oromo (Kenya)",
+        "languageTag":  "om-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "or-IN",
+        "displayName":  "Odia (India)",
+        "languageTag":  "or-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "os-GE",
+        "displayName":  "Ossetian (Cyrillic, Georgia)",
+        "languageTag":  "os-GE",
+        "countryIso2":  "GE"
+    },
+    {
+        "cultureId":  "os-RU",
+        "displayName":  "Ossetian (Cyrillic, Russia)",
+        "languageTag":  "os-RU",
+        "countryIso2":  "RU"
+    },
+    {
+        "cultureId":  "pa-Arab-PK",
+        "displayName":  "Punjabi (Islamic Republic of Pakistan)",
+        "languageTag":  "pa-Arab-PK",
+        "countryIso2":  "PK"
+    },
+    {
+        "cultureId":  "pa-IN",
+        "displayName":  "Punjabi (India)",
+        "languageTag":  "pa-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "pap-029",
+        "displayName":  "Papiamento (Caribbean)",
+        "languageTag":  "pap-029",
+        "countryIso2":  "029"
+    },
+    {
+        "cultureId":  "pcm-Latn-NG",
+        "displayName":  "Nigerian Pidgin (Latin, Nigeria)",
+        "languageTag":  "pcm-Latn-NG",
+        "countryIso2":  "NG"
+    },
+    {
+        "cultureId":  "pl-PL",
+        "displayName":  "Polish (Poland)",
+        "languageTag":  "pl-PL",
+        "countryIso2":  "PL"
+    },
+    {
+        "cultureId":  "prg-001",
+        "displayName":  "Prussian (world)",
+        "languageTag":  "prg-001",
+        "countryIso2":  "001"
+    },
+    {
+        "cultureId":  "ps-AF",
+        "displayName":  "Pashto (Afghanistan)",
+        "languageTag":  "ps-AF",
+        "countryIso2":  "AF"
+    },
+    {
+        "cultureId":  "ps-PK",
+        "displayName":  "Pashto (Pakistan)",
+        "languageTag":  "ps-PK",
+        "countryIso2":  "PK"
+    },
+    {
+        "cultureId":  "pt-AO",
+        "displayName":  "Portuguese (Angola)",
+        "languageTag":  "pt-AO",
+        "countryIso2":  "AO"
+    },
+    {
+        "cultureId":  "pt-BR",
+        "displayName":  "Portuguese (Brazil)",
+        "languageTag":  "pt-BR",
+        "countryIso2":  "BR"
+    },
+    {
+        "cultureId":  "pt-CH",
+        "displayName":  "Portuguese (Switzerland)",
+        "languageTag":  "pt-CH",
+        "countryIso2":  "CH"
+    },
+    {
+        "cultureId":  "pt-CV",
+        "displayName":  "Portuguese (Cabo Verde)",
+        "languageTag":  "pt-CV",
+        "countryIso2":  "CV"
+    },
+    {
+        "cultureId":  "pt-GQ",
+        "displayName":  "Portuguese (Equatorial Guinea)",
+        "languageTag":  "pt-GQ",
+        "countryIso2":  "GQ"
+    },
+    {
+        "cultureId":  "pt-GW",
+        "displayName":  "Portuguese (Guinea-Bissau)",
+        "languageTag":  "pt-GW",
+        "countryIso2":  "GW"
+    },
+    {
+        "cultureId":  "pt-LU",
+        "displayName":  "Portuguese (Luxembourg)",
+        "languageTag":  "pt-LU",
+        "countryIso2":  "LU"
+    },
+    {
+        "cultureId":  "pt-MO",
+        "displayName":  "Portuguese (Macao SAR)",
+        "languageTag":  "pt-MO",
+        "countryIso2":  "MO"
+    },
+    {
+        "cultureId":  "pt-MZ",
+        "displayName":  "Portuguese (Mozambique)",
+        "languageTag":  "pt-MZ",
+        "countryIso2":  "MZ"
+    },
+    {
+        "cultureId":  "pt-PT",
+        "displayName":  "Portuguese (Portugal)",
+        "languageTag":  "pt-PT",
+        "countryIso2":  "PT"
+    },
+    {
+        "cultureId":  "pt-ST",
+        "displayName":  "Portuguese (São Tomé and Príncipe)",
+        "languageTag":  "pt-ST",
+        "countryIso2":  "ST"
+    },
+    {
+        "cultureId":  "pt-TL",
+        "displayName":  "Portuguese (Timor-Leste)",
+        "languageTag":  "pt-TL",
+        "countryIso2":  "TL"
+    },
+    {
+        "cultureId":  "quc-Latn-GT",
+        "displayName":  "K\u0027iche\u0027 (Guatemala)",
+        "languageTag":  "quc-Latn-GT",
+        "countryIso2":  "GT"
+    },
+    {
+        "cultureId":  "quz-BO",
+        "displayName":  "Quechua (Bolivia)",
+        "languageTag":  "quz-BO",
+        "countryIso2":  "BO"
+    },
+    {
+        "cultureId":  "quz-EC",
+        "displayName":  "Quechua (Ecuador)",
+        "languageTag":  "quz-EC",
+        "countryIso2":  "EC"
+    },
+    {
+        "cultureId":  "quz-PE",
+        "displayName":  "Quechua (Peru)",
+        "languageTag":  "quz-PE",
+        "countryIso2":  "PE"
+    },
+    {
+        "cultureId":  "raj-Deva-IN",
+        "displayName":  "Rajasthani (Devanagari, India)",
+        "languageTag":  "raj-Deva-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "rm-CH",
+        "displayName":  "Romansh (Switzerland)",
+        "languageTag":  "rm-CH",
+        "countryIso2":  "CH"
+    },
+    {
+        "cultureId":  "rn-BI",
+        "displayName":  "Rundi (Burundi)",
+        "languageTag":  "rn-BI",
+        "countryIso2":  "BI"
+    },
+    {
+        "cultureId":  "ro-MD",
+        "displayName":  "Romanian (Moldova)",
+        "languageTag":  "ro-MD",
+        "countryIso2":  "MD"
+    },
+    {
+        "cultureId":  "ro-RO",
+        "displayName":  "Romanian (Romania)",
+        "languageTag":  "ro-RO",
+        "countryIso2":  "RO"
+    },
+    {
+        "cultureId":  "rof-TZ",
+        "displayName":  "Rombo (Tanzania)",
+        "languageTag":  "rof-TZ",
+        "countryIso2":  "TZ"
+    },
+    {
+        "cultureId":  "ru-BY",
+        "displayName":  "Russian (Belarus)",
+        "languageTag":  "ru-BY",
+        "countryIso2":  "BY"
+    },
+    {
+        "cultureId":  "ru-KG",
+        "displayName":  "Russian (Kyrgyzstan)",
+        "languageTag":  "ru-KG",
+        "countryIso2":  "KG"
+    },
+    {
+        "cultureId":  "ru-KZ",
+        "displayName":  "Russian (Kazakhstan)",
+        "languageTag":  "ru-KZ",
+        "countryIso2":  "KZ"
+    },
+    {
+        "cultureId":  "ru-MD",
+        "displayName":  "Russian (Moldova)",
+        "languageTag":  "ru-MD",
+        "countryIso2":  "MD"
+    },
+    {
+        "cultureId":  "ru-RU",
+        "displayName":  "Russian (Russia)",
+        "languageTag":  "ru-RU",
+        "countryIso2":  "RU"
+    },
+    {
+        "cultureId":  "ru-UA",
+        "displayName":  "Russian (Ukraine)",
+        "languageTag":  "ru-UA",
+        "countryIso2":  "UA"
+    },
+    {
+        "cultureId":  "rw-RW",
+        "displayName":  "Kinyarwanda (Rwanda)",
+        "languageTag":  "rw-RW",
+        "countryIso2":  "RW"
+    },
+    {
+        "cultureId":  "rwk-TZ",
+        "displayName":  "Rwa (Tanzania)",
+        "languageTag":  "rwk-TZ",
+        "countryIso2":  "TZ"
+    },
+    {
+        "cultureId":  "sa-IN",
+        "displayName":  "Sanskrit (India)",
+        "languageTag":  "sa-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "sah-RU",
+        "displayName":  "Sakha (Russia)",
+        "languageTag":  "sah-RU",
+        "countryIso2":  "RU"
+    },
+    {
+        "cultureId":  "saq-KE",
+        "displayName":  "Samburu (Kenya)",
+        "languageTag":  "saq-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "sat-Olck-IN",
+        "displayName":  "Santali (Ol Chiki, India)",
+        "languageTag":  "sat-Olck-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "sbp-TZ",
+        "displayName":  "Sangu (Tanzania)",
+        "languageTag":  "sbp-TZ",
+        "countryIso2":  "TZ"
+    },
+    {
+        "cultureId":  "sc-Latn-IT",
+        "displayName":  "Sardinian (Latin, Italy)",
+        "languageTag":  "sc-Latn-IT",
+        "countryIso2":  "IT"
+    },
+    {
+        "cultureId":  "sd-Arab-PK",
+        "displayName":  "Sindhi (Islamic Republic of Pakistan)",
+        "languageTag":  "sd-Arab-PK",
+        "countryIso2":  "PK"
+    },
+    {
+        "cultureId":  "sd-Deva-IN",
+        "displayName":  "Sindhi (Devanagari, India)",
+        "languageTag":  "sd-Deva-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "se-FI",
+        "displayName":  "Sami, Northern (Finland)",
+        "languageTag":  "se-FI",
+        "countryIso2":  "FI"
+    },
+    {
+        "cultureId":  "se-NO",
+        "displayName":  "Sami, Northern (Norway)",
+        "languageTag":  "se-NO",
+        "countryIso2":  "NO"
+    },
+    {
+        "cultureId":  "se-SE",
+        "displayName":  "Sami, Northern (Sweden)",
+        "languageTag":  "se-SE",
+        "countryIso2":  "SE"
+    },
+    {
+        "cultureId":  "seh-MZ",
+        "displayName":  "Sena (Mozambique)",
+        "languageTag":  "seh-MZ",
+        "countryIso2":  "MZ"
+    },
+    {
+        "cultureId":  "ses-ML",
+        "displayName":  "Koyraboro Senni (Mali)",
+        "languageTag":  "ses-ML",
+        "countryIso2":  "ML"
+    },
+    {
+        "cultureId":  "sg-CF",
+        "displayName":  "Sango (Central African Republic)",
+        "languageTag":  "sg-CF",
+        "countryIso2":  "CF"
+    },
+    {
+        "cultureId":  "shi-Latn-MA",
+        "displayName":  "Tachelhit (Latin, Morocco)",
+        "languageTag":  "shi-Latn-MA",
+        "countryIso2":  "MA"
+    },
+    {
+        "cultureId":  "shi-Tfng-MA",
+        "displayName":  "Tachelhit (Tifinagh, Morocco)",
+        "languageTag":  "shi-Tfng-MA",
+        "countryIso2":  "MA"
+    },
+    {
+        "cultureId":  "si-LK",
+        "displayName":  "Sinhala (Sri Lanka)",
+        "languageTag":  "si-LK",
+        "countryIso2":  "LK"
+    },
+    {
+        "cultureId":  "sk-SK",
+        "displayName":  "Slovak (Slovakia)",
+        "languageTag":  "sk-SK",
+        "countryIso2":  "SK"
+    },
+    {
+        "cultureId":  "sl-SI",
+        "displayName":  "Slovenian (Slovenia)",
+        "languageTag":  "sl-SI",
+        "countryIso2":  "SI"
+    },
+    {
+        "cultureId":  "sma-NO",
+        "displayName":  "Sami, Southern (Norway)",
+        "languageTag":  "sma-NO",
+        "countryIso2":  "NO"
+    },
+    {
+        "cultureId":  "sma-SE",
+        "displayName":  "Sami, Southern (Sweden)",
+        "languageTag":  "sma-SE",
+        "countryIso2":  "SE"
+    },
+    {
+        "cultureId":  "smj-NO",
+        "displayName":  "Sami, Lule (Norway)",
+        "languageTag":  "smj-NO",
+        "countryIso2":  "NO"
+    },
+    {
+        "cultureId":  "smj-SE",
+        "displayName":  "Sami, Lule (Sweden)",
+        "languageTag":  "smj-SE",
+        "countryIso2":  "SE"
+    },
+    {
+        "cultureId":  "smn-FI",
+        "displayName":  "Sami, Inari (Finland)",
+        "languageTag":  "smn-FI",
+        "countryIso2":  "FI"
+    },
+    {
+        "cultureId":  "sms-FI",
+        "displayName":  "Sami, Skolt (Finland)",
+        "languageTag":  "sms-FI",
+        "countryIso2":  "FI"
+    },
+    {
+        "cultureId":  "sn-Latn-ZW",
+        "displayName":  "Shona (Latin, Zimbabwe)",
+        "languageTag":  "sn-Latn-ZW",
+        "countryIso2":  "ZW"
+    },
+    {
+        "cultureId":  "so-DJ",
+        "displayName":  "Somali (Djibouti)",
+        "languageTag":  "so-DJ",
+        "countryIso2":  "DJ"
+    },
+    {
+        "cultureId":  "so-ET",
+        "displayName":  "Somali (Ethiopia)",
+        "languageTag":  "so-ET",
+        "countryIso2":  "ET"
+    },
+    {
+        "cultureId":  "so-KE",
+        "displayName":  "Somali (Kenya)",
+        "languageTag":  "so-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "so-SO",
+        "displayName":  "Somali (Somalia)",
+        "languageTag":  "so-SO",
+        "countryIso2":  "SO"
+    },
+    {
+        "cultureId":  "sq-AL",
+        "displayName":  "Albanian (Albania)",
+        "languageTag":  "sq-AL",
+        "countryIso2":  "AL"
+    },
+    {
+        "cultureId":  "sq-MK",
+        "displayName":  "Albanian (North Macedonia)",
+        "languageTag":  "sq-MK",
+        "countryIso2":  "MK"
+    },
+    {
+        "cultureId":  "sq-XK",
+        "displayName":  "Albanian (Kosovo)",
+        "languageTag":  "sq-XK",
+        "countryIso2":  "XK"
+    },
+    {
+        "cultureId":  "sr-Cyrl-BA",
+        "displayName":  "Serbian (Cyrillic, Bosnia and Herzegovina)",
+        "languageTag":  "sr-Cyrl-BA",
+        "countryIso2":  "BA"
+    },
+    {
+        "cultureId":  "sr-Cyrl-ME",
+        "displayName":  "Serbian (Cyrillic, Montenegro)",
+        "languageTag":  "sr-Cyrl-ME",
+        "countryIso2":  "ME"
+    },
+    {
+        "cultureId":  "sr-Cyrl-RS",
+        "displayName":  "Serbian (Cyrillic, Serbia)",
+        "languageTag":  "sr-Cyrl-RS",
+        "countryIso2":  "RS"
+    },
+    {
+        "cultureId":  "sr-Cyrl-XK",
+        "displayName":  "Serbian (Cyrillic, Kosovo)",
+        "languageTag":  "sr-Cyrl-XK",
+        "countryIso2":  "XK"
+    },
+    {
+        "cultureId":  "sr-Latn-BA",
+        "displayName":  "Serbian (Latin, Bosnia and Herzegovina)",
+        "languageTag":  "sr-Latn-BA",
+        "countryIso2":  "BA"
+    },
+    {
+        "cultureId":  "sr-Latn-ME",
+        "displayName":  "Serbian (Latin, Montenegro)",
+        "languageTag":  "sr-Latn-ME",
+        "countryIso2":  "ME"
+    },
+    {
+        "cultureId":  "sr-Latn-RS",
+        "displayName":  "Serbian (Latin, Serbia)",
+        "languageTag":  "sr-Latn-RS",
+        "countryIso2":  "RS"
+    },
+    {
+        "cultureId":  "sr-Latn-XK",
+        "displayName":  "Serbian (Latin, Kosovo)",
+        "languageTag":  "sr-Latn-XK",
+        "countryIso2":  "XK"
+    },
+    {
+        "cultureId":  "ss-SZ",
+        "displayName":  "Swati (Swaziland)",
+        "languageTag":  "ss-SZ",
+        "countryIso2":  "SZ"
+    },
+    {
+        "cultureId":  "ss-ZA",
+        "displayName":  "Swati (South Africa)",
+        "languageTag":  "ss-ZA",
+        "countryIso2":  "ZA"
+    },
+    {
+        "cultureId":  "ssy-ER",
+        "displayName":  "Saho (Eritrea)",
+        "languageTag":  "ssy-ER",
+        "countryIso2":  "ER"
+    },
+    {
+        "cultureId":  "st-LS",
+        "displayName":  "Sesotho (Lesotho)",
+        "languageTag":  "st-LS",
+        "countryIso2":  "LS"
+    },
+    {
+        "cultureId":  "st-ZA",
+        "displayName":  "Southern Sotho (South Africa)",
+        "languageTag":  "st-ZA",
+        "countryIso2":  "ZA"
+    },
+    {
+        "cultureId":  "su-Latn-ID",
+        "displayName":  "Sundanese (Latin, Indonesia)",
+        "languageTag":  "su-Latn-ID",
+        "countryIso2":  "ID"
+    },
+    {
+        "cultureId":  "sv-AX",
+        "displayName":  "Swedish (Åland Islands)",
+        "languageTag":  "sv-AX",
+        "countryIso2":  "AX"
+    },
+    {
+        "cultureId":  "sv-FI",
+        "displayName":  "Swedish (Finland)",
+        "languageTag":  "sv-FI",
+        "countryIso2":  "FI"
+    },
+    {
+        "cultureId":  "sv-SE",
+        "displayName":  "Swedish (Sweden)",
+        "languageTag":  "sv-SE",
+        "countryIso2":  "SE"
+    },
+    {
+        "cultureId":  "sw-CD",
+        "displayName":  "Kiswahili (Congo DRC)",
+        "languageTag":  "sw-CD",
+        "countryIso2":  "CD"
+    },
+    {
+        "cultureId":  "sw-KE",
+        "displayName":  "Kiswahili (Kenya)",
+        "languageTag":  "sw-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "sw-TZ",
+        "displayName":  "Kiswahili (Tanzania)",
+        "languageTag":  "sw-TZ",
+        "countryIso2":  "TZ"
+    },
+    {
+        "cultureId":  "sw-UG",
+        "displayName":  "Kiswahili (Uganda)",
+        "languageTag":  "sw-UG",
+        "countryIso2":  "UG"
+    },
+    {
+        "cultureId":  "syr-SY",
+        "displayName":  "Syriac (Syria)",
+        "languageTag":  "syr-SY",
+        "countryIso2":  "SY"
+    },
+    {
+        "cultureId":  "ta-IN",
+        "displayName":  "Tamil (India)",
+        "languageTag":  "ta-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "ta-LK",
+        "displayName":  "Tamil (Sri Lanka)",
+        "languageTag":  "ta-LK",
+        "countryIso2":  "LK"
+    },
+    {
+        "cultureId":  "ta-MY",
+        "displayName":  "Tamil (Malaysia)",
+        "languageTag":  "ta-MY",
+        "countryIso2":  "MY"
+    },
+    {
+        "cultureId":  "ta-SG",
+        "displayName":  "Tamil (Singapore)",
+        "languageTag":  "ta-SG",
+        "countryIso2":  "SG"
+    },
+    {
+        "cultureId":  "te-IN",
+        "displayName":  "Telugu (India)",
+        "languageTag":  "te-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "teo-KE",
+        "displayName":  "Teso (Kenya)",
+        "languageTag":  "teo-KE",
+        "countryIso2":  "KE"
+    },
+    {
+        "cultureId":  "teo-UG",
+        "displayName":  "Teso (Uganda)",
+        "languageTag":  "teo-UG",
+        "countryIso2":  "UG"
+    },
+    {
+        "cultureId":  "tg-Cyrl-TJ",
+        "displayName":  "Tajik (Cyrillic, Tajikistan)",
+        "languageTag":  "tg-Cyrl-TJ",
+        "countryIso2":  "TJ"
+    },
+    {
+        "cultureId":  "th-TH",
+        "displayName":  "Thai (Thailand)",
+        "languageTag":  "th-TH",
+        "countryIso2":  "TH"
+    },
+    {
+        "cultureId":  "ti-ER",
+        "displayName":  "Tigrinya (Eritrea)",
+        "languageTag":  "ti-ER",
+        "countryIso2":  "ER"
+    },
+    {
+        "cultureId":  "ti-ET",
+        "displayName":  "Tigrinya (Ethiopia)",
+        "languageTag":  "ti-ET",
+        "countryIso2":  "ET"
+    },
+    {
+        "cultureId":  "tig-ER",
+        "displayName":  "Tigre (Eritrea)",
+        "languageTag":  "tig-ER",
+        "countryIso2":  "ER"
+    },
+    {
+        "cultureId":  "tk-TM",
+        "displayName":  "Turkmen (Turkmenistan)",
+        "languageTag":  "tk-TM",
+        "countryIso2":  "TM"
+    },
+    {
+        "cultureId":  "tn-BW",
+        "displayName":  "Setswana (Botswana)",
+        "languageTag":  "tn-BW",
+        "countryIso2":  "BW"
+    },
+    {
+        "cultureId":  "tn-ZA",
+        "displayName":  "Setswana (South Africa)",
+        "languageTag":  "tn-ZA",
+        "countryIso2":  "ZA"
+    },
+    {
+        "cultureId":  "to-TO",
+        "displayName":  "Tongan (Tonga)",
+        "languageTag":  "to-TO",
+        "countryIso2":  "TO"
+    },
+    {
+        "cultureId":  "tr-CY",
+        "displayName":  "Turkish (Cyprus)",
+        "languageTag":  "tr-CY",
+        "countryIso2":  "CY"
+    },
+    {
+        "cultureId":  "tr-TR",
+        "displayName":  "Turkish (Turkey)",
+        "languageTag":  "tr-TR",
+        "countryIso2":  "TR"
+    },
+    {
+        "cultureId":  "ts-ZA",
+        "displayName":  "Tsonga (South Africa)",
+        "languageTag":  "ts-ZA",
+        "countryIso2":  "ZA"
+    },
+    {
+        "cultureId":  "tt-RU",
+        "displayName":  "Tatar (Russia)",
+        "languageTag":  "tt-RU",
+        "countryIso2":  "RU"
+    },
+    {
+        "cultureId":  "twq-NE",
+        "displayName":  "Tasawaq (Niger)",
+        "languageTag":  "twq-NE",
+        "countryIso2":  "NE"
+    },
+    {
+        "cultureId":  "tzm-Arab-MA",
+        "displayName":  "Central Atlas Tamazight (Arabic, Morocco)",
+        "languageTag":  "tzm-Arab-MA",
+        "countryIso2":  "MA"
+    },
+    {
+        "cultureId":  "tzm-Latn-DZ",
+        "displayName":  "Tamazight (Latin, Algeria)",
+        "languageTag":  "tzm-Latn-DZ",
+        "countryIso2":  "DZ"
+    },
+    {
+        "cultureId":  "tzm-Latn-MA",
+        "displayName":  "Central Atlas Tamazight (Latin, Morocco)",
+        "languageTag":  "tzm-Latn-MA",
+        "countryIso2":  "MA"
+    },
+    {
+        "cultureId":  "tzm-Tfng-MA",
+        "displayName":  "Central Atlas Tamazight (Tifinagh, Morocco)",
+        "languageTag":  "tzm-Tfng-MA",
+        "countryIso2":  "MA"
+    },
+    {
+        "cultureId":  "ug-CN",
+        "displayName":  "Uyghur (PRC)",
+        "languageTag":  "ug-CN",
+        "countryIso2":  "CN"
+    },
+    {
+        "cultureId":  "uk-UA",
+        "displayName":  "Ukrainian (Ukraine)",
+        "languageTag":  "uk-UA",
+        "countryIso2":  "UA"
+    },
+    {
+        "cultureId":  "ur-IN",
+        "displayName":  "Urdu (India)",
+        "languageTag":  "ur-IN",
+        "countryIso2":  "IN"
+    },
+    {
+        "cultureId":  "ur-PK",
+        "displayName":  "Urdu (Islamic Republic of Pakistan)",
+        "languageTag":  "ur-PK",
+        "countryIso2":  "PK"
+    },
+    {
+        "cultureId":  "uz-Arab-AF",
+        "displayName":  "Uzbek (Perso-Arabic, Afghanistan)",
+        "languageTag":  "uz-Arab-AF",
+        "countryIso2":  "AF"
+    },
+    {
+        "cultureId":  "uz-Cyrl-UZ",
+        "displayName":  "Uzbek (Cyrillic, Uzbekistan)",
+        "languageTag":  "uz-Cyrl-UZ",
+        "countryIso2":  "UZ"
+    },
+    {
+        "cultureId":  "uz-Latn-UZ",
+        "displayName":  "Uzbek (Latin, Uzbekistan)",
+        "languageTag":  "uz-Latn-UZ",
+        "countryIso2":  "UZ"
+    },
+    {
+        "cultureId":  "vai-Latn-LR",
+        "displayName":  "Vai (Latin, Liberia)",
+        "languageTag":  "vai-Latn-LR",
+        "countryIso2":  "LR"
+    },
+    {
+        "cultureId":  "vai-Vaii-LR",
+        "displayName":  "Vai (Vai, Liberia)",
+        "languageTag":  "vai-Vaii-LR",
+        "countryIso2":  "LR"
+    },
+    {
+        "cultureId":  "ve-ZA",
+        "displayName":  "Venda (South Africa)",
+        "languageTag":  "ve-ZA",
+        "countryIso2":  "ZA"
+    },
+    {
+        "cultureId":  "vi-VN",
+        "displayName":  "Vietnamese (Vietnam)",
+        "languageTag":  "vi-VN",
+        "countryIso2":  "VN"
+    },
+    {
+        "cultureId":  "vo-001",
+        "displayName":  "Volapük (World)",
+        "languageTag":  "vo-001",
+        "countryIso2":  "001"
+    },
+    {
+        "cultureId":  "vun-TZ",
+        "displayName":  "Vunjo (Tanzania)",
+        "languageTag":  "vun-TZ",
+        "countryIso2":  "TZ"
+    },
+    {
+        "cultureId":  "wae-CH",
+        "displayName":  "Walser (Switzerland)",
+        "languageTag":  "wae-CH",
+        "countryIso2":  "CH"
+    },
+    {
+        "cultureId":  "wal-ET",
+        "displayName":  "Wolaytta (Ethiopia)",
+        "languageTag":  "wal-ET",
+        "countryIso2":  "ET"
+    },
+    {
+        "cultureId":  "wo-SN",
+        "displayName":  "Wolof (Senegal)",
+        "languageTag":  "wo-SN",
+        "countryIso2":  "SN"
+    },
+    {
+        "cultureId":  "xh-ZA",
+        "displayName":  "isiXhosa (South Africa)",
+        "languageTag":  "xh-ZA",
+        "countryIso2":  "ZA"
+    },
+    {
+        "cultureId":  "xog-UG",
+        "displayName":  "Soga (Uganda)",
+        "languageTag":  "xog-UG",
+        "countryIso2":  "UG"
+    },
+    {
+        "cultureId":  "yav-CM",
+        "displayName":  "Yangben (Cameroon)",
+        "languageTag":  "yav-CM",
+        "countryIso2":  "CM"
+    },
+    {
+        "cultureId":  "yi-001",
+        "displayName":  "Yiddish (World)",
+        "languageTag":  "yi-001",
+        "countryIso2":  "001"
+    },
+    {
+        "cultureId":  "yo-BJ",
+        "displayName":  "Yoruba (Benin)",
+        "languageTag":  "yo-BJ",
+        "countryIso2":  "BJ"
+    },
+    {
+        "cultureId":  "yo-NG",
+        "displayName":  "Yoruba (Nigeria)",
+        "languageTag":  "yo-NG",
+        "countryIso2":  "NG"
+    },
+    {
+        "cultureId":  "yrl-Latn-BR",
+        "displayName":  "Nheengatu (Latin, Brazil)",
+        "languageTag":  "yrl-Latn-BR",
+        "countryIso2":  "BR"
+    },
+    {
+        "cultureId":  "yrl-Latn-CO",
+        "displayName":  "Nheengatu (Latin, Colombia)",
+        "languageTag":  "yrl-Latn-CO",
+        "countryIso2":  "CO"
+    },
+    {
+        "cultureId":  "yrl-Latn-VE",
+        "displayName":  "Nheengatu (Latin, Venezuela)",
+        "languageTag":  "yrl-Latn-VE",
+        "countryIso2":  "VE"
+    },
+    {
+        "cultureId":  "zgh-Tfng-MA",
+        "displayName":  "Standard Moroccan Tamazight (Tifinagh, Morocco)",
+        "languageTag":  "zgh-Tfng-MA",
+        "countryIso2":  "MA"
+    },
+    {
+        "cultureId":  "zh-CN",
+        "displayName":  "Chinese (Simplified, PRC)",
+        "languageTag":  "zh-CN",
+        "countryIso2":  "CN"
+    },
+    {
+        "cultureId":  "zh-Hans-HK",
+        "displayName":  "Chinese (Simplified Han, Hong Kong SAR)",
+        "languageTag":  "zh-Hans-HK",
+        "countryIso2":  "HK"
+    },
+    {
+        "cultureId":  "zh-Hans-MO",
+        "displayName":  "Chinese (Simplified Han, Macao SAR)",
+        "languageTag":  "zh-Hans-MO",
+        "countryIso2":  "MO"
+    },
+    {
+        "cultureId":  "zh-HK",
+        "displayName":  "Chinese (Traditional, Hong Kong S.A.R.)",
+        "languageTag":  "zh-HK",
+        "countryIso2":  "HK"
+    },
+    {
+        "cultureId":  "zh-MO",
+        "displayName":  "Chinese (Traditional, Macao S.A.R.)",
+        "languageTag":  "zh-MO",
+        "countryIso2":  "MO"
+    },
+    {
+        "cultureId":  "zh-SG",
+        "displayName":  "Chinese (Simplified, Singapore)",
+        "languageTag":  "zh-SG",
+        "countryIso2":  "SG"
+    },
+    {
+        "cultureId":  "zh-TW",
+        "displayName":  "Chinese (Traditional, Taiwan)",
+        "languageTag":  "zh-TW",
+        "countryIso2":  "TW"
+    },
+    {
+        "cultureId":  "zu-ZA",
+        "displayName":  "isiZulu (South Africa)",
+        "languageTag":  "zu-ZA",
+        "countryIso2":  "ZA"
+    }
+]

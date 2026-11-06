@@ -1,0 +1,1070 @@
+﻿[
+    {
+        "countryIso2":  "TK",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "TO",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "PN",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "BH",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "GT",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "VG",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "ET",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "UY",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "NP",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "IR",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "VU",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "NA",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "AG",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "AW",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "TT",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CL",
+        "timezoneId":  "Pacific SA Standard Time"
+    },
+    {
+        "countryIso2":  "AL",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "AU",
+        "timezoneId":  "AUS Eastern Standard Time"
+    },
+    {
+        "countryIso2":  "AU",
+        "timezoneId":  "Cen. Australia Standard Time"
+    },
+    {
+        "countryIso2":  "AU",
+        "timezoneId":  "W. Australia Standard Time"
+    },
+    {
+        "countryIso2":  "GY",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "DE",
+        "timezoneId":  "W. Europe Standard Time"
+    },
+    {
+        "countryIso2":  "BM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "BR",
+        "timezoneId":  "E. South America Standard Time"
+    },
+    {
+        "countryIso2":  "MH",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "TD",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "UZ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "DJ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "FM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CC",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "DO",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "US",
+        "timezoneId":  "Eastern Standard Time"
+    },
+    {
+        "countryIso2":  "US",
+        "timezoneId":  "Central Standard Time"
+    },
+    {
+        "countryIso2":  "US",
+        "timezoneId":  "Mountain Standard Time"
+    },
+    {
+        "countryIso2":  "US",
+        "timezoneId":  "Pacific Standard Time"
+    },
+    {
+        "countryIso2":  "US",
+        "timezoneId":  "Alaskan Standard Time"
+    },
+    {
+        "countryIso2":  "US",
+        "timezoneId":  "Hawaiian Standard Time"
+    },
+    {
+        "countryIso2":  "MP",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "BQ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "GR",
+        "timezoneId":  "GTB Standard Time"
+    },
+    {
+        "countryIso2":  "HT",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "PS",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SE",
+        "timezoneId":  "W. Europe Standard Time"
+    },
+    {
+        "countryIso2":  "SC",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MS",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "IM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "EC",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "PR",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "TG",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MC",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "KN",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "NI",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "TJ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "FJ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "UA",
+        "timezoneId":  "FLE Standard Time"
+    },
+    {
+        "countryIso2":  "LC",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MO",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "KI",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "KY",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MX",
+        "timezoneId":  "Central Standard Time (Mexico)"
+    },
+    {
+        "countryIso2":  "UM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "AZ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "GL",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "VN",
+        "timezoneId":  "SE Asia Standard Time"
+    },
+    {
+        "countryIso2":  "GW",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "AX",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "LS",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CV",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "AD",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "RU",
+        "timezoneId":  "Russian Standard Time"
+    },
+    {
+        "countryIso2":  "RU",
+        "timezoneId":  "Ekaterinburg Standard Time"
+    },
+    {
+        "countryIso2":  "RU",
+        "timezoneId":  "Omsk Standard Time"
+    },
+    {
+        "countryIso2":  "RU",
+        "timezoneId":  "Krasnoyarsk Standard Time"
+    },
+    {
+        "countryIso2":  "RU",
+        "timezoneId":  "Irkutsk Standard Time"
+    },
+    {
+        "countryIso2":  "RU",
+        "timezoneId":  "Yakutsk Standard Time"
+    },
+    {
+        "countryIso2":  "RU",
+        "timezoneId":  "Vladivostok Standard Time"
+    },
+    {
+        "countryIso2":  "RU",
+        "timezoneId":  "Magadan Standard Time"
+    },
+    {
+        "countryIso2":  "GQ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "LT",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "BT",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MQ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "FR",
+        "timezoneId":  "Romance Standard Time"
+    },
+    {
+        "countryIso2":  "AF",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "IS",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CW",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MN",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "BI",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "FO",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "TV",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "LU",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "AT",
+        "timezoneId":  "W. Europe Standard Time"
+    },
+    {
+        "countryIso2":  "GM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "KZ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "FK",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "BE",
+        "timezoneId":  "Romance Standard Time"
+    },
+    {
+        "countryIso2":  "BD",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MZ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "WS",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "NU",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "GD",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "RS",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MY",
+        "timezoneId":  "Singapore Standard Time"
+    },
+    {
+        "countryIso2":  "DK",
+        "timezoneId":  "Romance Standard Time"
+    },
+    {
+        "countryIso2":  "YT",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "419",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SH",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "ML",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "GI",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SN",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MU",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "TW",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "JO",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "ZW",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CX",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "TR",
+        "timezoneId":  "Turkey Standard Time"
+    },
+    {
+        "countryIso2":  "001",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "KM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "OM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "UG",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SZ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "VE",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "150",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "BY",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "BF",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "TZ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "BO",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SO",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "IN",
+        "timezoneId":  "India Standard Time"
+    },
+    {
+        "countryIso2":  "EE",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "WF",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "TM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "NC",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CH",
+        "timezoneId":  "W. Europe Standard Time"
+    },
+    {
+        "countryIso2":  "XK",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "KG",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "TN",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "LV",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "029",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "KE",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "IQ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "ST",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "PK",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "LA",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "IO",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "GU",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "LY",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MF",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SK",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "AO",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "YE",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "ES",
+        "timezoneId":  "Romance Standard Time"
+    },
+    {
+        "countryIso2":  "JM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SD",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "VA",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MR",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SL",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "QA",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CN",
+        "timezoneId":  "China Standard Time"
+    },
+    {
+        "countryIso2":  "KR",
+        "timezoneId":  "Korea Standard Time"
+    },
+    {
+        "countryIso2":  "IT",
+        "timezoneId":  "W. Europe Standard Time"
+    },
+    {
+        "countryIso2":  "PL",
+        "timezoneId":  "Central European Standard Time"
+    },
+    {
+        "countryIso2":  "CF",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "VI",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MT",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "ID",
+        "timezoneId":  "SE Asia Standard Time"
+    },
+    {
+        "countryIso2":  "PH",
+        "timezoneId":  "Singapore Standard Time"
+    },
+    {
+        "countryIso2":  "HN",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CI",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "NF",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CY",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "PW",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "GB",
+        "timezoneId":  "GMT Standard Time"
+    },
+    {
+        "countryIso2":  "BJ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "NZ",
+        "timezoneId":  "New Zealand Standard Time"
+    },
+    {
+        "countryIso2":  "VC",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "BZ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CA",
+        "timezoneId":  "Eastern Standard Time"
+    },
+    {
+        "countryIso2":  "CA",
+        "timezoneId":  "Central Standard Time"
+    },
+    {
+        "countryIso2":  "CA",
+        "timezoneId":  "Mountain Standard Time"
+    },
+    {
+        "countryIso2":  "CA",
+        "timezoneId":  "Pacific Standard Time"
+    },
+    {
+        "countryIso2":  "CA",
+        "timezoneId":  "Atlantic Standard Time"
+    },
+    {
+        "countryIso2":  "CA",
+        "timezoneId":  "Newfoundland Standard Time"
+    },
+    {
+        "countryIso2":  "CO",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "TC",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CZ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "PG",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "IL",
+        "timezoneId":  "Israel Standard Time"
+    },
+    {
+        "countryIso2":  "LK",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "JE",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SA",
+        "timezoneId":  "Arab Standard Time"
+    },
+    {
+        "countryIso2":  "MW",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "HU",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "PE",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "PT",
+        "timezoneId":  "GMT Standard Time"
+    },
+    {
+        "countryIso2":  "CD",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "ZM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "GP",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CK",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "BB",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "BS",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "KW",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "BN",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SG",
+        "timezoneId":  "Singapore Standard Time"
+    },
+    {
+        "countryIso2":  "LI",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "BA",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "HR",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "EG",
+        "timezoneId":  "Egypt Standard Time"
+    },
+    {
+        "countryIso2":  "SB",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "AR",
+        "timezoneId":  "Argentina Standard Time"
+    },
+    {
+        "countryIso2":  "MD",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "JP",
+        "timezoneId":  "Tokyo Standard Time"
+    },
+    {
+        "countryIso2":  "BW",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "GG",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SJ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "AS",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "NG",
+        "timezoneId":  "W. Central Africa Standard Time"
+    },
+    {
+        "countryIso2":  "TL",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SX",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "NR",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MK",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "KP",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "ER",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "GF",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SR",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "NO",
+        "timezoneId":  "W. Europe Standard Time"
+    },
+    {
+        "countryIso2":  "PY",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "AI",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "GH",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "ZA",
+        "timezoneId":  "South Africa Standard Time"
+    },
+    {
+        "countryIso2":  "MG",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "KH",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "NE",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "AE",
+        "timezoneId":  "Arabian Standard Time"
+    },
+    {
+        "countryIso2":  "GE",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "GN",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "RW",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SV",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CR",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CG",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MA",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "RO",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "AM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "LR",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "NL",
+        "timezoneId":  "W. Europe Standard Time"
+    },
+    {
+        "countryIso2":  "BL",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "FI",
+        "timezoneId":  "FLE Standard Time"
+    },
+    {
+        "countryIso2":  "IE",
+        "timezoneId":  "GMT Standard Time"
+    },
+    {
+        "countryIso2":  "RE",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "ME",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SY",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "LB",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "BG",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SS",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "SI",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "HK",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "TH",
+        "timezoneId":  "SE Asia Standard Time"
+    },
+    {
+        "countryIso2":  "GA",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "MV",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "CU",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "DM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "DZ",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "PM",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "PF",
+        "timezoneId":  "UTC"
+    },
+    {
+        "countryIso2":  "PA",
+        "timezoneId":  "UTC"
+    }
+]

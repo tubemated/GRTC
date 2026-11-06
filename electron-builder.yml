@@ -1,0 +1,25 @@
+appId: com.grtc.app
+productName: "GRTC - Global Region & Time Controller"
+directories:
+  output: dist
+win:
+  target:
+    - target: nsis
+      arch:
+        - x64
+  requestedExecutionLevel: asInvoker
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  license: LICENSE.txt
+extraResources:
+  - from: data/
+    to: data/
+    filter:
+      - "**/*.json"
+files:
+  - "out/**/*"
+  - "!node_modules/**/*"
+npmRebuild: true

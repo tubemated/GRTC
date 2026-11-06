@@ -1,0 +1,860 @@
+﻿[
+    {
+        "windowsId":  "Dateline Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-12:00) International Date Line West",
+        "utcOffsetMinutes":  -720
+    },
+    {
+        "windowsId":  "UTC-11",
+        "ianaId":  "",
+        "displayName":  "(UTC-11:00) Co-ordinated Universal Time-11",
+        "utcOffsetMinutes":  -660
+    },
+    {
+        "windowsId":  "Aleutian Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-10:00) Aleutian Islands",
+        "utcOffsetMinutes":  -600
+    },
+    {
+        "windowsId":  "Hawaiian Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-10:00) Hawaii",
+        "utcOffsetMinutes":  -600
+    },
+    {
+        "windowsId":  "Marquesas Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-09:30) Marquesas Islands",
+        "utcOffsetMinutes":  -570
+    },
+    {
+        "windowsId":  "Alaskan Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-09:00) Alaska",
+        "utcOffsetMinutes":  -540
+    },
+    {
+        "windowsId":  "UTC-09",
+        "ianaId":  "",
+        "displayName":  "(UTC-09:00) Co-ordinated Universal Time-09",
+        "utcOffsetMinutes":  -540
+    },
+    {
+        "windowsId":  "British Columbia Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-07:00) Pacific Time (British Columbia)",
+        "utcOffsetMinutes":  -480
+    },
+    {
+        "windowsId":  "Pacific Standard Time (Mexico)",
+        "ianaId":  "",
+        "displayName":  "(UTC-08:00) Baja California",
+        "utcOffsetMinutes":  -480
+    },
+    {
+        "windowsId":  "UTC-08",
+        "ianaId":  "",
+        "displayName":  "(UTC-08:00) Co-ordinated Universal Time-08",
+        "utcOffsetMinutes":  -480
+    },
+    {
+        "windowsId":  "Pacific Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-08:00) Pacific Time (US \u0026 Canada)",
+        "utcOffsetMinutes":  -480
+    },
+    {
+        "windowsId":  "Alberta Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-06:00) Mountain Time (Alberta)",
+        "utcOffsetMinutes":  -420
+    },
+    {
+        "windowsId":  "US Mountain Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-07:00) Arizona",
+        "utcOffsetMinutes":  -420
+    },
+    {
+        "windowsId":  "Mountain Standard Time (Mexico)",
+        "ianaId":  "",
+        "displayName":  "(UTC-07:00) La Paz, Mazatlan",
+        "utcOffsetMinutes":  -420
+    },
+    {
+        "windowsId":  "Mountain Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-07:00) Mountain Time (US \u0026 Canada)",
+        "utcOffsetMinutes":  -420
+    },
+    {
+        "windowsId":  "Yukon Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-07:00) Yukon",
+        "utcOffsetMinutes":  -420
+    },
+    {
+        "windowsId":  "Central America Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-06:00) Central America",
+        "utcOffsetMinutes":  -360
+    },
+    {
+        "windowsId":  "Central Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-06:00) Central Time (US \u0026 Canada)",
+        "utcOffsetMinutes":  -360
+    },
+    {
+        "windowsId":  "Easter Island Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-06:00) Easter Island",
+        "utcOffsetMinutes":  -360
+    },
+    {
+        "windowsId":  "Central Standard Time (Mexico)",
+        "ianaId":  "",
+        "displayName":  "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+        "utcOffsetMinutes":  -360
+    },
+    {
+        "windowsId":  "Canada Central Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-06:00) Saskatchewan",
+        "utcOffsetMinutes":  -360
+    },
+    {
+        "windowsId":  "SA Pacific Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-05:00) Bogota, Lima, Quito, Rio Branco",
+        "utcOffsetMinutes":  -300
+    },
+    {
+        "windowsId":  "Eastern Standard Time (Mexico)",
+        "ianaId":  "",
+        "displayName":  "(UTC-05:00) Chetumal",
+        "utcOffsetMinutes":  -300
+    },
+    {
+        "windowsId":  "Eastern Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-05:00) Eastern Time (US \u0026 Canada)",
+        "utcOffsetMinutes":  -300
+    },
+    {
+        "windowsId":  "Haiti Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-05:00) Haiti",
+        "utcOffsetMinutes":  -300
+    },
+    {
+        "windowsId":  "Cuba Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-05:00) Havana",
+        "utcOffsetMinutes":  -300
+    },
+    {
+        "windowsId":  "US Eastern Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-05:00) Indiana (East)",
+        "utcOffsetMinutes":  -300
+    },
+    {
+        "windowsId":  "Turks And Caicos Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-05:00) Turks and Caicos",
+        "utcOffsetMinutes":  -300
+    },
+    {
+        "windowsId":  "Atlantic Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-04:00) Atlantic Time (Canada)",
+        "utcOffsetMinutes":  -240
+    },
+    {
+        "windowsId":  "Venezuela Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-04:00) Caracas",
+        "utcOffsetMinutes":  -240
+    },
+    {
+        "windowsId":  "Central Brazilian Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-04:00) Cuiaba",
+        "utcOffsetMinutes":  -240
+    },
+    {
+        "windowsId":  "SA Western Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+        "utcOffsetMinutes":  -240
+    },
+    {
+        "windowsId":  "Pacific SA Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-04:00) Santiago",
+        "utcOffsetMinutes":  -240
+    },
+    {
+        "windowsId":  "Newfoundland Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-03:30) Newfoundland",
+        "utcOffsetMinutes":  -210
+    },
+    {
+        "windowsId":  "Tocantins Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-03:00) Araguaina",
+        "utcOffsetMinutes":  -180
+    },
+    {
+        "windowsId":  "Paraguay Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-03:00) Asuncion",
+        "utcOffsetMinutes":  -180
+    },
+    {
+        "windowsId":  "E. South America Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-03:00) Brasilia",
+        "utcOffsetMinutes":  -180
+    },
+    {
+        "windowsId":  "SA Eastern Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-03:00) Cayenne, Fortaleza",
+        "utcOffsetMinutes":  -180
+    },
+    {
+        "windowsId":  "Argentina Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-03:00) City of Buenos Aires",
+        "utcOffsetMinutes":  -180
+    },
+    {
+        "windowsId":  "Montevideo Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-03:00) Montevideo",
+        "utcOffsetMinutes":  -180
+    },
+    {
+        "windowsId":  "Magallanes Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-03:00) Punta Arenas",
+        "utcOffsetMinutes":  -180
+    },
+    {
+        "windowsId":  "Saint Pierre Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-03:00) Saint Pierre and Miquelon",
+        "utcOffsetMinutes":  -180
+    },
+    {
+        "windowsId":  "Bahia Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-03:00) Salvador",
+        "utcOffsetMinutes":  -180
+    },
+    {
+        "windowsId":  "UTC-02",
+        "ianaId":  "",
+        "displayName":  "(UTC-02:00) Co-ordinated Universal Time-02",
+        "utcOffsetMinutes":  -120
+    },
+    {
+        "windowsId":  "Greenland Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-02:00) Greenland",
+        "utcOffsetMinutes":  -120
+    },
+    {
+        "windowsId":  "Mid-Atlantic Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-02:00) Mid-Atlantic - Old",
+        "utcOffsetMinutes":  -120
+    },
+    {
+        "windowsId":  "Azores Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-01:00) Azores",
+        "utcOffsetMinutes":  -60
+    },
+    {
+        "windowsId":  "Cape Verde Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC-01:00) Cabo Verde Is.",
+        "utcOffsetMinutes":  -60
+    },
+    {
+        "windowsId":  "UTC",
+        "ianaId":  "",
+        "displayName":  "(UTC) Co-ordinated Universal Time",
+        "utcOffsetMinutes":  0
+    },
+    {
+        "windowsId":  "Morocco Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+00:00) Casablanca",
+        "utcOffsetMinutes":  0
+    },
+    {
+        "windowsId":  "GMT Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+        "utcOffsetMinutes":  0
+    },
+    {
+        "windowsId":  "Greenwich Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+00:00) Monrovia, Reykjavik",
+        "utcOffsetMinutes":  0
+    },
+    {
+        "windowsId":  "Sao Tome Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+00:00) Sao Tome",
+        "utcOffsetMinutes":  0
+    },
+    {
+        "windowsId":  "W. Europe Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+        "utcOffsetMinutes":  60
+    },
+    {
+        "windowsId":  "Central Europe Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+        "utcOffsetMinutes":  60
+    },
+    {
+        "windowsId":  "Romance Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+        "utcOffsetMinutes":  60
+    },
+    {
+        "windowsId":  "Central European Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+        "utcOffsetMinutes":  60
+    },
+    {
+        "windowsId":  "W. Central Africa Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+01:00) West Central Africa",
+        "utcOffsetMinutes":  60
+    },
+    {
+        "windowsId":  "GTB Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+02:00) Athens, Bucharest",
+        "utcOffsetMinutes":  120
+    },
+    {
+        "windowsId":  "Middle East Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+02:00) Beirut",
+        "utcOffsetMinutes":  120
+    },
+    {
+        "windowsId":  "Egypt Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+02:00) Cairo",
+        "utcOffsetMinutes":  120
+    },
+    {
+        "windowsId":  "E. Europe Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+02:00) Chisinau",
+        "utcOffsetMinutes":  120
+    },
+    {
+        "windowsId":  "West Bank Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+02:00) Gaza, Hebron",
+        "utcOffsetMinutes":  120
+    },
+    {
+        "windowsId":  "South Africa Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+02:00) Harare, Pretoria",
+        "utcOffsetMinutes":  120
+    },
+    {
+        "windowsId":  "FLE Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+        "utcOffsetMinutes":  120
+    },
+    {
+        "windowsId":  "Israel Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+02:00) Jerusalem",
+        "utcOffsetMinutes":  120
+    },
+    {
+        "windowsId":  "South Sudan Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+02:00) Juba",
+        "utcOffsetMinutes":  120
+    },
+    {
+        "windowsId":  "Kaliningrad Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+02:00) Kaliningrad",
+        "utcOffsetMinutes":  120
+    },
+    {
+        "windowsId":  "Sudan Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+02:00) Khartoum",
+        "utcOffsetMinutes":  120
+    },
+    {
+        "windowsId":  "Libya Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+02:00) Tripoli",
+        "utcOffsetMinutes":  120
+    },
+    {
+        "windowsId":  "Namibia Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+02:00) Windhoek",
+        "utcOffsetMinutes":  120
+    },
+    {
+        "windowsId":  "Jordan Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+03:00) Amman",
+        "utcOffsetMinutes":  180
+    },
+    {
+        "windowsId":  "Arabic Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+03:00) Baghdad",
+        "utcOffsetMinutes":  180
+    },
+    {
+        "windowsId":  "Syria Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+03:00) Damascus",
+        "utcOffsetMinutes":  180
+    },
+    {
+        "windowsId":  "Turkey Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+03:00) Istanbul",
+        "utcOffsetMinutes":  180
+    },
+    {
+        "windowsId":  "Arab Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+03:00) Kuwait, Riyadh",
+        "utcOffsetMinutes":  180
+    },
+    {
+        "windowsId":  "Belarus Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+03:00) Minsk",
+        "utcOffsetMinutes":  180
+    },
+    {
+        "windowsId":  "Russian Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+03:00) Moscow, St Petersburg",
+        "utcOffsetMinutes":  180
+    },
+    {
+        "windowsId":  "E. Africa Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+03:00) Nairobi",
+        "utcOffsetMinutes":  180
+    },
+    {
+        "windowsId":  "Volgograd Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+03:00) Volgograd",
+        "utcOffsetMinutes":  180
+    },
+    {
+        "windowsId":  "Iran Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+03:30) Tehran",
+        "utcOffsetMinutes":  210
+    },
+    {
+        "windowsId":  "Arabian Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+04:00) Abu Dhabi, Muscat",
+        "utcOffsetMinutes":  240
+    },
+    {
+        "windowsId":  "Astrakhan Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+04:00) Astrakhan, Ulyanovsk",
+        "utcOffsetMinutes":  240
+    },
+    {
+        "windowsId":  "Azerbaijan Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+04:00) Baku",
+        "utcOffsetMinutes":  240
+    },
+    {
+        "windowsId":  "Russia Time Zone 3",
+        "ianaId":  "",
+        "displayName":  "(UTC+04:00) Izhevsk, Samara",
+        "utcOffsetMinutes":  240
+    },
+    {
+        "windowsId":  "Mauritius Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+04:00) Port Louis",
+        "utcOffsetMinutes":  240
+    },
+    {
+        "windowsId":  "Saratov Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+04:00) Saratov",
+        "utcOffsetMinutes":  240
+    },
+    {
+        "windowsId":  "Georgian Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+04:00) Tbilisi",
+        "utcOffsetMinutes":  240
+    },
+    {
+        "windowsId":  "Caucasus Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+04:00) Yerevan",
+        "utcOffsetMinutes":  240
+    },
+    {
+        "windowsId":  "Afghanistan Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+04:30) Kabul",
+        "utcOffsetMinutes":  270
+    },
+    {
+        "windowsId":  "West Asia Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+05:00) Ashgabat, Tashkent",
+        "utcOffsetMinutes":  300
+    },
+    {
+        "windowsId":  "Qyzylorda Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+05:00) Astana",
+        "utcOffsetMinutes":  300
+    },
+    {
+        "windowsId":  "Ekaterinburg Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+05:00) Ekaterinburg",
+        "utcOffsetMinutes":  300
+    },
+    {
+        "windowsId":  "Pakistan Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+05:00) Islamabad, Karachi",
+        "utcOffsetMinutes":  300
+    },
+    {
+        "windowsId":  "India Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+        "utcOffsetMinutes":  330
+    },
+    {
+        "windowsId":  "Sri Lanka Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+05:30) Sri Jayawardenepura",
+        "utcOffsetMinutes":  330
+    },
+    {
+        "windowsId":  "Nepal Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+05:45) Kathmandu",
+        "utcOffsetMinutes":  345
+    },
+    {
+        "windowsId":  "Central Asia Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+06:00) Bishkek",
+        "utcOffsetMinutes":  360
+    },
+    {
+        "windowsId":  "Bangladesh Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+06:00) Dhaka",
+        "utcOffsetMinutes":  360
+    },
+    {
+        "windowsId":  "Omsk Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+06:00) Omsk",
+        "utcOffsetMinutes":  360
+    },
+    {
+        "windowsId":  "Myanmar Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+06:30) Yangon (Rangoon)",
+        "utcOffsetMinutes":  390
+    },
+    {
+        "windowsId":  "SE Asia Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+        "utcOffsetMinutes":  420
+    },
+    {
+        "windowsId":  "Altai Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+07:00) Barnaul, Gorno-Altaysk",
+        "utcOffsetMinutes":  420
+    },
+    {
+        "windowsId":  "W. Mongolia Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+07:00) Hovd",
+        "utcOffsetMinutes":  420
+    },
+    {
+        "windowsId":  "North Asia Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+07:00) Krasnoyarsk",
+        "utcOffsetMinutes":  420
+    },
+    {
+        "windowsId":  "N. Central Asia Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+07:00) Novosibirsk",
+        "utcOffsetMinutes":  420
+    },
+    {
+        "windowsId":  "Tomsk Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+07:00) Tomsk",
+        "utcOffsetMinutes":  420
+    },
+    {
+        "windowsId":  "China Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+08:00) Beijing, Chongqing, Hong Kong SAR, Urumqi",
+        "utcOffsetMinutes":  480
+    },
+    {
+        "windowsId":  "North Asia East Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+08:00) Irkutsk",
+        "utcOffsetMinutes":  480
+    },
+    {
+        "windowsId":  "Singapore Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+08:00) Kuala Lumpur, Singapore",
+        "utcOffsetMinutes":  480
+    },
+    {
+        "windowsId":  "W. Australia Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+08:00) Perth",
+        "utcOffsetMinutes":  480
+    },
+    {
+        "windowsId":  "Taipei Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+08:00) Taipei",
+        "utcOffsetMinutes":  480
+    },
+    {
+        "windowsId":  "Ulaanbaatar Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+08:00) Ulaanbaatar",
+        "utcOffsetMinutes":  480
+    },
+    {
+        "windowsId":  "Aus Central W. Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+08:45) Eucla",
+        "utcOffsetMinutes":  525
+    },
+    {
+        "windowsId":  "Transbaikal Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+09:00) Chita",
+        "utcOffsetMinutes":  540
+    },
+    {
+        "windowsId":  "Tokyo Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+09:00) Osaka, Sapporo, Tokyo",
+        "utcOffsetMinutes":  540
+    },
+    {
+        "windowsId":  "North Korea Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+09:00) Pyongyang",
+        "utcOffsetMinutes":  540
+    },
+    {
+        "windowsId":  "Korea Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+09:00) Seoul",
+        "utcOffsetMinutes":  540
+    },
+    {
+        "windowsId":  "Yakutsk Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+09:00) Yakutsk",
+        "utcOffsetMinutes":  540
+    },
+    {
+        "windowsId":  "Cen. Australia Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+09:30) Adelaide",
+        "utcOffsetMinutes":  570
+    },
+    {
+        "windowsId":  "AUS Central Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+09:30) Darwin",
+        "utcOffsetMinutes":  570
+    },
+    {
+        "windowsId":  "E. Australia Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+10:00) Brisbane",
+        "utcOffsetMinutes":  600
+    },
+    {
+        "windowsId":  "AUS Eastern Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+10:00) Canberra, Melbourne, Sydney",
+        "utcOffsetMinutes":  600
+    },
+    {
+        "windowsId":  "West Pacific Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+10:00) Guam, Port Moresby",
+        "utcOffsetMinutes":  600
+    },
+    {
+        "windowsId":  "Tasmania Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+10:00) Hobart",
+        "utcOffsetMinutes":  600
+    },
+    {
+        "windowsId":  "Vladivostok Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+10:00) Vladivostok",
+        "utcOffsetMinutes":  600
+    },
+    {
+        "windowsId":  "Lord Howe Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+10:30) Lord Howe Island",
+        "utcOffsetMinutes":  630
+    },
+    {
+        "windowsId":  "Bougainville Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+11:00) Bougainville Island",
+        "utcOffsetMinutes":  660
+    },
+    {
+        "windowsId":  "Russia Time Zone 10",
+        "ianaId":  "",
+        "displayName":  "(UTC+11:00) Chokurdakh",
+        "utcOffsetMinutes":  660
+    },
+    {
+        "windowsId":  "Magadan Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+11:00) Magadan",
+        "utcOffsetMinutes":  660
+    },
+    {
+        "windowsId":  "Norfolk Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+11:00) Norfolk Island",
+        "utcOffsetMinutes":  660
+    },
+    {
+        "windowsId":  "Sakhalin Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+11:00) Sakhalin",
+        "utcOffsetMinutes":  660
+    },
+    {
+        "windowsId":  "Central Pacific Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+11:00) Solomon Is., New Caledonia",
+        "utcOffsetMinutes":  660
+    },
+    {
+        "windowsId":  "Russia Time Zone 11",
+        "ianaId":  "",
+        "displayName":  "(UTC+12:00) Anadyr, Petropavlovsk-Kamchatsky",
+        "utcOffsetMinutes":  720
+    },
+    {
+        "windowsId":  "New Zealand Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+12:00) Auckland, Wellington",
+        "utcOffsetMinutes":  720
+    },
+    {
+        "windowsId":  "UTC+12",
+        "ianaId":  "",
+        "displayName":  "(UTC+12:00) Co-ordinated Universal Time+12",
+        "utcOffsetMinutes":  720
+    },
+    {
+        "windowsId":  "Fiji Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+12:00) Fiji",
+        "utcOffsetMinutes":  720
+    },
+    {
+        "windowsId":  "Kamchatka Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+12:00) Petropavlovsk-Kamchatsky - Old",
+        "utcOffsetMinutes":  720
+    },
+    {
+        "windowsId":  "Chatham Islands Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+12:45) Chatham Islands",
+        "utcOffsetMinutes":  765
+    },
+    {
+        "windowsId":  "UTC+13",
+        "ianaId":  "",
+        "displayName":  "(UTC+13:00) Co-ordinated Universal Time+13",
+        "utcOffsetMinutes":  780
+    },
+    {
+        "windowsId":  "Tonga Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+13:00) Nuku\u0027alofa",
+        "utcOffsetMinutes":  780
+    },
+    {
+        "windowsId":  "Samoa Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+13:00) Samoa",
+        "utcOffsetMinutes":  780
+    },
+    {
+        "windowsId":  "Line Islands Standard Time",
+        "ianaId":  "",
+        "displayName":  "(UTC+14:00) Kiritimati Island",
+        "utcOffsetMinutes":  840
+    }
+]
