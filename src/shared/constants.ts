@@ -15,6 +15,7 @@ export const IPC = {
   COUNTRIES_SEARCH: 'countries:search',
   COUNTRIES_GET_BY_ID: 'countries:getById',
   COUNTRIES_GET_TIMEZONES: 'countries:getTimeZones',
+  TIMEZONES_LIST_ALL: 'timezones:listAll',
 
   // ── Profiles ────────────────────────────────────────────
   PROFILES_LIST: 'profiles:list',
@@ -38,6 +39,7 @@ export const IPC = {
 
   // ── Backup ──────────────────────────────────────────────
   BACKUP_LIST: 'backup:list',
+  BACKUP_CREATE: 'backup:create',
   BACKUP_RESTORE: 'backup:restore',
   BACKUP_DELETE: 'backup:delete',
 

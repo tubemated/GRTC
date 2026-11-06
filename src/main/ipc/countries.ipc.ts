@@ -4,7 +4,7 @@
 
 import { ipcMain } from 'electron';
 import { CHANNELS } from '../../shared/constants';
-import { searchCountries, getCountryById, getCountryTimeZones } from '../services/database';
+import { searchCountries, getCountryById, getCountryTimeZones, getAllTimeZones } from '../services/database';
 
 export function registerCountriesHandlers(): void {
   ipcMain.handle(CHANNELS.COUNTRIES_SEARCH, async (_event, query: string) => {
@@ -17,5 +17,9 @@ export function registerCountriesHandlers(): void {
 
   ipcMain.handle(CHANNELS.COUNTRIES_GET_TIMEZONES, async (_event, iso2: string) => {
     return getCountryTimeZones(iso2);
+  });
+
+  ipcMain.handle(CHANNELS.TIMEZONES_LIST_ALL, async () => {
+    return getAllTimeZones();
   });
 }

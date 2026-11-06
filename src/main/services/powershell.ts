@@ -3,6 +3,10 @@
 // ──────────────────────────────────────────────────────────
 
 import { spawn } from 'child_process';
+import { randomUUID } from 'crypto';
+import fs from 'fs';
+import os from 'os';
+import path from 'path';
 
 // ─── Error Types ─────────────────────────────────────────
 
@@ -146,49 +150,53 @@ export async function executeElevated(
   const timeoutMs = options.timeoutMs ?? DEFAULT_TIMEOUT_MS;
   const waitForExit = options.waitForExit ?? true;
 
-  // We encode the script as Base64 so it can be passed to the elevated
-  // process without quoting issues.
-  const encoded = Buffer.from(
-    // Wrap in try/catch so we always get output
-    `try { ${scriptBlock} } catch { $_ | ConvertTo-Json -Compress | Write-Error; exit 1 }`,
-    'utf16le',
-  ).toString('base64');
+  const quotePowerShell = (value: string): string => `'${value.replace(/'/g, "''")}'`;
+  if (!waitForExit) {
+    const encoded = Buffer.from(scriptBlock, 'utf16le').toString('base64');
+    const startScript = [
+      'Start-Process powershell.exe',
+      `-ArgumentList ${quotePowerShell(`-NoProfile -NonInteractive -ExecutionPolicy Bypass -EncodedCommand ${encoded}`)}`,
+      '-Verb RunAs -WindowStyle Hidden',
+      'Write-Output \'{"started":true}\'',
+    ].join(' ');
+    return execute(startScript, { timeoutMs });
+  }
 
-  // The outer wrapper launches an elevated PowerShell, redirects its
-  // stdout to a temp file so we can read it back.
-  const wrapper = waitForExit
-    ? [
-        '$outFile = [System.IO.Path]::GetTempFileName()',
-        '$errFile = [System.IO.Path]::GetTempFileName()',
-        '$psi = New-Object System.Diagnostics.ProcessStartInfo',
-        '$psi.FileName = "powershell.exe"',
-        `$psi.Arguments = "-NoProfile -NonInteractive -ExecutionPolicy Bypass -EncodedCommand ${encoded}"`,
-        '$psi.Verb = "RunAs"',
-        '$psi.UseShellExecute = $false',
-        '$psi.RedirectStandardOutput = $true',
-        '$psi.RedirectStandardError = $true',
-        '$psi.CreateNoWindow = $true',
-        '$proc = [System.Diagnostics.Process]::Start($psi)',
-        '$stdout = $proc.StandardOutput.ReadToEnd()',
-        '$stderr = $proc.StandardError.ReadToEnd()',
-        '$proc.WaitForExit()',
-        '[System.IO.File]::WriteAllText($outFile, $stdout)',
-        '[System.IO.File]::WriteAllText($errFile, $stderr)',
-        '$result = @{ exitCode = $proc.ExitCode; outFile = $outFile; errFile = $errFile }',
-        '$result | ConvertTo-Json -Compress',
-      ].join('; ')
-    : [
-        'Start-Process powershell.exe',
-        `  -ArgumentList "-NoProfile","-NonInteractive","-ExecutionPolicy","Bypass","-EncodedCommand","${encoded}"`,
-        '  -Verb RunAs',
-        '  -WindowStyle Hidden',
-        'Write-Output \'{"started":true}\'',
-      ].join(' ');
+  const outFile = path.join(os.tmpdir(), `grtc-${randomUUID()}.out`);
+  const errFile = path.join(os.tmpdir(), `grtc-${randomUUID()}.err`);
+  const childScript = `
+    $ErrorActionPreference = 'Stop'
+    try {
+      $output = & { ${scriptBlock} } 2>&1
+      [System.IO.File]::WriteAllText(${quotePowerShell(outFile)}, ($output | Out-String))
+    } catch {
+      [System.IO.File]::WriteAllText(${quotePowerShell(errFile)}, ($_ | Out-String))
+      exit 1
+    }
+  `;
+  const encoded = Buffer.from(childScript, 'utf16le').toString('base64');
+  const wrapper = [
+    '$psi = New-Object System.Diagnostics.ProcessStartInfo',
+    `$psi.FileName = ${quotePowerShell(PS_EXE)}`,
+    `$psi.Arguments = ${quotePowerShell(`-NoProfile -NonInteractive -ExecutionPolicy Bypass -EncodedCommand ${encoded}`)}`,
+    '$psi.Verb = "RunAs"',
+    '$psi.UseShellExecute = $true',
+    '$proc = [System.Diagnostics.Process]::Start($psi)',
+    '$proc.WaitForExit()',
+    `$result = @{ exitCode = $proc.ExitCode; outFile = ${quotePowerShell(outFile)}; errFile = ${quotePowerShell(errFile)} }`,
+    '$result | ConvertTo-Json -Compress',
+  ].join('; ');
 
-  // Run the outer (non-elevated) shell — it triggers UAC itself
-  const raw = await execute(wrapper, { timeoutMs });
-
-  if (!waitForExit) return raw;
+  let raw: string;
+  try {
+    raw = await execute(wrapper, { timeoutMs });
+  } catch (err) {
+    await Promise.all([
+      fs.promises.unlink(outFile).catch(() => undefined),
+      fs.promises.unlink(errFile).catch(() => undefined),
+    ]);
+    throw err;
+  }
 
   interface ElevatedResult {
     exitCode: number;
@@ -204,20 +212,24 @@ export async function executeElevated(
   }
 
   // Read and clean up temp files
-  const readAndDelete = `
-    $o = [System.IO.File]::ReadAllText('${result.outFile}');
-    $e = [System.IO.File]::ReadAllText('${result.errFile}');
-    Remove-Item '${result.outFile}' -Force -ErrorAction SilentlyContinue;
-    Remove-Item '${result.errFile}' -Force -ErrorAction SilentlyContinue;
-    @{ stdout = $o; stderr = $e } | ConvertTo-Json -Compress
-  `;
-
   interface TempOutput {
     stdout: string;
     stderr: string;
   }
 
-  const output = await executeJson<TempOutput>(readAndDelete, { timeoutMs: 5_000 });
+  let output: TempOutput;
+  try {
+    const [stdout, stderr] = await Promise.all([
+      fs.promises.readFile(result.outFile, 'utf8').catch(() => ''),
+      fs.promises.readFile(result.errFile, 'utf8').catch(() => ''),
+    ]);
+    output = { stdout, stderr };
+  } finally {
+    await Promise.all([
+      fs.promises.unlink(result.outFile).catch(() => undefined),
+      fs.promises.unlink(result.errFile).catch(() => undefined),
+    ]);
+  }
 
   if (result.exitCode !== 0) {
     throw new PowerShellError(

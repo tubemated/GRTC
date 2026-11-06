@@ -1,4 +1,5 @@
 $raw = Get-TimeZone -ListAvailable
+$dataDir = Join-Path (Split-Path -Parent $PSScriptRoot) 'data'
 $tzList = @()
 foreach ($tz in $raw) {
     $tzList += [PSCustomObject]@{
@@ -9,5 +10,5 @@ foreach ($tz in $raw) {
     }
 }
 $json = $tzList | ConvertTo-Json -Depth 3
-[System.IO.File]::WriteAllText('C:\Users\iqu33\.gemini\antigravity\scratch\grtc\data\timezones.json', $json, [System.Text.Encoding]::UTF8)
+[System.IO.File]::WriteAllText((Join-Path $dataDir 'timezones.json'), $json, [System.Text.Encoding]::UTF8)
 Write-Output "Wrote $($tzList.Count) timezones"

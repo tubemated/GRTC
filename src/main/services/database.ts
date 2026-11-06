@@ -271,6 +271,17 @@ export function getCountryTimeZones(iso2: string): TimeZone[] {
     .all(iso2) as TimeZone[];
 }
 
+export function getAllTimeZones(): TimeZone[] {
+  const d = getDb();
+  return d
+    .prepare(
+      `SELECT windows_id as windowsId, iana_id as ianaId, display_name as displayName, utc_offset_min as utcOffsetMinutes
+       FROM timezones
+       ORDER BY utc_offset_min, windows_id`,
+    )
+    .all() as TimeZone[];
+}
+
 // ─── Profile Queries ────────────────────────────────────
 
 function rowToProfile(row: Record<string, unknown>): Profile {

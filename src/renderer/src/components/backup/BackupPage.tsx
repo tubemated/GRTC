@@ -24,12 +24,7 @@ export default function BackupPage() {
     setLoading(true);
     setStatusMsg(null);
     try {
-      await window.grtcAPI.apply.preview({
-        name: 'Manual Backup Trigger',
-        description: '',
-        settings: { cultureId: null, geoId: null, timeZoneId: null, languageTags: null, dateTime: null, timeSyncEnabled: null },
-      });
-      // In production, we invoke backup creation directly
+      await window.grtcAPI.backup.create();
       await loadBackups();
       setStatusMsg({ text: 'Manual snapshot captured successfully!' });
     } catch (e: unknown) {
@@ -68,13 +63,21 @@ export default function BackupPage() {
 
   return (
     <div className="space-y-6 max-w-4xl mx-auto">
-      <div className="flex items-center justify-between">
+      <div className="flex items-center justify-between gap-4">
         <div>
           <h2 className="text-2xl font-bold tracking-tight">Configuration Backups & Rollback</h2>
           <p className="text-sm text-slate-500 dark:text-slate-400 mt-1">
             Every modifying operation automatically creates a snapshot in the local SQLite database.
           </p>
         </div>
+        <button
+          disabled={loading}
+          onClick={handleCreateManual}
+          className="shrink-0 px-3 py-2 bg-blue-600 hover:bg-blue-700 disabled:opacity-50 text-white text-xs font-semibold rounded-lg flex items-center gap-2"
+        >
+          <ShieldCheck size={14} />
+          <span>Create Snapshot</span>
+        </button>
       </div>
 
       {statusMsg && (

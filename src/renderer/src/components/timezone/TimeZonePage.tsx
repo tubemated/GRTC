@@ -16,12 +16,16 @@ export default function TimeZonePage() {
   }, []);
 
   const loadTimezones = async () => {
+    setLoading(true);
     try {
-      // In production, we query from database or default list
-      const usTzs = await window.grtcAPI.countries.getTimeZones('US');
-      setTimezones(usTzs || []);
-    } catch (e) {
-      console.error(e);
+      setTimezones(await window.grtcAPI.timezones.listAll());
+    } catch (e: unknown) {
+      setStatusMsg({
+        text: e instanceof Error ? e.message : 'Failed to load time zones',
+        error: true,
+      });
+    } finally {
+      setLoading(false);
     }
   };
 
@@ -42,25 +46,11 @@ export default function TimeZonePage() {
     }
   };
 
-  const commonTimezones = [
-    { id: 'Pacific Standard Time', label: 'Pacific Time (US & Canada)' },
-    { id: 'Mountain Standard Time', label: 'Mountain Time (US & Canada)' },
-    { id: 'Central Standard Time', label: 'Central Time (US & Canada)' },
-    { id: 'Eastern Standard Time', label: 'Eastern Time (US & Canada)' },
-    { id: 'GMT Standard Time', label: 'Greenwich Mean Time (London, Dublin)' },
-    { id: 'W. Europe Standard Time', label: 'Amsterdam, Berlin, Bern, Rome, Stockholm' },
-    { id: 'Romance Standard Time', label: 'Brussels, Copenhagen, Madrid, Paris' },
-    { id: 'Tokyo Standard Time', label: 'Tokyo, Osaka, Sapporo' },
-    { id: 'China Standard Time', label: 'Beijing, Chongqing, Hong Kong' },
-    { id: 'India Standard Time', label: 'Chennai, Kolkata, Mumbai, New Delhi' },
-    { id: 'AUS Eastern Standard Time', label: 'Canberra, Melbourne, Sydney' },
-    { id: 'UTC', label: 'Coordinated Universal Time' },
-  ];
-
-  const filtered = commonTimezones.filter(
+  const filtered = timezones.filter(
     (t) =>
-      t.id.toLowerCase().includes(search.toLowerCase()) ||
-      t.label.toLowerCase().includes(search.toLowerCase()),
+      t.windowsId.toLowerCase().includes(search.toLowerCase()) ||
+      t.displayName.toLowerCase().includes(search.toLowerCase()) ||
+      t.ianaId.toLowerCase().includes(search.toLowerCase()),
   );
 
   return (
@@ -114,25 +104,29 @@ export default function TimeZonePage() {
         </div>
 
         <div className="divide-y divide-slate-100 dark:divide-slate-800 max-h-96 overflow-y-auto">
-          {filtered.map((tz) => (
+          {loading && timezones.length === 0 ? (
+            <p className="py-6 text-center text-xs text-slate-400">Loading time zones...</p>
+          ) : filtered.length === 0 ? (
+            <p className="py-6 text-center text-xs text-slate-400">No matching time zones.</p>
+          ) : filtered.map((tz) => (
             <div
-              key={tz.id}
+              key={tz.windowsId}
               className="py-3 flex items-center justify-between text-xs hover:bg-slate-50 dark:hover:bg-slate-800/40 px-2 rounded-lg transition"
             >
               <div>
-                <div className="font-semibold text-slate-800 dark:text-slate-200">{tz.id}</div>
-                <div className="text-slate-400 text-[11px] mt-0.5">{tz.label}</div>
+                <div className="font-semibold text-slate-800 dark:text-slate-200">{tz.windowsId}</div>
+                <div className="text-slate-400 text-[11px] mt-0.5">{tz.displayName} · {tz.ianaId}</div>
               </div>
               <button
-                disabled={loading || currentTimeZone?.windowsId === tz.id}
-                onClick={() => handleSetTz(tz.id)}
+                disabled={loading || currentTimeZone?.windowsId === tz.windowsId}
+                onClick={() => handleSetTz(tz.windowsId)}
                 className={`px-3 py-1.5 rounded-lg text-xs font-semibold transition ${
-                  currentTimeZone?.windowsId === tz.id
+                  currentTimeZone?.windowsId === tz.windowsId
                     ? 'bg-slate-100 dark:bg-slate-800 text-slate-400 cursor-default'
                     : 'bg-blue-600 hover:bg-blue-700 text-white'
                 }`}
               >
-                {currentTimeZone?.windowsId === tz.id ? 'Active' : 'Apply'}
+                {currentTimeZone?.windowsId === tz.windowsId ? 'Active' : 'Apply'}
               </button>
             </div>
           ))}

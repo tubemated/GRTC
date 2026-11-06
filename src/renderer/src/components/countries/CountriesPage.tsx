@@ -44,17 +44,20 @@ export default function CountriesPage() {
     try {
       // 1. Set Home Location
       if (selectedCountry.geoId) {
-        await window.grtcAPI.apply.setHomeLocation(selectedCountry.geoId);
+        const result = await window.grtcAPI.apply.setHomeLocation(selectedCountry.geoId);
+        if (!result.success) throw new Error(result.error || 'Failed to set home location');
       }
 
       // 2. Set Default Culture if available
       if (selectedCountry.defaultCultureId) {
-        await window.grtcAPI.apply.setCulture(selectedCountry.defaultCultureId);
+        const result = await window.grtcAPI.apply.setCulture(selectedCountry.defaultCultureId);
+        if (!result.success) throw new Error(result.error || 'Failed to set regional format');
       }
 
       // 3. Set Primary Timezone if available
       if (selectedCountry.timeZones && selectedCountry.timeZones.length > 0) {
-        await window.grtcAPI.apply.setTimeZone(selectedCountry.timeZones[0].windowsId);
+        const result = await window.grtcAPI.apply.setTimeZone(selectedCountry.timeZones[0].windowsId);
+        if (!result.success) throw new Error(result.error || 'Failed to set time zone');
       }
 
       setMessage({ text: `Successfully configured Windows for ${selectedCountry.name}!` });

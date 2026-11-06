@@ -32,35 +32,31 @@ You can also run `grtc.cmd`, which launches the same PowerShell CLI.
 
 The CLI uses the Windows PowerShell commands included with Windows. It does not require Node.js.
 
-## Run the desktop application from source
+## Run on Windows
 
-### Requirements
+Use Windows 10 or 11. Install **Node.js 22.12 LTS or later** first; Git is needed if you clone the repository.
 
-- Windows 10 or Windows 11 (64-bit recommended)
-- Node.js 20 or later
-- npm (included with Node.js)
-
-### Install and run
+Open PowerShell in the folder where you want the project, then run:
 
 ```powershell
+git clone https://github.com/tubemated/GRTC.git
+cd GRTC
 npm ci
 npm run dev
 ```
 
-### Check and build
+If you downloaded the repository as a ZIP, extract it, open PowerShell in the extracted `GRTC` folder, and run `npm ci` followed by `npm run dev`.
+
+The app opens as a desktop window. Approve the Windows UAC prompt when you apply a setting that requires administrator permission. You do not need to launch PowerShell as administrator just to start the app.
+
+### Build an installer
 
 ```powershell
 npm run typecheck
-npm run build
+npm run build:win
 ```
 
-### Create a Windows installer
-
-```powershell
-npx electron-builder --win nsis
-```
-
-The installer output is written to the `dist/` directory. Run the build on Windows to produce and test a Windows installer. The repository does not currently include a prebuilt installer.
+The Windows installer is created in `dist/`. Build it on Windows, then install and test it before sharing it. This repository does not include a prebuilt installer.
 
 ## Permissions and security
 

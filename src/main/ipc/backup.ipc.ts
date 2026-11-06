@@ -4,11 +4,15 @@
 
 import { ipcMain } from 'electron';
 import { CHANNELS } from '../../shared/constants';
-import { listBackups, deleteBackup, restoreSnapshot } from '../services/backup';
+import { createSnapshot, listBackups, deleteBackup, restoreSnapshot } from '../services/backup';
 
 export function registerBackupHandlers(): void {
   ipcMain.handle(CHANNELS.BACKUP_LIST, async () => {
     return listBackups();
+  });
+
+  ipcMain.handle(CHANNELS.BACKUP_CREATE, async () => {
+    return createSnapshot('manual');
   });
 
   ipcMain.handle(CHANNELS.BACKUP_RESTORE, async (_event, id: string) => {

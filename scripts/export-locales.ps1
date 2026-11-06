@@ -64,6 +64,7 @@ $geoIdMap = @{
 }
 
 $countryTimezonesList = @()
+$dataDir = Join-Path (Split-Path -Parent $PSScriptRoot) 'data'
 
 foreach ($c in $cultures) {
     try {
@@ -118,8 +119,8 @@ foreach ($iso in $countryMap.Keys) {
     }
 }
 
-[System.IO.File]::WriteAllText('C:\Users\iqu33\.gemini\antigravity\scratch\grtc\data\countries.json', ($countriesList | ConvertTo-Json -Depth 3), [System.Text.Encoding]::UTF8)
-[System.IO.File]::WriteAllText('C:\Users\iqu33\.gemini\antigravity\scratch\grtc\data\locales.json', ($locales | ConvertTo-Json -Depth 3), [System.Text.Encoding]::UTF8)
-[System.IO.File]::WriteAllText('C:\Users\iqu33\.gemini\antigravity\scratch\grtc\data\country_timezones.json', ($countryTimezonesList | ConvertTo-Json -Depth 3), [System.Text.Encoding]::UTF8)
+[System.IO.File]::WriteAllText((Join-Path $dataDir 'countries.json'), ($countriesList | ConvertTo-Json -Depth 3), [System.Text.Encoding]::UTF8)
+[System.IO.File]::WriteAllText((Join-Path $dataDir 'locales.json'), ($locales | ConvertTo-Json -Depth 3), [System.Text.Encoding]::UTF8)
+[System.IO.File]::WriteAllText((Join-Path $dataDir 'country_timezones.json'), ($countryTimezonesList | ConvertTo-Json -Depth 3), [System.Text.Encoding]::UTF8)
 
 Write-Output "Wrote $($countriesList.Count) countries, $($locales.Count) locales, $($countryTimezonesList.Count) country-timezone mappings"

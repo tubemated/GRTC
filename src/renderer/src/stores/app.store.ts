@@ -27,6 +27,7 @@ interface AppState {
 
   // ── Actions ──────────────────────────────────────────────
   setTheme: (theme: ThemeMode) => void;
+  toggleTheme: () => void;
   toggleSidebar: () => void;
   setSidebarCollapsed: (collapsed: boolean) => void;
   setIsAdmin: (isAdmin: boolean) => void;
@@ -102,6 +103,10 @@ export const useAppStore = create<AppState>((set, get) => {
       set({ theme });
     },
 
+    toggleTheme: () => {
+      get().setTheme(get().theme === 'dark' ? 'light' : 'dark');
+    },
+
     toggleSidebar: () => {
       const collapsed = !get().sidebarCollapsed;
       localStorage.setItem('grtc-sidebar-collapsed', String(collapsed));
@@ -123,18 +128,18 @@ export const useAppStore = create<AppState>((set, get) => {
     refreshSystemInfo: async () => {
       set({ systemInfoLoading: true });
       try {
-        const [regionRes, tzRes, dtRes, adminRes] = await Promise.all([
-          window.grtcAPI.getCurrentRegion(),
-          window.grtcAPI.getCurrentTimeZone(),
-          window.grtcAPI.getCurrentDateTime(),
-          window.grtcAPI.isAdmin(),
+        const [currentRegion, currentTimeZone, currentDateTime, isAdmin] = await Promise.all([
+          window.grtcAPI.system.getCurrentRegion(),
+          window.grtcAPI.system.getCurrentTimeZone(),
+          window.grtcAPI.system.getCurrentDateTime(),
+          window.grtcAPI.system.isAdmin(),
         ]);
 
         set({
-          currentRegion: regionRes.success ? regionRes.data ?? null : null,
-          currentTimeZone: tzRes.success ? tzRes.data ?? null : null,
-          currentDateTime: dtRes.success ? dtRes.data ?? null : null,
-          isAdmin: adminRes.success ? adminRes.data ?? false : false,
+          currentRegion,
+          currentTimeZone,
+          currentDateTime,
+          isAdmin,
         });
       } catch (err) {
         console.error('Failed to refresh system info:', err);
@@ -145,10 +150,8 @@ export const useAppStore = create<AppState>((set, get) => {
 
     refreshDateTime: async () => {
       try {
-        const result = await window.grtcAPI.getCurrentDateTime();
-        if (result.success && result.data) {
-          set({ currentDateTime: result.data });
-        }
+        const currentDateTime = await window.grtcAPI.system.getCurrentDateTime();
+        set({ currentDateTime });
       } catch (err) {
         console.error('Failed to refresh date/time:', err);
       }
